@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "a969af2b5dbb33ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "2683232ca7f91e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92b9c3c36e46111",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b49b590cb970cfed",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0ac9ab4d4065b54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfac07912da8c6c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb3e3bcff7808b78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c5ff58a48a2f01ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e526f5fa7ddf954",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e2e3d725ce860a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13e138857f932b71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2bffe91a189c4ecd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "743b81454ea398b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e3d3b3f4e3b678f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f26e587b1dacf031",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "c92b9c3c36e46111",
+  "lastOpenFiles": [
+    "00-Meta/obsidian_graph.png",
+    "01-Problem-Statements/PS-26101.md",
+    "04-Technologies/NLP.md",
+    "01-Problem-Statements/PS-26043.md",
+    "05-Domains/Agriculture.md",
+    "07-Indexes/By-Category.md",
+    "07-Indexes/All-Problems-Master-Table.md",
+    "Templates/PS-Template.md",
+    "01-Problem-Statements/PS-26016.md",
+    "02-Themes/_Theme-Index.md",
+    "00-Meta/How-To-Use.md",
+    "00-Meta/About-This-Vault.md",
+    "02-Themes/Clean-Green-Technology.md",
+    "02-Themes/Blockchain-Cybersecurity.md",
+    "02-Themes/Disaster-Management.md",
+    "02-Themes/Agriculture,-FoodTech-Rural-Development.md",
+    "02-Themes/Smart-Resource-Conservation.md",
+    "02-Themes/Toys-Games.md",
+    "02-Themes/Robotics-and-Drones.md",
+    "02-Themes/Miscellaneous.md",
+    "02-Themes/MedTech-BioTech-HealthTech.md",
+    "03-Organizations/Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md",
+    "01-Problem-Statements/PS-26109.md",
+    "03-Organizations/Ministry-of-Development-of-North-Eastern-Region-(MDoNER).md",
+    "03-Organizations/Qualcomm-Inc.md",
+    "03-Organizations/Oil-India-Limited.md"
+  ]
+}

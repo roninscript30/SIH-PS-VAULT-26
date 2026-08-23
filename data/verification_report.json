@@ -1,0 +1,31 @@
+{
+  "verification_timestamp": "2026-08-21T18:18:33.517785",
+  "source_url": "https://www.sih.gov.in/sih2026PS",
+  "live_problem_count": 226,
+  "stored_problem_count": 226,
+  "counts_match": true,
+  "missing_from_json": [],
+  "extra_in_json": [],
+  "id_range": "26001-26226",
+  "perfect_field_matches": 154,
+  "field_mismatches": {
+    "ps_id": 0,
+    "title": 0,
+    "description": 72,
+    "organization": 0,
+    "department": 0,
+    "category": 0,
+    "theme": 0
+  },
+  "truncation_suspects": 0,
+  "html_artifacts": 0,
+  "encoding_issues": 0,
+  "empty_descriptions": 0,
+  "duplicate_titles": 0,
+  "student_innovation_count": 34,
+  "total_issues": 1,
+  "verdict": "FAIL",
+  "issues": [
+    "Field 'description': 72 mismatches"
+  ]
+}
