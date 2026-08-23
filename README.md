@@ -20,19 +20,19 @@ This repository organizes all **226 official problem statements** of SIH 2026 in
 
 ## ⚖️ Problem Statement Analysis: Official Portal vs. SIH PS Vault
 
-| Analysis Dimension | 🌐 Official SIH Web Portal | ⚡ SIH PS Vault 2026 (This Repo) |
+| Analysis & Selection Dimension | 🌐 Official SIH Web Portal | ⚡ SIH PS Vault 2026 (This Repo) |
 | :--- | :--- | :--- |
-| **Reading Experience** | Isolated modal popups on fragile web pages | **Hyperlinked Knowledge Graph & Relational Markdown** |
-| **Cross-Ministry Analysis** | Manual scrolling across 226 separate listings | **Instant Cross-Catalog Synthesis (Themes, Orgs, Domains)** |
-| **AI / NLP Compatibility** | ❌ Fails (Requires scraping, fails on dynamic UI) | **✅ Native NLP Ready (Clean Markdown + JSON Ground Truth)** |
-| **Technical Extraction** | Raw unstructured text paragraphs | **Structured YAML Metadata (Tech Stack, Category, Ministry)** |
-| **Offline Research** | Impossible (Requires active internet & portal uptime) | **100% Offline-Ready & Version-Controlled** |
+| **Problem Discovery** | Click through 226 individual modal popups | **Instant Multi-Catalog Search & Skill-Based Filtering** |
+| **Selection & Shortlisting** | Manual note-taking without filtering tools | **AI-Powered Multi-Criteria Evaluation & Ranking** |
+| **Cross-Ministry Comparison** | Hard to compare requirements across ministries | **Instant Tech Stack & Domain Overlap Synthesis** |
+| **AI Agent Ingestion** | ❌ Fails (Requires scraping dynamic UI) | **✅ Direct AI Context Ingestion (Markdown + JSON)** |
+| **Offline Evaluation** | Impossible (Requires active portal connection) | **100% Offline-Ready & Version-Controlled** |
 
 ---
 
 ## 💎 How to Use with Obsidian (Knowledge Graph View)
 
-Visualize relationships across problem statements, nodal ministries, and technology domains in an interactive node network.
+Visually discover, explore, and select problem statements by mapping relationships across nodal ministries, themes, and technology stacks.
 
 ![Obsidian Knowledge Graph](00-Meta/obsidian_graph.png)
 
@@ -42,32 +42,32 @@ Visualize relationships across problem statements, nodal ministries, and technol
    git clone https://github.com/roninscript30/SIH-PS-VAULT-26.git
    ```
 2. **Open in Obsidian**: Launch Obsidian ➔ **"Open folder as vault"** ➔ Select `SIH-PS-VAULT-26`.
-3. **Launch Graph View**: Press `Ctrl+G` (or `Cmd+G` on macOS) to explore interactive connections.
+3. **Launch Graph View**: Press `Ctrl+G` (or `Cmd+G` on macOS) to visually navigate nodes and select target problem statements.
 
 ---
 
-## 🤖 Analyzing Problem Statements with AI Agents (NLP Prompts)
+## 🤖 Problem Statement Search, Discovery & Selection with AI Agents
 
-Instead of searching paths, use natural language NLP prompts to ask AI agents (**Claude Code**, **Codex**, **Antigravity**) to perform deep analysis, requirement extraction, architectural drafting, and technical feasibility scoring.
+Use natural language NLP prompts to ask AI agents (**Claude Code**, **Codex**, **Antigravity**) to search, evaluate, filter, and select the best hackathon problem statements for your team based on skill set, feasibility, and technical scope.
 
-### 1. 🤖 Claude Code (Natural Language Analysis & Architecture Prompt)
-> *"Analyze problem statement `PS-26001.md`. Extract its key operational constraints, target end-users, required sensor/data feeds, and offline sync requirements. Then generate a high-level system architecture, database schema, and tech stack recommendation."*
+### 1. 🤖 Skill-Based Problem Discovery (Claude Code)
+> *"Our team is skilled in Python, PyTorch, GIS mapping (Leaflet/Mapbox), and React. Scan all 226 problem statements in `01-Problem-Statements/` and recommend the top 3 Software problem statements that match our skill set, along with technical feasibility trade-offs for each."*
 
-### 2. ⚡ OpenAI Codex (Cross-Problem Trend & Tech Stack Analysis)
-> *"Perform an NLP analysis of `data/sih2026_problem_statements.json`. Identify all problem statements under 'Disaster Management', extract recurring technical requirements (such as GIS mapping, IoT sensors, or real-time alerts), and generate a comparative summary of required backend APIs."*
+### 2. ⚡ Strategic Shortlisting & Impact Filtering (OpenAI Codex / GPT)
+> *"Parse `data/sih2026_problem_statements.json` and shortlist all Software problems from Central Ministries (e.g., ISRO, MoES, DRDO, MDoNER) involving Computer Vision or NLP. Rank them by technical complexity, expected social impact, and clarity of deliverables."*
 
-### 3. 🌌 Antigravity (Deep Pair-Programming & Solution Generation)
-> *"Read `PS-26014.md` (Integrated GIS Land Governance) and synthesize a production solution. Create a React component structure, outline the REST API endpoints, and generate a step-by-step hackathon execution roadmap."*
+### 3. 🌌 Multi-Criteria Problem Selection (Antigravity)
+> *"Compare all problem statements in `02-Themes/Disaster-Management.md` against `02-Themes/Smart-Automation.md`. Select the single best problem statement for a 36-hour hackathon, explaining why it wins in innovation hook, data availability, and prototype feasibility."*
 
 ---
 
-## 💡 Prompt Harness Efficiency & Knowledge Base Strategy
+## 💡 Smart Selection & Prompt Harness Strategy
 
-Maximize AI agent intelligence and token efficiency using pre-structured knowledge:
+Harness AI agents as decision-support engines to pick the winning problem statement:
 
-- **NLP Requirement Extraction**: Prompt LLMs to extract core problem hooks, deliverables, and evaluation criteria directly from frontmatter tags.
-- **Context-Stuffed Reasoning**: Provide agents with clean `.md` files or `data/sih2026_problem_statements.json` to eliminate hallucinations and achieve 10x faster synthesis.
-- **Cross-Domain Ideation**: Combine technology nodes (e.g. `04-Technologies/AI-and-ML.md`) with domain nodes (e.g. `05-Domains/Agriculture.md`) to generate unique hackathon solution proposals.
+- **Team-Skill Alignment**: Match your team's core competencies (Web, AI/ML, Hardware, Mobile) against frontmatter technology tags to avoid choosing out-of-scope problems.
+- **Eliminate Risk Candidates**: Prompt AI agents to screen for problem statements that require unavailable proprietary datasets or complex hardware dependencies.
+- **Cross-Domain Shortlisting**: Combine technology indices (e.g. `04-Technologies/GIS-and-Geospatial.md`) with domain indices (e.g. `05-Domains/Disaster-Response.md`) to find high-impact, low-competition challenges.
 
 ---
 
@@ -89,7 +89,7 @@ Maximize AI agent intelligence and token efficiency using pre-structured knowled
 
 ```
 SIH-PS-VAULT-26/
-├── README.md                      # Vault overview, comparison, Obsidian & AI Agent NLP guide
+├── README.md                      # Vault overview, selection guide, Obsidian & AI Agent NLP guide
 ├── HOME.md                        # Obsidian Vault dashboard landing page
 ├── 00-Meta/
 │   ├── About-This-Vault.md        # Data extraction methodology & lineage
