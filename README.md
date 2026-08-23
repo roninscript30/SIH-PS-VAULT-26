@@ -18,75 +18,56 @@ This repository organizes all **226 official problem statements** of SIH 2026 in
 
 ---
 
-## ⚖️ Why Use This Vault Instead of Official Web UI?
+## ⚖️ Problem Statement Analysis: Official Portal vs. SIH PS Vault
 
-| Feature | 🌐 Official Web Portal | ⚡ SIH PS Vault 2026 |
-| :--- | :---: | :---: |
-| **Availability** | Online-only (Prone to downtime & slow modal popups) | **100% Offline, Lightning Fast** |
-| **Exploration** | Linear paginated list | **Obsidian Knowledge Graph & Relational Links** |
-| **Filtering** | Limited keyword search | **Filter by Tech Stack, Domain, Category & Org** |
-| **AI Agent Ingestion** | ❌ Fails (Scraping required) | **✅ Instant Context Injection (Markdown + JSON)** |
-| **Data Structure** | Raw HTML modal text | **Standardized YAML Frontmatter & JSON** |
+| Analysis Dimension | 🌐 Official SIH Web Portal | ⚡ SIH PS Vault 2026 (This Repo) |
+| :--- | :--- | :--- |
+| **Reading Experience** | Isolated modal popups on fragile web pages | **Hyperlinked Knowledge Graph & Relational Markdown** |
+| **Cross-Ministry Analysis** | Manual scrolling across 226 separate listings | **Instant Cross-Catalog Synthesis (Themes, Orgs, Domains)** |
+| **AI / NLP Compatibility** | ❌ Fails (Requires scraping, fails on dynamic UI) | **✅ Native NLP Ready (Clean Markdown + JSON Ground Truth)** |
+| **Technical Extraction** | Raw unstructured text paragraphs | **Structured YAML Metadata (Tech Stack, Category, Ministry)** |
+| **Offline Research** | Impossible (Requires active internet & portal uptime) | **100% Offline-Ready & Version-Controlled** |
 
 ---
 
 ## 💎 How to Use with Obsidian (Knowledge Graph View)
 
-Experience an interactive visual network connecting problem statements, themes, nodal organizations, and technologies.
+Visualize relationships across problem statements, nodal ministries, and technology domains in an interactive node network.
 
 ![Obsidian Knowledge Graph](00-Meta/obsidian_graph.png)
 
-### Setup Instructions
+### Quick Setup
 1. **Clone Repository**:
    ```bash
    git clone https://github.com/roninscript30/SIH-PS-VAULT-26.git
    ```
 2. **Open in Obsidian**: Launch Obsidian ➔ **"Open folder as vault"** ➔ Select `SIH-PS-VAULT-26`.
-3. **Launch Graph View**: Press `Ctrl+G` (or `Cmd+G` on macOS) to visualize interactive node connections across problem statements, ministries, and tech stacks.
+3. **Launch Graph View**: Press `Ctrl+G` (or `Cmd+G` on macOS) to explore interactive connections.
 
 ---
 
-## 🤖 How to Use with AI Agents (Claude Code, Codex, Antigravity)
+## 🤖 Analyzing Problem Statements with AI Agents (NLP Prompts)
 
-Using local Markdown files or JSON context instead of raw web text reduces prompt tokens by ~80% and eliminates web-scraping failures.
+Instead of searching paths, use natural language NLP prompts to ask AI agents (**Claude Code**, **Codex**, **Antigravity**) to perform deep analysis, requirement extraction, architectural drafting, and technical feasibility scoring.
 
-### 1. 🤖 Claude Code (CLI Agent)
-```bash
-# Query knowledge base directly for specific technology matches
-claude "Search 01-Problem-Statements/ for 'GIS-and-Geospatial' and return top 3 software feasibility scores."
+### 1. 🤖 Claude Code (Natural Language Analysis & Architecture Prompt)
+> *"Analyze problem statement `PS-26001.md`. Extract its key operational constraints, target end-users, required sensor/data feeds, and offline sync requirements. Then generate a high-level system architecture, database schema, and tech stack recommendation."*
 
-# Architectural breakdown prompt
-claude "Read 01-Problem-Statements/PS-26001.md and generate a system architecture & database schema."
-```
+### 2. ⚡ OpenAI Codex (Cross-Problem Trend & Tech Stack Analysis)
+> *"Perform an NLP analysis of `data/sih2026_problem_statements.json`. Identify all problem statements under 'Disaster Management', extract recurring technical requirements (such as GIS mapping, IoT sensors, or real-time alerts), and generate a comparative summary of required backend APIs."*
 
-### 2. ⚡ OpenAI Codex & Script Pipelines
-```python
-import json
-
-# Efficient Knowledge Base Querying
-with open('data/sih2026_problem_statements.json', 'r', encoding='utf-8') as f:
-    data = json.load(f)
-
-# Query problems matching specific requirements
-ai_disaster_problems = [
-    p for p in data['problems']
-    if p['category'] == 'Software' and p['theme'] == 'Disaster Management'
-]
-print(f"Found {len(ai_disaster_problems)} Disaster Management software problems.")
-```
-
-### 3. 🌌 Antigravity (Google DeepMind Agent)
-1. Open `SIH-PS-VAULT-26` workspace directory in Antigravity.
-2. Direct Query Prompt:
-   > *"Reference `06-Indexes/all_problems_index.md` and `04-Technologies/AI-and-ML.md`. Pick PS-26001 and create a full-stack web application prototype with Leaflet map rendering."*
+### 3. 🌌 Antigravity (Deep Pair-Programming & Solution Generation)
+> *"Read `PS-26014.md` (Integrated GIS Land Governance) and synthesize a production solution. Create a React component structure, outline the REST API endpoints, and generate a step-by-step hackathon execution roadmap."*
 
 ---
 
-## 💡 Prompt Harness Efficiency Strategy
+## 💡 Prompt Harness Efficiency & Knowledge Base Strategy
 
-To harness maximum agent efficiency when working with this vault:
-- **Reference exact relative paths**: Pass file paths (e.g. `01-Problem-Statements/PS-26042.md`) directly in prompts instead of copying long text blocks.
-- **Use Index Nodes for multi-problem queries**: Refer to `02-Themes/theme_index.md` or `04-Technologies/technology_index.md` for batch categorization tasks.
+Maximize AI agent intelligence and token efficiency using pre-structured knowledge:
+
+- **NLP Requirement Extraction**: Prompt LLMs to extract core problem hooks, deliverables, and evaluation criteria directly from frontmatter tags.
+- **Context-Stuffed Reasoning**: Provide agents with clean `.md` files or `data/sih2026_problem_statements.json` to eliminate hallucinations and achieve 10x faster synthesis.
+- **Cross-Domain Ideation**: Combine technology nodes (e.g. `04-Technologies/AI-and-ML.md`) with domain nodes (e.g. `05-Domains/Agriculture.md`) to generate unique hackathon solution proposals.
 
 ---
 
@@ -108,7 +89,7 @@ To harness maximum agent efficiency when working with this vault:
 
 ```
 SIH-PS-VAULT-26/
-├── README.md                      # Vault overview, comparison, Obsidian & AI Agent guide
+├── README.md                      # Vault overview, comparison, Obsidian & AI Agent NLP guide
 ├── HOME.md                        # Obsidian Vault dashboard landing page
 ├── 00-Meta/
 │   ├── About-This-Vault.md        # Data extraction methodology & lineage
