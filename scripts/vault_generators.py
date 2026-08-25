@@ -34,19 +34,22 @@ def generate_ps_file(ps, vault_root):
     aliases_yaml = '\n'.join(f'  - "{a}"' for a in alias_parts)
 
     fm = f"""---
+# Official SIH Metadata
 ps_id: "{ps_id}"
 title: "{title.replace('"', "'")}"
 organization: "{org.replace('"', "'")}"
 department: "{dept.replace('"', "'")}"
-organization_type: "{org_type}"
 category: "{cat}"
 theme: "{theme}"
+source_url: "{SOURCE_URL}"
+
+# Derived Metadata (Vault Enriched)
+organization_type: "{org_type}"
 technologies:
 {tech_yaml}
 domains:
 {domain_yaml}
 has_dataset: {str(has_dataset).lower()}
-source_url: "{SOURCE_URL}"
 aliases:
 {aliases_yaml}
 tags:

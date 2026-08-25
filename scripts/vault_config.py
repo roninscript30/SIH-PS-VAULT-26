@@ -4,6 +4,8 @@ import os
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 VAULT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, '..'))
 JSON_FILE = os.path.join(VAULT_ROOT, 'data', 'sih2026_problem_statements.json')
+RAW_HTML_FILE = os.path.join(VAULT_ROOT, 'data', 'sih2026_raw.html')
+VERIFICATION_REPORT_FILE = os.path.join(VAULT_ROOT, 'data', 'verification_report.json')
 SOURCE_URL = 'https://www.sih.gov.in/sih2026PS'
 
 DIRS = {

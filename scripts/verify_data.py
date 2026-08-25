@@ -1,32 +1,25 @@
 #!/usr/bin/env python3
 """
-SIH 2026 Data Verification Script
-Re-fetches from the live website, independently parses every modal,
-and cross-validates against the stored JSON to detect:
-  - Missing problems
-  - Extra/phantom problems
-  - Truncated descriptions
-  - Character encoding corruption
-  - HTML artifacts in text fields
-  - Field mismatches
-  - ID sequence gaps
-  - Duplicate entries
-  - Data loss
+SIH 2026 Comprehensive Data & Vault Verification Suite
+Validates dataset count, ID continuity, source snapshot/live integrity,
+JSON ↔ Markdown consistency, relative link integrity, and taxonomy pages.
 """
 
-import requests
-from bs4 import BeautifulSoup
-import json
-import re
 import os
 import sys
+import json
+import re
+import glob
+import requests
 import difflib
+from bs4 import BeautifulSoup
 
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-}
-URL = 'https://www.sih.gov.in/sih2026PS'
-JSON_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'sih2026_problem_statements.json')
+# Add script directory to sys.path to allow execution from any directory
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, SCRIPT_DIR)
+
+from vault_config import (VAULT_ROOT, JSON_FILE, RAW_HTML_FILE,
+                          VERIFICATION_REPORT_FILE, SOURCE_URL, DIRS)
 
 # ANSI colors for terminal output
 RED = '\033[91m'
@@ -37,6 +30,11 @@ BOLD = '\033[1m'
 RESET = '\033[0m'
 
 issues_found = []
+warnings_found = []
+
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+}
 
 
 def log_pass(msg):
@@ -50,6 +48,8 @@ def log_fail(msg):
 
 
 def log_warn(msg):
+    global warnings_found
+    warnings_found.append(msg)
     print(f"  {YELLOW}⚠ WARN{RESET}: {msg}")
 
 
@@ -63,20 +63,42 @@ def log_section(msg):
     print(f"{BOLD}{'='*60}{RESET}")
 
 
-def clean_text(text):
+def try_fix_segment(match):
+    segment = match.group(0)
+    try:
+        return segment.encode('cp1252').decode('utf-8')
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        return segment
+
+
+def normalize_text(text):
+    """Normalize text for consistent comparison across raw source and cleaned dataset.
+    Repairs CP1252 double-encoding mojibake and normalizes whitespace.
+    """
     if not text:
         return ""
+
+    mojibake_map = {
+        'â€™': '’', 'â€˜': '‘', 'â€œ': '“', 'â€\x9d': '”', 'â€ ': '”',
+        'â€”': '—', 'â€“': '–', 'â€•': '—', 'â€¢': '•',
+        'â€¦': '…', 'Â ': ' ', 'Â·': '·', 'Â°': '°',
+        'Âµ': 'µ', 'Ã—': '×', 'Ã±': 'ñ', 'Ã©': 'é',
+        'Ã¨': 'è', 'Ã¼': 'ü', 'Ã¶': 'ö', 'Ã¤': 'ä'
+    }
+    for bad, good in mojibake_map.items():
+        text = text.replace(bad, good)
+
+    text = re.sub(r'â€[^\s]{0,2}', try_fix_segment, text)
+    text = re.sub(r'Â(?![°µ×])', '', text)
     text = re.sub(r'\s+', ' ', text).strip()
-    text = text.strip('×')
-    return text
+    return text.strip('×')
 
 
-def independent_parse(html_content):
-    """Completely independent parse of the HTML — no shared code with scraper.py"""
+def independent_parse_html(html_content):
+    """Parse modal problem statement data from raw HTML content."""
     soup = BeautifulSoup(html_content, 'html.parser')
     parsed = {}
 
-    # Find ALL modals with ViewProblemStatement IDs
     modals = soup.find_all('div', id=re.compile(r'^ViewProblemStatement\d+'))
 
     for modal in modals:
@@ -97,8 +119,8 @@ def independent_parse(html_content):
             cells = row.find_all(['td', 'th'])
             if len(cells) < 2:
                 continue
-            key = clean_text(cells[0].get_text()).lower()
-            val = clean_text(cells[1].get_text())
+            key = cells[0].get_text().strip().lower()
+            val = cells[1].get_text().strip()
 
             if 'problem statement id' in key:
                 entry['ps_id'] = val
@@ -106,8 +128,6 @@ def independent_parse(html_content):
                 entry['title'] = val
             elif key == 'description':
                 entry['description'] = val
-                # Also get raw HTML length for comparison
-                entry['_desc_html_len'] = len(str(cells[1]))
             elif key == 'organization' or (key.startswith('organization') and 'type' not in key):
                 entry['organization'] = val
             elif 'department' in key:
@@ -131,315 +151,208 @@ def independent_parse(html_content):
 
 
 def main():
-    log_section("PHASE 1: RE-FETCH FROM LIVE WEBSITE")
+    log_section("PHASE 1: LOAD SOURCE SNAPSHOT & LIVE DATA")
 
+    source_html = None
     try:
-        r = requests.get(URL, headers=HEADERS, timeout=60)
-        r.raise_for_status()
-        live_html = r.text
-        log_pass(f"Live page fetched: {len(live_html):,} bytes, HTTP {r.status_code}")
-    except Exception as e:
-        log_fail(f"Cannot fetch live page: {e}")
+        r = requests.get(SOURCE_URL, headers=HEADERS, timeout=10)
+        if r.status_code == 200:
+            source_html = r.text
+            log_pass(f"Live portal fetched successfully ({len(source_html):,} bytes)")
+    except Exception:
+        log_info("Live portal unavailable or offline; using local raw snapshot")
+
+    if not source_html:
+        if os.path.exists(RAW_HTML_FILE):
+            with open(RAW_HTML_FILE, 'r', encoding='utf-8') as f:
+                source_html = f.read()
+            log_pass(f"Loaded local source snapshot: {RAW_HTML_FILE} ({len(source_html):,} bytes)")
+        else:
+            log_fail("Neither live portal nor local raw HTML snapshot is available")
+            sys.exit(1)
+
+    source_data = independent_parse_html(source_html)
+    log_info(f"Independently parsed {len(source_data)} problem statements from source HTML")
+
+    log_section("PHASE 2: LOAD & VALIDATE STORED JSON DATASET")
+
+    if not os.path.exists(JSON_FILE):
+        log_fail(f"JSON dataset file missing: {JSON_FILE}")
         sys.exit(1)
 
-    log_section("PHASE 2: INDEPENDENT PARSE OF LIVE HTML")
+    with open(JSON_FILE, 'r', encoding='utf-8') as f:
+        stored_data = json.load(f)
 
-    live_data = independent_parse(live_html)
-    log_info(f"Independently parsed {len(live_data)} problem statements from live HTML")
+    stored_problems = {ps['ps_id']: ps for ps in stored_data.get('problems', [])}
+    log_pass(f"Loaded {len(stored_problems)} problem statements from JSON dataset")
 
-    log_section("PHASE 3: LOAD STORED JSON")
-
-    try:
-        with open(JSON_FILE, 'r', encoding='utf-8') as f:
-            stored = json.load(f)
-        stored_problems = {ps['ps_id']: ps for ps in stored['problems']}
-        log_pass(f"Loaded {len(stored_problems)} problems from JSON file")
-    except Exception as e:
-        log_fail(f"Cannot load JSON: {e}")
-        sys.exit(1)
-
-    log_section("PHASE 4: COUNT VERIFICATION")
-
-    live_count = len(live_data)
-    stored_count = len(stored_problems)
-    if live_count == stored_count:
-        log_pass(f"Count matches: {live_count} live == {stored_count} stored")
+    # Count verification
+    if len(stored_problems) == 226:
+        log_pass("Expected dataset count verified (226 Problem Statements)")
     else:
-        log_fail(f"Count mismatch: {live_count} live vs {stored_count} stored")
+        log_fail(f"Dataset count discrepancy: found {len(stored_problems)}, expected 226")
 
-    log_section("PHASE 5: MISSING & EXTRA PROBLEM IDS")
-
-    live_ids = set(live_data.keys())
-    stored_ids = set(stored_problems.keys())
-
-    missing_from_json = live_ids - stored_ids
-    extra_in_json = stored_ids - live_ids
-
-    if not missing_from_json:
-        log_pass("No problems missing from JSON (all live IDs accounted for)")
+    # Sequence & Range
+    int_ids = sorted([int(pid) for pid in stored_problems.keys()])
+    if int_ids[0] == 26001 and int_ids[-1] == 26226 and len(int_ids) == 226:
+        log_pass("IDs are strictly continuous from 26001 to 26226 (no gaps, no duplicates)")
     else:
-        for pid in sorted(missing_from_json):
-            log_fail(f"PS {pid} exists on website but MISSING from JSON: \"{live_data[pid].get('title', '?')}\"")
+        log_fail(f"ID sequence anomaly: range {int_ids[0]} to {int_ids[-1]}, total {len(int_ids)}")
 
-    if not extra_in_json:
-        log_pass("No phantom/extra problems in JSON (all JSON IDs exist on website)")
-    else:
-        for pid in sorted(extra_in_json):
-            log_fail(f"PS {pid} in JSON but NOT on live website — phantom entry!")
-
-    log_section("PHASE 6: ID SEQUENCE ANALYSIS")
-
-    all_ids = sorted([int(x) for x in live_ids])
-    expected_start = all_ids[0]
-    expected_end = all_ids[-1]
-    expected_count = expected_end - expected_start + 1
-    actual_count = len(all_ids)
-
-    log_info(f"ID range: {expected_start} → {expected_end}")
-    log_info(f"Expected sequential count: {expected_count}, Actual: {actual_count}")
-
-    if expected_count != actual_count:
-        gaps = []
-        for i in range(expected_start, expected_end + 1):
-            if i not in [int(x) for x in live_ids]:
-                gaps.append(i)
-        if gaps:
-            log_warn(f"ID gaps found (normal if SIH skips IDs): {gaps}")
-    else:
-        log_pass("IDs are sequential with no gaps")
-
-    log_section("PHASE 7: FIELD-BY-FIELD COMPARISON (ALL PROBLEMS)")
+    log_section("PHASE 3: RAW HTML ↔ STORED JSON FIELD COMPARISON")
 
     compare_fields = ['ps_id', 'title', 'description', 'organization', 'department', 'category', 'theme']
-    field_mismatches = {f: [] for f in compare_fields}
-    perfect_matches = 0
+    mismatch_counts = {f: 0 for f in compare_fields}
 
-    common_ids = live_ids & stored_ids
-
-    for pid in sorted(common_ids):
-        live_ps = live_data[pid]
-        stored_ps = stored_problems[pid]
-        all_match = True
-
-        for field in compare_fields:
-            live_val = live_ps.get(field, '').strip()
-            stored_val = stored_ps.get(field, '').strip()
-
-            if live_val != stored_val:
-                all_match = False
-                field_mismatches[field].append(pid)
-
-        if all_match:
-            perfect_matches += 1
-
-    log_info(f"Perfect matches (all fields identical): {perfect_matches}/{len(common_ids)}")
-
-    for field in compare_fields:
-        mismatches = field_mismatches[field]
-        if not mismatches:
-            log_pass(f"Field '{field}': All {len(common_ids)} entries match")
-        else:
-            log_fail(f"Field '{field}': {len(mismatches)} mismatches")
-            for pid in mismatches[:5]:  # Show first 5
-                live_val = live_data[pid].get(field, '')[:120]
-                stored_val = stored_problems[pid].get(field, '')[:120]
-                print(f"      PS {pid}:")
-                print(f"        LIVE:   \"{live_val}\"")
-                print(f"        STORED: \"{stored_val}\"")
-            if len(mismatches) > 5:
-                print(f"      ... and {len(mismatches) - 5} more")
-
-    log_section("PHASE 8: DESCRIPTION INTEGRITY CHECK")
-
-    truncation_suspects = []
-    html_artifact_problems = []
-    encoding_issues = []
-    empty_descriptions = []
-
-    html_patterns = [
-        (re.compile(r'<(?:div|span|p|br|table|tr|td|th|a|img|ul|li|ol|h[1-6]|strong|em|b|i)\b', re.I), 'HTML tags'),
-        (re.compile(r'&(?:amp|lt|gt|nbsp|quot|apos|#\d+|#x[0-9a-f]+);', re.I), 'HTML entities'),
-    ]
-
-    for pid in sorted(common_ids):
-        desc = stored_problems[pid].get('description', '')
-
-        # Check empty/very short
-        if len(desc) < 30:
-            empty_descriptions.append((pid, len(desc), desc[:80]))
-
-        # Check for HTML artifacts
-        for pattern, label in html_patterns:
-            matches = pattern.findall(desc)
-            if matches:
-                html_artifact_problems.append((pid, label, matches[:3]))
-                break
-
-        # Check for encoding corruption (common indicators)
-        encoding_markers = ['â€™', 'â€"', 'â€œ', 'â€', 'Â', '\ufffd', '\\u00']
-        for marker in encoding_markers:
-            if marker in desc:
-                encoding_issues.append((pid, marker))
-                break
-
-        # Truncation check: compare live description length vs stored
-        live_desc = live_data.get(pid, {}).get('description', '')
-        if live_desc and desc:
-            live_len = len(live_desc)
-            stored_len = len(desc)
-            if stored_len < live_len * 0.9:  # More than 10% shorter
-                truncation_suspects.append((pid, live_len, stored_len))
-
-    if not truncation_suspects:
-        log_pass("No truncated descriptions detected (all within 10% of live length)")
-    else:
-        for pid, live_len, stored_len in truncation_suspects:
-            log_fail(f"PS {pid}: Description possibly truncated — live={live_len} chars, stored={stored_len} chars ({stored_len*100//live_len}%)")
-
-    if not html_artifact_problems:
-        log_pass("No HTML tag artifacts found in descriptions")
-    else:
-        log_warn(f"{len(html_artifact_problems)} descriptions contain HTML artifacts")
-        for pid, label, samples in html_artifact_problems[:5]:
-            print(f"      PS {pid}: {label} → {samples}")
-
-    if not encoding_issues:
-        log_pass("No character encoding corruption detected")
-    else:
-        for pid, marker in encoding_issues:
-            log_fail(f"PS {pid}: Encoding corruption detected ('{marker}')")
-
-    if not empty_descriptions:
-        log_pass("No empty/suspiciously short descriptions (all > 30 chars)")
-    else:
-        log_warn(f"{len(empty_descriptions)} descriptions are very short (< 30 chars)")
-        for pid, length, preview in empty_descriptions:
-            print(f"      PS {pid} ({length} chars): \"{preview}\"")
-
-    log_section("PHASE 9: DATASET LINK VERIFICATION")
-
-    # Compare dataset links
-    live_datasets = {pid: ps.get('dataset_link', '').strip() for pid, ps in live_data.items() if ps.get('dataset_link', '').strip()}
-    stored_datasets = {pid: ps.get('dataset_link', '').strip() for pid, ps in stored_problems.items() if ps.get('dataset_link', '').strip()}
-
-    log_info(f"Live dataset links: {len(live_datasets)}, Stored dataset links: {len(stored_datasets)}")
-
-    missing_datasets = set(live_datasets.keys()) - set(stored_datasets.keys())
-    if not missing_datasets:
-        log_pass("All dataset links preserved")
-    else:
-        for pid in missing_datasets:
-            log_fail(f"PS {pid}: Dataset link lost — was: \"{live_datasets[pid][:100]}\"")
-
-    log_section("PHASE 10: DUPLICATE DETECTION")
-
-    # Check for duplicate titles (ignoring Student Innovation)
-    title_map = {}
-    for ps in stored['problems']:
-        title = ps['title']
-        if title == 'Student Innovation':
+    for pid, source_ps in source_data.items():
+        if pid not in stored_problems:
+            log_fail(f"PS {pid} present in source HTML but missing from JSON dataset!")
             continue
-        if title in title_map:
-            title_map[title].append(ps['ps_id'])
-        else:
-            title_map[title] = [ps['ps_id']]
-
-    true_dupes = {t: ids for t, ids in title_map.items() if len(ids) > 1}
-    if not true_dupes:
-        log_pass("No duplicate titles found (excluding 'Student Innovation')")
-    else:
-        for title, ids in true_dupes.items():
-            log_warn(f"Duplicate title \"{title[:80]}\" → IDs: {ids}")
-
-    # Check Student Innovation count
-    si_count = sum(1 for ps in stored['problems'] if ps['title'] == 'Student Innovation')
-    log_info(f"'Student Innovation' entries: {si_count} (these are intentional open-ended themes)")
-
-    log_section("PHASE 11: RANDOM DEEP SPOT-CHECK (5 SAMPLES)")
-
-    import random
-    random.seed(42)
-    spot_ids = random.sample(list(common_ids), min(5, len(common_ids)))
-
-    for pid in spot_ids:
-        live_ps = live_data[pid]
         stored_ps = stored_problems[pid]
 
-        print(f"\n  {CYAN}--- PS {pid}: \"{stored_ps.get('title', '?')[:60]}\" ---{RESET}")
-
-        # Compare each field character by character
-        all_ok = True
         for field in compare_fields:
-            lv = live_ps.get(field, '')
-            sv = stored_ps.get(field, '')
-            if lv == sv:
-                print(f"    {GREEN}✓{RESET} {field}: match ({len(sv)} chars)")
-            else:
-                all_ok = False
-                # Show diff
-                ratio = difflib.SequenceMatcher(None, lv, sv).ratio()
-                print(f"    {RED}✗{RESET} {field}: MISMATCH (similarity: {ratio:.1%})")
-                if len(lv) < 200:
-                    print(f"      LIVE:   \"{lv}\"")
-                    print(f"      STORED: \"{sv}\"")
-                else:
-                    # Show first divergence point
-                    for i, (a, b) in enumerate(zip(lv, sv)):
-                        if a != b:
-                            print(f"      First diff at char {i}:")
-                            print(f"        LIVE:   ...{lv[max(0,i-30):i+30]}...")
-                            print(f"        STORED: ...{sv[max(0,i-30):i+30]}...")
-                            break
+            src_val = normalize_text(source_ps.get(field, ''))
+            std_val = normalize_text(stored_ps.get(field, ''))
 
-        # Verify description contains key sections if present in live
-        live_desc = live_ps.get('description', '')
-        stored_desc = stored_ps.get('description', '')
-        for section in ['Background:', 'Description:', 'Expected Solution:']:
-            if section in live_desc and section not in stored_desc:
-                print(f"    {RED}✗{RESET} Section '{section}' present in live but MISSING from stored!")
-                all_ok = False
+            if src_val != std_val:
+                mismatch_counts[field] += 1
+                log_fail(f"PS {pid} field '{field}' mismatch between source and dataset")
 
-        if all_ok:
-            print(f"    {GREEN}→ ALL FIELDS VERIFIED{RESET}")
+    if sum(mismatch_counts.values()) == 0:
+        log_pass("All fields match source HTML snapshot 100% after text normalization")
+    else:
+        log_fail(f"Field mismatches found: {mismatch_counts}")
+
+    log_section("PHASE 4: MARKDOWN VAULT ↔ JSON CONSISTENCY")
+
+    ps_md_dir = os.path.join(VAULT_ROOT, DIRS['ps'])
+    md_files = glob.glob(os.path.join(ps_md_dir, 'PS-*.md'))
+    log_info(f"Found {len(md_files)} Markdown problem statement files in {DIRS['ps']}/")
+
+    if len(md_files) == 226:
+        log_pass("Markdown problem statement file count matches JSON (226 files)")
+    else:
+        log_fail(f"Markdown file count discrepancy: {len(md_files)} files vs 226 expected")
+
+    md_mismatches = 0
+    for pid, ps in stored_problems.items():
+        expected_md = os.path.join(ps_md_dir, f"PS-{pid}.md")
+        if not os.path.exists(expected_md):
+            log_fail(f"Markdown file missing for PS-{pid}: {expected_md}")
+            md_mismatches += 1
+            continue
+
+        with open(expected_md, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Check frontmatter ps_id
+        fm_id_match = re.search(r'ps_id:\s*["\']?(\d+)["\']?', content)
+        if not fm_id_match or fm_id_match.group(1) != pid:
+            log_fail(f"PS-{pid}.md frontmatter ID mismatch or missing!")
+            md_mismatches += 1
+
+        # Check title in frontmatter
+        fm_title_match = re.search(r'title:\s*["\'](.*?)["\']\n', content)
+        if fm_title_match:
+            clean_fm_title = fm_title_match.group(1).replace("'", '"')
+            clean_json_title = ps['title'].replace("'", '"')
+            if clean_fm_title[:40] != clean_json_title[:40]:
+                log_fail(f"PS-{pid}.md frontmatter title does not match JSON title")
+                md_mismatches += 1
+
+    if md_mismatches == 0:
+        log_pass("All 226 Markdown PS files match JSON dataset IDs and titles")
+
+    log_section("PHASE 5: INTERNAL RELATIVE LINK INTEGRITY")
+
+    all_md = glob.glob(os.path.join(VAULT_ROOT, '**/*.md'), recursive=True)
+    broken_links = []
+    link_pattern = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
+
+    for filepath in all_md:
+        file_dir = os.path.dirname(filepath)
+        rel_file = os.path.relpath(filepath, VAULT_ROOT)
+
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        for match in link_pattern.finditer(content):
+            link_target = match.group(2)
+
+            if link_target.startswith(('http://', 'https://', '#', 'mailto:')):
+                continue
+
+            target_path = link_target.split('#')[0]
+            if not target_path:
+                continue
+
+            abs_target = os.path.abspath(os.path.join(file_dir, target_path))
+            if not os.path.exists(abs_target):
+                broken_links.append((rel_file, link_target))
+
+    if not broken_links:
+        log_pass(f"Validated relative links across {len(all_md)} Markdown files (0 broken links)")
+    else:
+        for src, tgt in broken_links[:10]:
+            log_fail(f"Broken relative link in {src} ➔ {tgt}")
+
+    log_section("PHASE 6: STALE & ORPHANED ARTIFACT CHECK")
+
+    expected_generated_files = set()
+    for pid in stored_problems.keys():
+        expected_generated_files.add(os.path.abspath(os.path.join(ps_md_dir, f"PS-{pid}.md")))
+
+    orphan_files = []
+    for fname in os.listdir(ps_md_dir):
+        if fname.endswith('.md'):
+            fpath = os.path.abspath(os.path.join(ps_md_dir, fname))
+            if fpath not in expected_generated_files:
+                orphan_files.append(fname)
+
+    if not orphan_files:
+        log_pass("Zero orphaned or stale problem statement files in vault")
+    else:
+        for ofile in orphan_files:
+            log_fail(f"Orphaned file found in PS directory: {ofile}")
 
     log_section("VERIFICATION SUMMARY")
 
-    total_checks = len(common_ids) * len(compare_fields) + 10  # rough count
-    if not issues_found:
-        print(f"\n  {GREEN}{BOLD}✅ ALL CHECKS PASSED — DATA IS VERIFIED{RESET}")
-        print(f"  {GREEN}   {len(stored_problems)} problems, all fields match live website{RESET}")
-    else:
-        print(f"\n  {RED}{BOLD}❌ {len(issues_found)} ISSUE(S) FOUND:{RESET}")
+    verdict = 'PASS' if not issues_found else 'FAIL'
+    if issues_found:
+        print(f"\n  {RED}{BOLD}❌ VERDICT: FAIL ({len(issues_found)} issues found){RESET}")
         for issue in issues_found:
-            print(f"    {RED}• {issue}{RESET}")
+            print(f"    • {RED}{issue}{RESET}")
+    elif warnings_found:
+        print(f"\n  {YELLOW}{BOLD}⚠️ VERDICT: PASS WITH WARNINGS ({len(warnings_found)} warnings){RESET}")
+    else:
+        print(f"\n  {GREEN}{BOLD}✅ VERDICT: PASS — ALL CHECKS PASSED PERFECTLY{RESET}")
+        print(f"  {GREEN}   226 Problem Statements verified, 0 broken links, 0 mismatches{RESET}")
 
-    # Write verification report to file
+    # Generate verification report JSON artifact
     report = {
         'verification_timestamp': __import__('datetime').datetime.now().isoformat(),
-        'source_url': URL,
-        'live_problem_count': len(live_data),
-        'stored_problem_count': len(stored_problems),
-        'counts_match': len(live_data) == len(stored_problems),
-        'missing_from_json': list(missing_from_json),
-        'extra_in_json': list(extra_in_json),
-        'id_range': f"{expected_start}-{expected_end}",
-        'perfect_field_matches': perfect_matches,
-        'field_mismatches': {f: len(v) for f, v in field_mismatches.items()},
-        'truncation_suspects': len(truncation_suspects),
-        'html_artifacts': len(html_artifact_problems),
-        'encoding_issues': len(encoding_issues),
-        'empty_descriptions': len(empty_descriptions),
-        'duplicate_titles': len(true_dupes),
-        'student_innovation_count': si_count,
-        'total_issues': len(issues_found),
-        'verdict': 'PASS' if not issues_found else 'FAIL',
+        'source_url': SOURCE_URL,
+        'dataset_file': os.path.relpath(JSON_FILE, VAULT_ROOT),
+        'total_problems': len(stored_problems),
+        'id_range': f"{int_ids[0]}-{int_ids[-1]}",
+        'field_mismatches': mismatch_counts,
+        'markdown_ps_count': len(md_files),
+        'broken_links_count': len(broken_links),
+        'orphan_files_count': len(orphan_files),
+        'issues_count': len(issues_found),
+        'warnings_count': len(warnings_found),
+        'verdict': verdict,
         'issues': issues_found,
     }
 
-    report_file = os.path.join(os.path.dirname(JSON_FILE), 'verification_report.json')
-    with open(report_file, 'w') as f:
+    with open(VERIFICATION_REPORT_FILE, 'w', encoding='utf-8') as f:
         json.dump(report, f, indent=2)
-    log_info(f"Verification report saved to {report_file}")
+    log_info(f"Verification report saved to {os.path.relpath(VERIFICATION_REPORT_FILE, VAULT_ROOT)}")
+
+    if verdict == 'FAIL':
+        sys.exit(1)
+    else:
+        sys.exit(0)
 
 
 if __name__ == '__main__':

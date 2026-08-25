@@ -433,13 +433,71 @@ def _write(vault_root, subdir, filename, content):
 
 
 def cleanup_obsolete_directories(vault_root):
-    """Remove obsolete directories (06-Analysis, 07-Indexes, Templates)."""
+    """Remove obsolete legacy directories if they exist."""
     obsolete = ['06-Analysis', '07-Indexes', 'Templates']
     for folder in obsolete:
         p = os.path.join(vault_root, folder)
         if os.path.exists(p):
             print(f"Removing obsolete directory: {folder}")
             shutil.rmtree(p)
+
+
+def clean_stale_artifacts(problems, vault_root):
+    """Remove obsolete/orphaned generated files that no longer exist in current dataset."""
+    expected_files = set()
+
+    # Expected PS files
+    for ps in problems:
+        expected_files.add(os.path.join(vault_root, DIRS['ps'], f"PS-{ps['ps_id']}.md"))
+
+    # Expected Theme files
+    themes = set(p['theme'] for p in problems)
+    for t in themes:
+        expected_files.add(os.path.join(vault_root, DIRS['themes'], f"{sanitize_filename(t)}.md"))
+    expected_files.add(os.path.join(vault_root, DIRS['themes'], 'theme_index.md'))
+
+    # Expected Org files
+    orgs = set(p['organization'] for p in problems)
+    for o in orgs:
+        expected_files.add(os.path.join(vault_root, DIRS['orgs'], f"{sanitize_filename(o)}.md"))
+    expected_files.add(os.path.join(vault_root, DIRS['orgs'], 'organization_index.md'))
+
+    # Expected Tech files
+    all_techs = set(t for p in problems for t in p.get('_technologies', []))
+    for t in all_techs:
+        expected_files.add(os.path.join(vault_root, DIRS['tech'], f"{t}.md"))
+    expected_files.add(os.path.join(vault_root, DIRS['tech'], 'technology_index.md'))
+
+    # Expected Domain files
+    all_domains = set(d for p in problems for d in p.get('_domains', []))
+    for d in all_domains:
+        expected_files.add(os.path.join(vault_root, DIRS['domains'], f"{d}.md"))
+    expected_files.add(os.path.join(vault_root, DIRS['domains'], 'domain_index.md'))
+
+    # Expected Index files
+    expected_files.add(os.path.join(vault_root, DIRS['indexes'], 'all_problems_index.md'))
+    expected_files.add(os.path.join(vault_root, DIRS['indexes'], 'category_index.md'))
+
+    # Check generated directories for orphan files
+    gen_dirs = [DIRS['ps'], DIRS['themes'], DIRS['orgs'], DIRS['tech'], DIRS['domains'], DIRS['indexes']]
+    removed_count = 0
+    for gdir in gen_dirs:
+        dir_path = os.path.join(vault_root, gdir)
+        if not os.path.exists(dir_path):
+            continue
+        for fname in os.listdir(dir_path):
+            if fname.endswith('.md'):
+                fpath = os.path.join(dir_path, fname)
+                if fpath not in expected_files:
+                    print(f"Removing stale generated file: {os.path.relpath(fpath, vault_root)}")
+                    os.remove(fpath)
+                    removed_count += 1
+
+    if removed_count > 0:
+        print(f"  ✓ Cleaned {removed_count} stale/orphaned generated files")
+    else:
+        print("  ✓ No stale generated files found")
+
 
 
 def validate_relative_links(vault_root):
@@ -492,6 +550,9 @@ def main():
 
     cleanup_obsolete_directories(VAULT_ROOT)
     make_dirs()
+
+    print("Cleaning obsolete/orphaned generated artifacts...")
+    clean_stale_artifacts(problems, VAULT_ROOT)
 
     print("Generating 226 clean PS markdown files...")
     for ps in problems:
