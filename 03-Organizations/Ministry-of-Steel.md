@@ -14,7 +14,7 @@ tags:
 
 > **Type**: Government | **4 Problem Statements** (2 Software, 2 Hardware)
 
-**Departments**: SAIL, NMDC, MOIL Ltd.
+**Departments**: MOIL Ltd., SAIL, NMDC
 
 ## 📋 Problem Statements
 

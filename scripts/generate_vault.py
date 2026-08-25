@@ -77,10 +77,18 @@ Explore the vault using any of the hyperlinked catalogs below:
 SIH-PS-VAULT-26/
 ├── README.md                      # Public repository overview & quick navigation
 ├── HOME.md                        # Obsidian Vault dashboard landing page
+├── AGENTS.md                      # AI Agent entry point & instructions
 ├── 00-Meta/
-│   ├── about_vault.md             # Data source, extraction & verification methodology
-│   ├── vault_user_guide.md        # Detailed guide on searching and exploring the vault
+│   ├── DATA-MODEL.md              # Canonical Data Model & Field Ownership Table
+│   ├── PROVENANCE.md              # Provenance Levels & Conflict Resolution Protocol
+│   ├── TAXONOMY.md                # Official vs Derived Taxonomies Specification
+│   ├── GENERATION.md              # Build Pipeline & Path Classifications
+│   ├── VALIDATION.md              # Validation Contract & Verification Suite
+│   ├── About-This-Vault.md        # Data source, extraction & verification methodology
 │   └── ps_template.md             # Clean Problem Statement Markdown template
+├── docs/
+│   ├── AGENT-KNOWLEDGE-RULES.md   # AI Agent Knowledge Interpretation Rules
+│   └── ARCHITECTURE.md            # System Architecture & Layered Model
 ├── 01-Problem-Statements/         # 226 Problem Statement files (PS-26001.md to PS-26226.md)
 ├── 02-Themes/
 │   ├── theme_index.md             # Master Theme Catalog
@@ -98,7 +106,8 @@ SIH-PS-VAULT-26/
 │   ├── all_problems_index.md      # Master Table of all 226 Problem Statements
 │   └── category_index.md          # Software vs Hardware problem lists
 └── data/
-    └── sih2026_problem_statements.json  # Raw verified JSON dataset
+    ├── sih2026_problem_statements.json  # Ground-truth normalized JSON dataset
+    └── sih2026_raw.html                 # Raw HTML source snapshot
 ```
 
 ---

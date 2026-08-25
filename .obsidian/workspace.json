@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2683232ca7f91e7f",
+        "id": "871db02f6a3b8583",
         "type": "tabs",
         "children": [
           {
-            "id": "c92b9c3c36e46111",
+            "id": "f8a7c0cd28dccaae",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -181,8 +181,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c92b9c3c36e46111",
+  "active": "f8a7c0cd28dccaae",
   "lastOpenFiles": [
+    "00-Meta/Data-Provenance.md",
     "00-Meta/obsidian_graph.png",
     "01-Problem-Statements/PS-26101.md",
     "04-Technologies/NLP.md",
