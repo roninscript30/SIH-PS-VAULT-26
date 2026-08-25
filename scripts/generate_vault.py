@@ -16,8 +16,6 @@ def make_dirs():
     """Create directory structure."""
     for d in DIRS.values():
         os.makedirs(os.path.join(VAULT_ROOT, d), exist_ok=True)
-
-
 def gen_readme(problems, vault_root):
     """Generate root README.md for public GitHub repository presentation."""
     themes = Counter(p['theme'] for p in problems)
@@ -56,6 +54,69 @@ Every problem statement has been cleaned, structured, and cross-indexed by **The
 
 ---
 
+## ⚡ Why This Vault Exists: Comparative Evaluation
+
+Why use this Vault instead of searching the official SIH portal directly or asking an LLM with web search capabilities?
+
+The official SIH website (`sih.gov.in/sih2026PS`) relies on dynamic JavaScript HTML modals (`ViewProblemStatementXXXXX`) inside a single long table. Standard search engine crawlers frequently fail to index deep modal text, causing web LLMs to return truncated or incomplete results. Furthermore, the portal UI cannot perform multi-attribute filtering or compute technical similarity.
+
+### 🔍 Feature Comparison Matrix
+
+| Feature / Capability | Live SIH Web Portal | LLM + Direct Web Search | SIH PS Vault 2026 |
+| :--- | :---: | :---: | :---: |
+| **Complete Dataset Recall (226 PS)** | ⚠️ Manual Page Browsing | ❌ Truncated (Top 10-20 hits) | ✅ **100% Complete & Offline** |
+| **Multi-Attribute AND Querying**<br>*(e.g., Software + Healthcare + Dataset + Ministry)* | ❌ Impossible (Single dropdown only) | ❌ Fails / Hallucinates | ✅ **Instant JSON / Index Query** |
+| **Derived Technical Taxonomy**<br>*(AI/ML, Computer Vision, GIS, IoT, LiDAR)* | ❌ Not Provided | ⚠️ Unreliable Keyword Matching | ✅ **20 Precomputed Tech Tags** |
+| **Sector Domain Taxonomy**<br>*(Healthcare, Defence, Agriculture, Mining)* | ❌ Not Provided | ⚠️ Unreliable Keyword Matching | ✅ **17 Sector Domain Tags** |
+| **Precomputed Similarity Graph** | ❌ None | ❌ None | ✅ **Multi-Attribute Overlap Score** |
+| **Obsidian Graph Traversal** | ❌ None | ❌ None | ✅ **100% Relative Link Graph** |
+| **Air-Gapped / Offline Execution** | ❌ Requires Internet | ❌ Requires Internet | ✅ **100% Offline Autonomy** |
+| **Data Provenance & Auditability** | ❌ Overwritten on Live Updates | ❌ Non-reproducible | ✅ **5-Tier Provenance Contract** |
+
+---
+
+## 🕸️ Obsidian Knowledge Graph Visualization
+
+The vault is engineered specifically for graph traversal in **Obsidian**. Every problem statement, ministry, theme, technology stack, and sector domain is linked bi-directionally using 100% relative Markdown links.
+
+![Obsidian Knowledge Graph](00-Meta/obsidian_graph.png)
+
+> **Figure 1**: Visual representation of the interconnected SIH 2026 knowledge graph in Obsidian. Nodes represent problem statements, nodal ministries, themes, technology stacks, and domain classifications.
+
+---
+
+## 🤖 Launching & Prompting AI Coding Agents
+
+This repository is built agent-native. You can launch AI coding assistants (such as **Gemini Code Assist**, **Cursor**, **Claude Code**, or **AutoGPT**) directly on this codebase to analyze problem statements, generate architectural solutions, or shortlist candidate problems.
+
+### 📜 Agent Governance & Entry Point
+All AI agents operating on this repository must read and follow:
+1. **[`AGENTS.md`](AGENTS.md)** — Core instructions, fact vs inference classification rules, and non-destructive workflow rules.
+2. **[`docs/AGENT-KNOWLEDGE-RULES.md`](docs/AGENT-KNOWLEDGE-RULES.md)** — Knowledge hierarchy and evidence-based citation protocol.
+
+### 💡 Efficient Retrieval Best Practice for Agents
+> [!TIP]
+> **Token Optimization**: To avoid sequential scanning of all 226 Markdown files (which consumes ~248k tokens), instruct your agent to query **`data/sih2026_problem_statements.json`** or inspect catalog indices (`04-Technologies/`, `05-Domains/`) first!
+
+### 📝 Example Agent Prompts
+
+#### 1. Candidate Problem Shortlisting (Multi-Constraint)
+```text
+@AGENTS.md Scan data/sih2026_problem_statements.json and find all Software category problem statements in the Healthcare domain that require Computer Vision or AI/ML and have an official dataset link available. Present the results as a table with PS ID, Title, Organization, and Dataset Link.
+```
+
+#### 2. Solution Architecture & Feasibility Proposal
+```text
+@AGENTS.md Read the official problem statement record in 01-Problem-Statements/PS-26001.md. Evaluate its background, description, and expected deliverables. Produce a production-grade system architecture proposal, technology stack recommendation, and risk analysis. Explicitly separate FACT, DERIVED, INFERENCE, and RECOMMENDATION statements.
+```
+
+#### 3. Cross-Problem Comparative Analysis
+```text
+@AGENTS.md Compare PS 26001 and PS 26005 using their underlying records in 01-Problem-Statements/. Analyze overlaps in technology requirements, target sector domains, and nodal organizations, and evaluate whether a modular platform could solve both problems simultaneously.
+```
+
+---
+
 ## 🧭 Interactive Catalogs & Indexes
 
 Explore the vault using any of the hyperlinked catalogs below:
@@ -85,6 +146,7 @@ SIH-PS-VAULT-26/
 │   ├── GENERATION.md              # Build Pipeline & Path Classifications
 │   ├── VALIDATION.md              # Validation Contract & Verification Suite
 │   ├── About-This-Vault.md        # Data source, extraction & verification methodology
+│   ├── obsidian_graph.png         # Obsidian Knowledge Graph visual snapshot
 │   └── ps_template.md             # Clean Problem Statement Markdown template
 ├── docs/
 │   ├── AGENT-KNOWLEDGE-RULES.md   # AI Agent Knowledge Interpretation Rules
@@ -138,17 +200,17 @@ SIH-PS-VAULT-26/
   grep -l "category: \"Hardware\"" 01-Problem-Statements/*.md
   ```
 
-### Option 4: Programmatic Access (JSON)
-Access the structured dataset directly in Python:
-```python
-import json
+### Option 4: Launching AI Coding Agents & LLM Pair-Programming
+1. Open this repository workspace in your AI coding environment (**Cursor**, **Antigravity**, **Gemini Code Assist**, **Claude Code**, **Windsurf**, or **VS Code + LLM Extension**).
+2. Open your agent chat prompt window and ask questions, queries, or research prompts directly in natural language!
+3. The AI agent automatically reads the vault's governance rules ([`AGENTS.md`](AGENTS.md)) and structured dataset to fulfill your request.
 
-with open('data/sih2026_problem_statements.json') as f:
-    data = json.load(f)
+**Example Prompts to Type Directly to your AI Agent / LLM**:
+- 💬 *"Find me all Software problems in Disaster Management that involve Drones or Computer Vision and list their key deliverables."*
+- 💬 *"I am leading a team of 4 full-stack developers specializing in React, Node.js, and Python. Recommend the top 3 SIH problem statements that best match our skillset."*
+- 💬 *"Read PS-26001.md and generate a complete technical system architecture, database schema proposal, and tech stack recommendation for our submission."*
+- 💬 *"Compare PS-26012 and PS-26018 and analyze whether our team can build a single core solution that addresses both problem statements."*
 
-problems = data['problems']
-print(f"Total problems: {len(problems)}")
-```
 
 ---
 
@@ -159,6 +221,7 @@ print(f"Total problems: {len(problems)}")
 - For technical details on data extraction, see [about_vault.md](00-Meta/about_vault.md).
 
 ---
+
 *Maintained for SIH 2026 participants, mentors, and innovation researchers.*
 """
     fp = os.path.join(vault_root, 'README.md')
