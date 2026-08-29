@@ -20,12 +20,10 @@ tags:
 
 | PS ID | Title | Category | Theme |
 |-------|-------|----------|-------|
-| [PS-26023](../01-Problem-Statements/PS-26023.md) | AI-Powered Geological, Mining and other Reporting Solution for CM | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26023](../01-Problem-Statements/PS-26023.md) | AI-Powered Geological, Mining and other Reporting Solution for CM | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26024](../01-Problem-Statements/PS-26024.md) | AI-Based Smart Governance and Compliance Monitoring System for Co | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26025](../01-Problem-Statements/PS-26025.md) | Development of an AI-enabled Low Cost Real Time Mine Subsidence M | Hardware | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26025](../01-Problem-Statements/PS-26025.md) | Development of an AI-enabled Low Cost Real Time Mine Subsidence M | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 
 ## 🏷️ Theme Breakdown
 
-- [Miscellaneous](../02-Themes/Miscellaneous.md) — 1 problems
-- [Smart Automation](../02-Themes/Smart-Automation.md) — 1 problems
-- [Disaster Management](../02-Themes/Disaster-Management.md) — 1 problems
+- [Smart Automation](../02-Themes/Smart-Automation.md) — 3 problems

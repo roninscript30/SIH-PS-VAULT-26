@@ -1,9 +1,9 @@
 ---
 type: theme
 theme: "Heritage & Culture"
-problem_count: 7
-software_count: 3
-hardware_count: 4
+problem_count: 3
+software_count: 2
+hardware_count: 1
 tags:
   - sih2026
   - theme
@@ -12,31 +12,23 @@ tags:
 
 [← Theme Catalog Index](./theme_index.md)
 
-> **7 Problem Statements** (3 Software, 4 Hardware)
+> **3 Problem Statements** (2 Software, 1 Hardware)
 
 ## 📋 Problem Statements in Heritage & Culture
 
 | PS ID | Title | Organization | Category |
 |-------|-------|-------------|----------|
-| [PS-26032](../01-Problem-Statements/PS-26032.md) | Farmers often face long waiting times, lack of information regarding p | [Ministry of Consumer Affairs, Food ](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software |
-| [PS-26049](../01-Problem-Statements/PS-26049.md) | Modifications to improve the reliability, efficiency,and lifespan of e | [DRDO](../03-Organizations/DRDO.md) | Hardware |
-| [PS-26096](../01-Problem-Statements/PS-26096.md) | Digital Heritage Archive for Memorials, Manuscripts & Ambedkar: AI-Pow | [Ministry of Social Justice and Empo](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | Hardware |
-| [PS-26195](../01-Problem-Statements/PS-26195.md) | Student Innovation | [AICTE](../03-Organizations/AICTE.md) | Software |
-| [PS-26208](../01-Problem-Statements/PS-26208.md) | Student Innovation | [AICTE](../03-Organizations/AICTE.md) | Software |
-| [PS-26212](../01-Problem-Statements/PS-26212.md) | Student Innovation | [AICTE](../03-Organizations/AICTE.md) | Hardware |
-| [PS-26225](../01-Problem-Statements/PS-26225.md) | Student Innovation | [AICTE](../03-Organizations/AICTE.md) | Hardware |
+| [PS-26090](../01-Problem-Statements/PS-26090.md) | AI-Driven Market Linkage and Smart Cataloging Mobile Application for M | [Ministry of Social Justice and Empo](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | Software |
+| [PS-26197](../01-Problem-Statements/PS-26197.md) | Student Innovation-Ideas that showcase the rich cultural heritage and  | [AICTE](../03-Organizations/AICTE.md) | Software |
+| [PS-26214](../01-Problem-Statements/PS-26214.md) | Student Innovation-Ideas that showcase the rich cultural heritage and  | [AICTE](../03-Organizations/AICTE.md) | Hardware |
 
 ## 🔧 Top Technologies
 
-- [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 1 problems
-- [Robotics](../04-Technologies/Robotics.md) — 1 problems
 - [AI-and-ML](../04-Technologies/AI-and-ML.md) — 1 problems
-- [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 1 problems
+- [Mobile-Development](../04-Technologies/Mobile-Development.md) — 1 problems
 - [NLP](../04-Technologies/NLP.md) — 1 problems
 
 ## 🏢 Participating Organizations
 
-- [AICTE](../03-Organizations/AICTE.md) — 4 problems
-- [Ministry of Consumer Affairs, Food & Public Distribution](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) — 1 problems
-- [DRDO](../03-Organizations/DRDO.md) — 1 problems
+- [AICTE](../03-Organizations/AICTE.md) — 2 problems
 - [Ministry of Social Justice and Empowerment (MoSJE)](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) — 1 problems

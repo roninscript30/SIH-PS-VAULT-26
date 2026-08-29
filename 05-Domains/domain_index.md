@@ -6,15 +6,15 @@ type: index
 | Domain | Problem Count | Catalog Link |
 |--------|--------------:|--------------|
 | Weather and Climate | 56 | [Weather and Climate](./Weather-and-Climate.md) |
-| E Governance | 50 | [E Governance](./E-Governance.md) |
-| Disaster Response | 48 | [Disaster Response](./Disaster-Response.md) |
+| E Governance | 52 | [E Governance](./E-Governance.md) |
+| Disaster Response | 49 | [Disaster Response](./Disaster-Response.md) |
 | Agriculture | 40 | [Agriculture](./Agriculture.md) |
-| Healthcare | 36 | [Healthcare](./Healthcare.md) |
+| Education and Skilling | 37 | [Education and Skilling](./Education-and-Skilling.md) |
+| Healthcare | 37 | [Healthcare](./Healthcare.md) |
 | Transportation | 35 | [Transportation](./Transportation.md) |
-| Education and Skilling | 35 | [Education and Skilling](./Education-and-Skilling.md) |
 | Urban Development | 32 | [Urban Development](./Urban-Development.md) |
+| Space Exploration | 27 | [Space Exploration](./Space-Exploration.md) |
 | Law Enforcement | 27 | [Law Enforcement](./Law-Enforcement.md) |
-| Space Exploration | 26 | [Space Exploration](./Space-Exploration.md) |
 | Social Welfare | 18 | [Social Welfare](./Social-Welfare.md) |
 | Mining | 15 | [Mining](./Mining.md) |
 | Defence and Military | 15 | [Defence and Military](./Defence-and-Military.md) |

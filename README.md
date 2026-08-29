@@ -2,7 +2,7 @@
 
 [![SIH 2026](https://img.shields.io/badge/SIH-2026-orange.svg)](https://www.sih.gov.in/sih2026PS)
 [![Problem Statements](https://img.shields.io/badge/Problems-226-blue.svg)](06-Indexes/all_problems_index.md)
-[![Software](https://img.shields.io/badge/Software-172-green.svg)](06-Indexes/category_index.md)
+[![Software](https://img.shields.io/badge/Software-175-green.svg)](06-Indexes/category_index.md)
 [![Hardware](https://img.shields.io/badge/Hardware-54-red.svg)](06-Indexes/category_index.md)
 [![Themes](https://img.shields.io/badge/Themes-18-purple.svg)](02-Themes/theme_index.md)
 [![Organizations](https://img.shields.io/badge/Organizations-30-yellow.svg)](03-Organizations/organization_index.md)
@@ -17,13 +17,13 @@ Every problem statement has been cleaned, structured, and cross-indexed by **The
 
 | Metric | Count | Description |
 |--------|------:|-------------|
-| **Total Problem Statements** | **226** | Complete official release |
-| **Unique Ministry/Org Problems** | **192** | Targeted problem statements |
-| **Student Innovation Slots** | **34** | Open-ended AICTE innovation themes |
-| **Software Problems** | **172** | Web, Mobile, AI/ML, Cloud, GIS, Data platforms |
+| **Total Problem Statements** | **229** | Complete official release |
+| **Unique Ministry/Org Problems** | **229** | Targeted problem statements |
+| **Student Innovation Slots** | **0** | Open-ended AICTE innovation themes |
+| **Software Problems** | **175** | Web, Mobile, AI/ML, Cloud, GIS, Data platforms |
 | **Hardware Problems** | **54** | Embedded systems, Robotics, Drones, IoT, Sensors |
-| **Participating Themes** | **18** | Structured problem domains |
-| **Nodal Organizations** | **30** | Central Ministries, PSUs, Industry leaders |
+| **Participating Themes** | **17** | Structured problem domains |
+| **Nodal Organizations** | **32** | Central Ministries, PSUs, Industry leaders |
 
 ---
 

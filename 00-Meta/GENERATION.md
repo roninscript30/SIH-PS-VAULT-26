@@ -28,12 +28,12 @@ The **SIH PS Vault** build pipeline transforms normalized problem statement JSON
 │                          Vault Generation Renders                      │
 ├──────────────────┬───────────────────┬────────────────┬────────────────┤
 │ 01-Problem-Stmts │ 02-Themes & Orgs  │ 04-Tech & Dom  │ 06-Indexes &   │
-│   (226 PS notes) │   (Catalog hubs)  │ (Concept tags) │ README / HOME  │
+│   (229 PS notes) │   (Catalog hubs)  │ (Concept tags) │ README / HOME  │
 └──────────────────┴───────────────────┴────────────────┴────────────────┘
                    │
                    ▼ [verify_data.py]
 ┌──────────────────────────────────────┐
-│      100% Validation Verification    │ (0 broken links, 226 PS matched)
+│      100% Validation Verification    │ (0 broken links, 229 PS matched)
 └──────────────────────────────────────┘
 ```
 
@@ -47,11 +47,11 @@ To guarantee reproducibility and prevent source-of-truth conflicts, every file a
 | :--- | :--- | :---: | :--- |
 | `data/sih2026_raw.html` | **SOURCE** | ❌ No | Raw local source snapshot from live portal |
 | `data/sih2026_problem_statements.json` | **SOURCE (Canonical)** | ❌ No | Ground-truth normalized JSON dataset |
-| `01-Problem-Statements/*.md` | **GENERATED** | ❌ No | 226 individual problem statement notes |
-| `02-Themes/*.md` | **GENERATED** | ❌ No | 18 Theme catalog pages + `theme_index.md` |
-| `03-Organizations/*.md` | **GENERATED** | ❌ No | 30 Organization hub pages + `organization_index.md` |
+| `01-Problem-Statements/*.md` | **GENERATED** | ❌ No | 229 individual problem statement notes |
+| `02-Themes/*.md` | **GENERATED** | ❌ No | 17 Theme catalog pages + `theme_index.md` |
+| `03-Organizations/*.md` | **GENERATED** | ❌ No | 32 Organization hub pages + `organization_index.md` |
 | `04-Technologies/*.md` | **GENERATED** | ❌ No | 20 Technology catalog pages + `technology_index.md` |
-| `05-Domains/*.md` | **GENERATED** | ❌ No | 17 Domain classification pages + `domain_index.md` |
+| `05-Domains/*.md` | **GENERATED** | ❌ No | 16 Domain classification pages + `domain_index.md` |
 | `06-Indexes/*.md` | **GENERATED** | ❌ No | Master indices (`all_problems_index.md`, `category_index.md`) |
 | `00-Meta/*` | **MANUAL** | ✅ Yes | Architecture, provenance, taxonomy, and guide specs |
 | `docs/*` | **MANUAL** | ✅ Yes | System architecture, agent rules, and reports |

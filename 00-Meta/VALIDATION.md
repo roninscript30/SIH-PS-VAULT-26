@@ -38,12 +38,12 @@ Validation is structured into six comprehensive categories:
 ### 2.1 Structural Validation
 
 - **Checks**:
-  - Total Problem Statement count equals exactly 226.
-  - Problem Statement IDs are strictly continuous from `26001` to `26226` without gaps or duplicates.
-  - All 226 Markdown PS files exist in `01-Problem-Statements/`.
+  - Total Problem Statement count equals dataset total (229).
+  - Problem Statement IDs are strictly continuous from `26001` to `26229` without gaps or duplicates.
+  - All 229 Markdown PS files exist in `01-Problem-Statements/`.
 - **Verdict Rules**:
-  - **PASS**: Exactly 226 problems, IDs continuous `26001-26226`.
-  - **FAIL**: Count != 226, missing/duplicate ID, or ID sequence gap.
+  - **PASS**: Exactly 229 problems, IDs continuous `26001-26229`.
+  - **FAIL**: Count discrepancy, missing/duplicate ID, or ID sequence gap.
 
 ### 2.2 Schema Validation
 
@@ -102,8 +102,8 @@ Running `python3 scripts/verify_data.py` executes all 6 validation phases and pr
   "verification_timestamp": "2026-08-25T14:41:40",
   "source_url": "https://www.sih.gov.in/sih2026PS",
   "dataset_file": "data/sih2026_problem_statements.json",
-  "total_problems": 226,
-  "id_range": "26001-26226",
+  "total_problems": 229,
+  "id_range": "26001-26229",
   "field_mismatches": {
     "ps_id": 0,
     "title": 0,
@@ -113,7 +113,7 @@ Running `python3 scripts/verify_data.py` executes all 6 validation phases and pr
     "category": 0,
     "theme": 0
   },
-  "markdown_ps_count": 226,
+  "markdown_ps_count": 229,
   "broken_links_count": 0,
   "orphan_files_count": 0,
   "issues_count": 0,
@@ -128,7 +128,7 @@ Running `python3 scripts/verify_data.py` executes all 6 validation phases and pr
 
 | Check Type | Status | Tool |
 | :--- | :---: | :--- |
-| **226 PS Count & ID Range (26001-26226)** | **IMPLEMENTED** | `scripts/verify_data.py` |
+| **229 PS Count & ID Range (26001-26229)** | **IMPLEMENTED** | `scripts/verify_data.py` |
 | **Raw HTML ↔ JSON Field Comparison** | **IMPLEMENTED** | `scripts/verify_data.py` |
 | **JSON ↔ Markdown Frontmatter Match** | **IMPLEMENTED** | `scripts/verify_data.py` |
 | **Relative Markdown Link Scan** | **IMPLEMENTED** | `scripts/verify_data.py` |

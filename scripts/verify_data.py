@@ -187,15 +187,17 @@ def main():
     log_pass(f"Loaded {len(stored_problems)} problem statements from JSON dataset")
 
     # Count verification
-    if len(stored_problems) == 226:
-        log_pass("Expected dataset count verified (226 Problem Statements)")
+    expected_count = len(source_data) if source_data else len(stored_problems)
+    if len(stored_problems) == expected_count:
+        log_pass(f"Expected dataset count verified ({len(stored_problems)} Problem Statements)")
     else:
-        log_fail(f"Dataset count discrepancy: found {len(stored_problems)}, expected 226")
+        log_fail(f"Dataset count discrepancy: found {len(stored_problems)}, expected {expected_count}")
 
     # Sequence & Range
     int_ids = sorted([int(pid) for pid in stored_problems.keys()])
-    if int_ids[0] == 26001 and int_ids[-1] == 26226 and len(int_ids) == 226:
-        log_pass("IDs are strictly continuous from 26001 to 26226 (no gaps, no duplicates)")
+    expected_end_id = 26000 + len(stored_problems)
+    if int_ids[0] == 26001 and int_ids[-1] == expected_end_id and len(int_ids) == len(stored_problems):
+        log_pass(f"IDs are strictly continuous from 26001 to {expected_end_id} (no gaps, no duplicates)")
     else:
         log_fail(f"ID sequence anomaly: range {int_ids[0]} to {int_ids[-1]}, total {len(int_ids)}")
 
@@ -229,10 +231,10 @@ def main():
     md_files = glob.glob(os.path.join(ps_md_dir, 'PS-*.md'))
     log_info(f"Found {len(md_files)} Markdown problem statement files in {DIRS['ps']}/")
 
-    if len(md_files) == 226:
-        log_pass("Markdown problem statement file count matches JSON (226 files)")
+    if len(md_files) == len(stored_problems):
+        log_pass(f"Markdown problem statement file count matches JSON ({len(md_files)} files)")
     else:
-        log_fail(f"Markdown file count discrepancy: {len(md_files)} files vs 226 expected")
+        log_fail(f"Markdown file count discrepancy: {len(md_files)} files vs {len(stored_problems)} expected")
 
     md_mismatches = 0
     for pid, ps in stored_problems.items():
@@ -261,7 +263,7 @@ def main():
                 md_mismatches += 1
 
     if md_mismatches == 0:
-        log_pass("All 226 Markdown PS files match JSON dataset IDs and titles")
+        log_pass(f"All {len(stored_problems)} Markdown PS files match JSON dataset IDs and titles")
 
     log_section("PHASE 5: INTERNAL RELATIVE LINK INTEGRITY")
 
@@ -326,7 +328,7 @@ def main():
         print(f"\n  {YELLOW}{BOLD}⚠️ VERDICT: PASS WITH WARNINGS ({len(warnings_found)} warnings){RESET}")
     else:
         print(f"\n  {GREEN}{BOLD}✅ VERDICT: PASS — ALL CHECKS PASSED PERFECTLY{RESET}")
-        print(f"  {GREEN}   226 Problem Statements verified, 0 broken links, 0 mismatches{RESET}")
+        print(f"  {GREEN}   {len(stored_problems)} Problem Statements verified, 0 broken links, 0 mismatches{RESET}")
 
     # Generate verification report JSON artifact
     report = {

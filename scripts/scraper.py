@@ -12,7 +12,7 @@ import re
 import sys
 import os
 
-OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'data'))
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "sih2026_problem_statements.json")
 
 HEADERS = {
@@ -24,10 +24,28 @@ HEADERS = {
 URL = 'https://www.sih.gov.in/sih2026PS'
 
 
+def fix_mojibake(text):
+    """Repair CP1252 to UTF-8 double encoding artifacts."""
+    if not text:
+        return text
+    mojibake_map = {
+        'â€™': '’', 'â€˜': '‘', 'â€œ': '“', 'â€\x9d': '”', 'â€ ': '”',
+        'â€”': '—', 'â€“': '–', 'â€•': '—', 'â€¢': '•',
+        'â€¦': '…', 'Â ': ' ', 'Â·': '·', 'Â°': '°',
+        'Âµ': 'µ', 'Ã—': '×', 'Ã±': 'ñ', 'Ã©': 'é',
+        'Ã¨': 'è', 'Ã¼': 'ü', 'Ã¶': 'ö', 'Ã¤': 'ä'
+    }
+    for bad, good in mojibake_map.items():
+        text = text.replace(bad, good)
+    text = re.sub(r'Â(?![°µ×])', '', text)
+    return text
+
+
 def clean_text(text):
-    """Clean extracted text - normalize whitespace, strip."""
+    """Clean extracted text - normalize whitespace, strip, repair encoding."""
     if not text:
         return ""
+    text = fix_mojibake(text)
     text = re.sub(r'\s+', ' ', text).strip()
     # Remove leading/trailing special chars
     text = text.strip('×')  # Modal close button artifacts

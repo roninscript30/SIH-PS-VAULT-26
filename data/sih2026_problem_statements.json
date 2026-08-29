@@ -1,31 +1,30 @@
 {
   "metadata": {
     "source": "https://www.sih.gov.in/sih2026PS",
-    "scraped_at": "2026-08-21T18:10:29.586220",
-    "total_problems": 226,
+    "scraped_at": "2026-08-29T12:42:05.601329",
+    "total_problems": 229,
     "categories": {
-      "Software": 172,
+      "Software": 175,
       "Hardware": 54
     },
     "themes": {
-      "Disaster Management": 29,
-      "Smart Automation": 31,
-      "Space Technology": 11,
-      "Smart Vehicles": 4,
-      "Transportation & Logistics": 8,
-      "Robotics and Drones": 10,
-      "Miscellaneous": 38,
-      "Agriculture, FoodTech & Rural Development": 12,
-      "MedTech / BioTech / HealthTech": 14,
-      "Blockchain & Cybersecurity": 22,
-      "Fitness & Sports": 8,
-      "Heritage & Culture": 7,
-      "Clean & Green Technology": 2,
-      "Travel & Tourism": 6,
-      "Renewable / Sustainable Energy": 4,
-      "Smart Education": 13,
-      "Toys & Games": 2,
-      "Smart Resource Conservation": 5
+      "Disaster Management": 25,
+      "Transportation & Logistics": 7,
+      "MedTech / BioTech / HealthTech": 18,
+      "Agriculture, FoodTech & Rural Development": 22,
+      "Smart Automation": 55,
+      "Space Technology": 9,
+      "Blockchain & Cybersecurity": 31,
+      "Miscellaneous": 15,
+      "Smart Vehicles": 6,
+      "Clean & Green Technology": 7,
+      "Smart Education": 11,
+      "Robotics and Drones": 12,
+      "Heritage & Culture": 3,
+      "Fitness & Sports": 2,
+      "Renewable / Sustainable Energy": 2,
+      "Travel & Tourism": 2,
+      "Toys & Games": 2
     },
     "organizations": {
       "Ministry of Development of North Eastern Region (MDoNER)": 5,
@@ -57,11 +56,13 @@
       "Indian Space Research Organisation(ISRO)": 11,
       "Qualcomm Inc": 5,
       "Ministry of Home Affairs": 11,
-      "AICTE": 34
+      "AICTE": 34,
+      "Ministry of defence (MoD)": 2,
+      "Ministry of Mines (MoM)": 1
     },
     "card_titles_found": 0,
     "validation": {
-      "valid": 226,
+      "valid": 229,
       "with_issues": 0,
       "issues_detail": {}
     }
@@ -88,7 +89,7 @@
       "organization": "Ministry of Development of North Eastern Region (MDoNER)",
       "department": "Ministry of Development of North Eastern Region (MDoNER)",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Transportation & Logistics",
       "youtube_link": " "
     },
     {
@@ -100,7 +101,7 @@
       "organization": "Ministry of Development of North Eastern Region (MDoNER)",
       "department": "Ministry of Development of North Eastern Region (MDoNER)",
       "category": "Software",
-      "theme": "Space Technology",
+      "theme": "MedTech / BioTech / HealthTech",
       "youtube_link": " "
     },
     {
@@ -112,7 +113,7 @@
       "organization": "Ministry of Development of North Eastern Region (MDoNER)",
       "department": "Ministry of Development of North Eastern Region (MDoNER)",
       "category": "Hardware",
-      "theme": "Space Technology",
+      "theme": "MedTech / BioTech / HealthTech",
       "youtube_link": " "
     },
     {
@@ -124,7 +125,7 @@
       "organization": "Ministry of Development of North Eastern Region (MDoNER)",
       "department": "Ministry of Development of North Eastern Region (MDoNER)",
       "category": "Hardware",
-      "theme": "Smart Vehicles",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -172,7 +173,7 @@
       "organization": "Ministry of Steel",
       "department": "MOIL Ltd.",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Space Technology",
       "youtube_link": " "
     },
     {
@@ -184,7 +185,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Hardware",
-      "theme": "Smart Automation",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -196,7 +197,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Software",
-      "theme": "Space Technology",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -208,7 +209,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Software",
-      "theme": "Robotics and Drones",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -220,7 +221,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -232,7 +233,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Software",
-      "theme": "Robotics and Drones",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -244,7 +245,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -256,7 +257,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -268,7 +269,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Software",
-      "theme": "Agriculture, FoodTech & Rural Development",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -280,7 +281,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Software",
-      "theme": "MedTech / BioTech / HealthTech",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -292,7 +293,7 @@
       "organization": "Ministry of Rural Development",
       "department": "Dept of land resources (DoLR)",
       "category": "Software",
-      "theme": "Blockchain & Cybersecurity",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -304,7 +305,7 @@
       "organization": "Ministry of MSME",
       "department": "Coordination Section",
       "category": "Hardware",
-      "theme": "Blockchain & Cybersecurity",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -316,7 +317,7 @@
       "organization": "Ministry of MSME",
       "department": "Coordination Section",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -340,7 +341,7 @@
       "organization": "Ministry of Coal",
       "department": "Coal India Limited",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -364,7 +365,7 @@
       "organization": "Ministry of Coal",
       "department": "Coal India Limited",
       "category": "Hardware",
-      "theme": "Disaster Management",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -376,7 +377,7 @@
       "organization": "Ministry of Railways",
       "department": "Ministry of Railways",
       "category": "Hardware",
-      "theme": "Robotics and Drones",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
@@ -400,7 +401,7 @@
       "organization": "Ministry of Railways",
       "department": "Ministry of Railways",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -412,7 +413,7 @@
       "organization": "Ministry of Consumer Affairs, Food & Public Distribution",
       "department": "Department of Consumer Affairs (DoCA)",
       "category": "Hardware",
-      "theme": "Disaster Management",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -436,7 +437,7 @@
       "organization": "Ministry of Consumer Affairs, Food & Public Distribution",
       "department": "Department of Consumer Affairs (DoCA)",
       "category": "Software",
-      "theme": "Fitness & Sports",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -448,7 +449,7 @@
       "organization": "Ministry of Consumer Affairs, Food & Public Distribution",
       "department": "Department of Consumer Affairs (DoCA)",
       "category": "Software",
-      "theme": "Heritage & Culture",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -460,7 +461,7 @@
       "organization": "Ministry of Consumer Affairs, Food & Public Distribution",
       "department": "Department of Consumer Affairs (DoCA)",
       "category": "Software",
-      "theme": "MedTech / BioTech / HealthTech",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -472,7 +473,7 @@
       "organization": "Ministry of Consumer Affairs, Food & Public Distribution",
       "department": "Department of Consumer Affairs (DoCA)",
       "category": "Software",
-      "theme": "Agriculture, FoodTech & Rural Development",
+      "theme": "Miscellaneous",
       "youtube_link": " ",
       "dataset_link": "https://consumeraffairs.gov.in/pages/legal-metrology-act and the Legal Metrology (Packaged commodities) Rules, 2011"
     },
@@ -485,9 +486,9 @@
       "organization": "Ministry of Consumer Affairs, Food & Public Distribution",
       "department": "Department of Consumer Affairs (DoCA)",
       "category": "Software",
-      "theme": "Smart Vehicles",
+      "theme": "Miscellaneous",
       "youtube_link": " ",
-      "dataset_link": "https://consumeraffairs.gov.in/pages/legal-metrology-act and the Legal Metrology (General)<br><br> Rules, 2011"
+      "dataset_link": "https://consumeraffairs.gov.in/pages/legal-metrology-act and the Legal Metrology (General) Rules, 2011"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -498,7 +499,7 @@
       "organization": "Ministry of Consumer Affairs, Food & Public Distribution",
       "department": "Department of Consumer Affairs (DoCA)",
       "category": "Software",
-      "theme": "Transportation & Logistics",
+      "theme": "Miscellaneous",
       "youtube_link": " ",
       "dataset_link": "https://consumeraffairs.gov.in/pages/legal-metrology-act and the Legal Metrology (General) Rules,2011"
     },
@@ -511,9 +512,9 @@
       "organization": "MathWorks",
       "department": "MathWorks",
       "category": "Software",
-      "theme": "Robotics and Drones",
+      "theme": "Smart Vehicles",
       "youtube_link": " ",
-      "dataset_link": "Teams may use built-in sensor and scenario datasets available in MathWorks Automated Driving Toolbox, RoadRunner sample scenes, synthetic scenarios created by the team, and publicly available traffic datasets relevant to Indian road conditions.<br><br> &#8226; Indian Driving Dataset (IDD): https://idd.insaan.iiit.ac.in/<br> &#8226; Mendeley traffic data"
+      "dataset_link": "Teams may use built-in sensor and scenario datasets available in MathWorks Automated Driving Toolbox, RoadRunner sample scenes, synthetic scenarios created by the team, and publicly available traffic datasets relevant to Indian road conditions. -Indian Driving Dataset (IDD): https://idd.insaan.iiit.ac.in/ -Mendeley traffic dataset: https://data.mend"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -524,7 +525,7 @@
       "organization": "MathWorks",
       "department": "MathWorks",
       "category": "Software",
-      "theme": "Clean & Green Technology",
+      "theme": "MedTech / BioTech / HealthTech",
       "youtube_link": " ",
       "dataset_link": "APTOS 2019 Blindness Detection: https://www.kaggle.com/c/aptos2019- blindness-detection IDRiD (Indian Diabetic Retinopathy Image Dataset): https://ieeedataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid DRIVE (Vessel Extraction): https://drive.grand-challenge.org/ Messidor-2: https://www.adcis.net/en/third-party/messidor2/"
     },
@@ -537,7 +538,7 @@
       "organization": "Governmcnt of Jharkhand",
       "department": "Department of Higher & Technical Education",
       "category": "Hardware",
-      "theme": "Travel & Tourism",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -549,7 +550,7 @@
       "organization": "Governmcnt of Jharkhand",
       "department": "Department of Higher & Technical Education",
       "category": "Hardware",
-      "theme": "Renewable / Sustainable Energy",
+      "theme": "Clean & Green Technology",
       "youtube_link": " "
     },
     {
@@ -561,7 +562,7 @@
       "organization": "Governmcnt of Jharkhand",
       "department": "Department of Higher & Technical Education",
       "category": "Software",
-      "theme": "Blockchain & Cybersecurity",
+      "theme": "Smart Education",
       "youtube_link": " "
     },
     {
@@ -585,7 +586,7 @@
       "organization": "Governmcnt of Jharkhand",
       "department": "Department of Higher & Technical Education",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Smart Education",
       "youtube_link": " "
     },
     {
@@ -597,7 +598,7 @@
       "organization": "Ministry of Ayush",
       "department": "All India Institute of Ayurveda",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -609,22 +610,22 @@
       "organization": "Ministry of Ayush",
       "department": "All India Institute of Ayurveda",
       "category": "Software",
-      "theme": "Toys & Games",
+      "theme": "MedTech / BioTech / HealthTech",
       "youtube_link": " ",
-      "dataset_link": "<b>The corpus can be assembled from open, authoritative public sources; representative examples:</b><br><br> &#8226; Traditional Knowledge Digital Library (TKDL) â€” tkdl.res.in<br> &#8226; Statutes &amp; rules â€” India Code, indiacode.nic.in<br> &#8226; IP India public databases (patents/InPASS, trade marks, designs, GI Registry) â€” ipindia.gov.in<br"
+      "dataset_link": "The corpus can be assembled from open, authoritative public sources; representative examples: •Traditional Knowledge Digital Library (TKDL) — tkdl.res.in •Statutes & rules — India Code, indiacode.nic.in •IP India public databases (patents/InPASS, trade marks, designs, GI Registry) — ipindia.gov.in •National Biodiversity Authority / ABS — nbaindia.or"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26046",
       "ps_id": "26046",
-      "title": "AIIA Clinical Trials Dashboard - a real-time, cloud-based, GCP-compliant Clinical Trial Management System (CTMS) for Ayurveda research, with CDISC/FHIR-interoperable data, role-based KPIs, and integrated ethics, regulatory (CTRI / NDCT Rules 2019) and pharmacovigilance tracking.",
+      "title": "AIIA Clinical Trials Dashboard - a real-time, cloud-based, GCP-compliant Clinical Trial Management System (CTMS) for Ayurveda research, with CDISC/FHIR-interoperable data, role-based KPIs, and integrated ethics, regulatory (CTRI / NDCT Rules 2019) and pharma covigilance tracking.",
       "description": "Background: The All India Institute of Ayurveda (AIIA) conducts and coordinates a growing portfolio of clinical research in Ayurveda — interventional and observational studies, multi-centre trials — and, as the host of the National Pharmacovigilance Coordination Centre (NPvCC) for ASU&H drugs, it also anchors nationwide safety surveillance. This activity is governed by a demanding compliance framework: mandatory prospective registration in the Clinical Trials Registry – India (CTRI); the Good Clinical Practice guidelines for ASU medicine (GCP-ASU) and the ICMR National Ethical Guidelines; the New Drugs and Clinical Trials Rules, 2019 where applicable; Institutional Ethics Committee oversight; and timely Adverse-Event / Serious-Adverse-Event reporting. Yet study status, recruitment, milestones, data quality and safety signals are typically tracked across spreadsheets and disconnected tools, with no single, real-time, auditable view. The result is delayed decisions, missed reporting timelines and avoidable compliance risk — precisely as Ayurveda research scales and seeks global scientific credibility. Description: The platform is a real-time, cloud-based Clinical Trial Management System (CTMS) and monitoring dashboard that gives AIIA a single, role-based, auditable view of its entire clinical-research portfolio.It tracks each study across its lifecycle — protocol and Institutional Ethics Committee approval, CTRI registration, site activation, screening, enrolment and randomization against target, visit and protocol-deviation compliance, data-query and data-quality status, study milestones and timelines, and close-out — surfaced as real-time Key Performance Indicators (KPIs) with configurable alerts (for example, enrolment lag, an ethics approval or CTRI update due, or an overdue monitoring visit).Because AIIA hosts the NPvCC, the dashboard integrates pharmacovigilance: it captures and routes Adverse Drug Reaction / Adverse-Event / Serious-Adverse-Event reports against regulatory reporting timelines, coded to standard dictionaries (MedDRA, WHODrug), and feeds aggregate safety signals to the Data Safety Monitoring Board and institutional leadership.Data must follow recognised clinical-research standards — CDISC (CDASH for data collection, SDTM for tabulation, ADaM for analysis) and HL7 FHIR R4 for interoperability with Electronic Data Capture (EDC), the hospital information system and Ayushman Bharat Digital Mission (ABDM) building blocks — with full ALCOA+ data integrity and an immutable, time-stamped audit trail. Access is strictly role-based (Principal Investigator, study coordinator, monitor, Ethics Committee, pharmacovigilance, administration, and read-only regulator views).The platform must comply with GCP-ASU, the ICMR ethical guidelines, the NDCT Rules 2019 and CTRI requirements, and with the Digital Personal Data Protection Act, 2023 and its 2025 Rules — including informed-consent management, data minimisation, encryption, and hosting on compliant, data-resident cloud infrastructure secured to ISO/IEC 27001 and CERT-In norms, since clinical-trial data is sensitive personal data. Expected solution: A deployable, cloud-based CTMS-and-analytics dashboard providing: a real-time portfolio view with per-study drill-down; configurable KPIs and alerting; strictly role-based access and an immutable, ALCOA+-compliant audit trail; CDISC-aligned data models and HL7 FHIR R4 / ABDM interoperability with EDC and the hospital information system; an integrated pharmacovigilance module (AE/SAE capture, MedDRA/WHO Drug coding, regulatory-timeline tracking) reflecting AIIA’s NPvCC role; CTRI and ethics/regulatory milestone tracking; informed-consent and privacy controls aligned to the DPDP regime; electronic-signature and data-integrity controls consistent with GCP; and the ability to export submission-ready datasets (SDTM / ADaM, Define-XML). It should present tailored dashboards for Investigators, the Ethics Committee, pharmacovigilance and institutional leadership, and be hosted on secure, data-resident cloud infrastructure (ISO/IEC 27001, CERT-In). The build can be staged — a core study-tracking and KPI MVP first, then EDC/FHIR integration and the pharmacovigilance module, then full CDISC submission export and advanced analytics. The system should be evaluable on data accuracy and integrity, timeliness of safety and regulatory reporting, interoperability conformance, and access-control and audit completeness.",
       "organization": "Ministry of Ayush",
       "department": "All India Institute of Ayurveda",
       "category": "Software",
-      "theme": "Space Technology",
+      "theme": "MedTech / BioTech / HealthTech",
       "youtube_link": " ",
-      "dataset_link": "Clinical-trial data is sensitive personal data, so development should use synthetic / de-identified datasets; representative standards and public sources:<br><br> &#8226; Clinical Trials Registry â€“ India (public trial records) â€” ctri.nic.in<br> &#8226; CDISC standards &amp; controlled terminology (CDASH, SDTM, ADaM, Define-XML) â€” cdisc.org<br> &#8"
+      "dataset_link": "Clinical-trial data is sensitive personal data, so development should use synthetic / de-identified datasets; representative standards and public sources: •Clinical Trials Registry – India (public trial records) — ctri.nic.in •CDISC standards & controlled terminology (CDASH, SDTM, ADaM, Define-XML) — cdisc.org •HL7 FHIR R4 specification & ABDM buildi"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -635,7 +636,7 @@
       "organization": "Ministry of Ayush",
       "department": "All India Institute of Ayurveda",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "MedTech / BioTech / HealthTech",
       "youtube_link": " "
     },
     {
@@ -647,9 +648,9 @@
       "organization": "Ministry of Ayush",
       "department": "All India Institute of Ayurveda",
       "category": "Hardware",
-      "theme": "Fitness & Sports",
+      "theme": "MedTech / BioTech / HealthTech",
       "youtube_link": " ",
-      "dataset_link": "<b>Standards and references for the pod profiles and the extraction logic; representative sources:</b><br><br> &#8226; PCIM&amp;H AYUSH Kv?tha C?r?a formulary specifications (coarse-powder grade, water proportion, dose, reduction) â€” pcimh.gov.in<br> &#8226; Ayurvedic Pharmacopoeia of India (API) &amp; Ayurvedic Formulary of India (AFI) kwatha-churna m"
+      "dataset_link": "Standards and references for the pod profiles and the extraction logic; representative sources: •PCIM&H AYUSH Kvātha Cūrṇa formulary specifications (coarse-powder grade, water proportion, dose, reduction) — pcimh.gov.in •Ayurvedic Pharmacopoeia of India (API) & Ayurvedic Formulary of India (AFI) kwatha-churna monographs •Classical pharmaceutics refer"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -660,7 +661,7 @@
       "organization": "DRDO",
       "department": "Department of Defence Production /IDEX",
       "category": "Hardware",
-      "theme": "Heritage & Culture",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -672,7 +673,7 @@
       "organization": "DRDO",
       "department": "Department of Defence Production /IDEX",
       "category": "Hardware",
-      "theme": "MedTech / BioTech / HealthTech",
+      "theme": "Robotics and Drones",
       "youtube_link": " "
     },
     {
@@ -684,7 +685,7 @@
       "organization": "DRDO",
       "department": "Department of Defence Production /IDEX",
       "category": "Software",
-      "theme": "Agriculture, FoodTech & Rural Development",
+      "theme": "Miscellaneous",
       "youtube_link": " "
     },
     {
@@ -696,7 +697,7 @@
       "organization": "DRDO",
       "department": "Department of Defence Production /IDEX",
       "category": "Hardware",
-      "theme": "Smart Vehicles",
+      "theme": "Miscellaneous",
       "youtube_link": " "
     },
     {
@@ -708,7 +709,7 @@
       "organization": "DRDO",
       "department": "Department of Defence Production /IDEX",
       "category": "Software",
-      "theme": "Transportation & Logistics",
+      "theme": "Smart Vehicles",
       "youtube_link": " "
     },
     {
@@ -732,7 +733,7 @@
       "organization": "DRDO",
       "department": "Department of Defence Production /IDEX",
       "category": "Software",
-      "theme": "Clean & Green Technology",
+      "theme": "Robotics and Drones",
       "youtube_link": " ",
       "dataset_link": "JC Wise, Radar emitter Database, 2024 huggingface.co/datasets/alan-turing institute/turing-synthetic radar dataset"
     },
@@ -745,7 +746,7 @@
       "organization": "MoSPI",
       "department": "Data Informatics & Innovation Division (DIID)",
       "category": "Software",
-      "theme": "Travel & Tourism",
+      "theme": "Smart Automation",
       "youtube_link": " ",
       "dataset_link": "https://esankhyiki.mospi.gov.in"
     },
@@ -758,7 +759,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Institute of Ocean Technology (NIOT)",
       "category": "Software",
-      "theme": "Renewable / Sustainable Energy",
+      "theme": "Disaster Management",
       "youtube_link": " "
     },
     {
@@ -770,7 +771,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Institute of Ocean Technology (NIOT)",
       "category": "Hardware",
-      "theme": "Blockchain & Cybersecurity",
+      "theme": "Robotics and Drones",
       "youtube_link": " "
     },
     {
@@ -782,7 +783,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Polar andOcean Research (NCPOR)",
       "category": "Software",
-      "theme": "Smart Education",
+      "theme": "Transportation & Logistics",
       "youtube_link": " "
     },
     {
@@ -794,7 +795,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Polar andOcean Research (NCPOR)",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -806,7 +807,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Polar andOcean Research (NCPOR)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Clean & Green Technology",
       "youtube_link": " "
     },
     {
@@ -818,7 +819,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Polar andOcean Research (NCPOR)",
       "category": "Software",
-      "theme": "Toys & Games",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -830,7 +831,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Polar andOcean Research (NCPOR)",
       "category": "Software",
-      "theme": "Space Technology",
+      "theme": "Smart Education",
       "youtube_link": " "
     },
     {
@@ -842,7 +843,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Polar andOcean Research (NCPOR)",
       "category": "Hardware",
-      "theme": "Smart Resource Conservation",
+      "theme": "Robotics and Drones",
       "youtube_link": " "
     },
     {
@@ -854,7 +855,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Polar andOcean Research (NCPOR)",
       "category": "Hardware",
-      "theme": "Smart Automation",
+      "theme": "Robotics and Drones",
       "youtube_link": " "
     },
     {
@@ -866,7 +867,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "Indian National Centre for Ocean Information Services (INCOIS) Ocean Valley",
       "category": "Software",
-      "theme": "Space Technology",
+      "theme": "Disaster Management",
       "youtube_link": " "
     },
     {
@@ -878,7 +879,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "Indian National Centre for Ocean Information Services (INCOIS) Ocean Valley",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Disaster Management",
       "youtube_link": " "
     },
     {
@@ -914,7 +915,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "India Meteorological Department",
       "category": "Software",
-      "theme": "Smart Education",
+      "theme": "Disaster Management",
       "youtube_link": " "
     },
     {
@@ -962,7 +963,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "India Meteorological Department",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -986,7 +987,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "India Meteorological Department",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1010,7 +1011,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Medium Range Weather Forecasting (NCMRWF)",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1022,7 +1023,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Medium Range Weather Forecasting (NCMRWF)",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1034,31 +1035,31 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Medium Range Weather Forecasting (NCMRWF)",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26081",
       "ps_id": "26081",
-      "title": "Hybrid AINWP Multi-Model Forecast Blending System",
+      "title": "Hybrid AI–NWP Multi-Model Forecast Blending System",
       "description": "• Problem Statement Different forecasting systems perform differently depending on region, season, lead time and weather situation. Physical NWP models, ensemble forecasts and AI/ML weather models may each have strengths under different conditions. Therefore, there is a need for an intelligent blending system that can dynamically combine multiple forecasts. The challenge is to develop a hybrid AI–NWP blending framework that assigns adaptive weights to different forecast sources based on historical skill, forecast lead time, region, season and weather regime. The final product should provide an optimized forecast for rainfall, temperature, wind and extreme weather indicators. Expected Outcome - Description • Dynamically blended forecast - Best-combined forecast from multiple model sources • Model weight maps - Indication of which model is more reliable for each region/lead time • Improved forecast skill - Better performance than individual models • Extreme weather guidance - Improved signals for heavy rainfall, heat wave and high-wind events • Operational workflow - Automated script/dashboard for routine forecast blending",
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Medium Range Weather Forecasting (NCMRWF)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Disaster Management",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26082",
       "ps_id": "26082",
-      "title": "Air PollutionWeather Coupled Forecasting System (Delhi NCR Focus)",
+      "title": "Air Pollution–Weather Coupled Forecasting System (Delhi NCR Focus)",
       "description": "Traditional Air Quality Index (AQI) forecasting models typically treat meteorology and pollution dispersion as separate entities. However, in highly polluted urban landscapes like Delhi NCR, there is a critical, dynamic feedback loop between the weather and pollutants. During peak pollution seasons (such as the winter stubble-burning period), atmospheric inversion layers trap particulate matter close to the ground. Conversely, dense concentrations of aerosols (PM2.5) block sunlight,altering local temperatures, wind patterns, and planetary boundary layer (PBL) heights. Ignoring these coupled meteorological-chemical feedback loops leads to significant inaccuracies in standard AQI predictions. To achieve high-accuracy, actionable insights, there is an urgent need for an integrated system that simulates real-time interactions between atmospheric physics and chemical transport. The challenge is to build a high-resolution, coupled forecasting system specifically tailored for Delhi NCR that predicts AQI for the next 72 hours. The solution must leverage advanced weather-chemistry models (such as WRF-Chem or similar open-source coupled frameworks) to dynamically interlink meteorology with pollution dispersion(specifically PM2.5 and Ground-level Ozone). A core focus should be accurately modeling the impact of atmospheric inversion on external pollution spikes, such as regional stubble burning,and how those trapped pollutants subsequently alter local weather conditions.Implement a workflow that handles two-way feedback between meteorology (temperature, wind,PBL height) and chemistry (PM2.5, PM10, O3,NOx). A user-friendly, real-time dashboard displaying high-resolution AQI forecasts for Delhi NCR with a 72-hour outlook. Features that explicitly track atmospheric inversion strength and predict how stubble-burning plumes will disperse under prevailing weather conditions.",
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Medium Range Weather Forecasting (NCMRWF)",
       "category": "Software",
-      "theme": "Disaster Management",
+      "theme": "Clean & Green Technology",
       "youtube_link": " "
     },
     {
@@ -1106,7 +1107,7 @@
       "organization": "Ministry of Earth Sciences (MoES)",
       "department": "National Centre for Medium Range Weather Forecasting (NCMRWF)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -1130,7 +1131,7 @@
       "organization": "Ministry of Cooperation",
       "department": "National Council for Cooperative Training (NCCT)",
       "category": "Hardware",
-      "theme": "Smart Automation",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -1142,7 +1143,7 @@
       "organization": "Ministry of Cooperation",
       "department": "National Council for Cooperative Training (NCCT)",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -1154,7 +1155,7 @@
       "organization": "Ministry of Social Justice and Empowerment (MoSJE)",
       "department": "Department of Social Justice and Empowerment",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Heritage & Culture",
       "youtube_link": " "
     },
     {
@@ -1166,7 +1167,7 @@
       "organization": "Ministry of Social Justice and Empowerment (MoSJE)",
       "department": "Department of Social Justice and Empowerment",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -1178,7 +1179,7 @@
       "organization": "Ministry of Social Justice and Empowerment (MoSJE)",
       "department": "Department of Social Justice and Empowerment",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1190,7 +1191,7 @@
       "organization": "Ministry of Social Justice and Empowerment (MoSJE)",
       "department": "Department of Social Justice and Empowerment",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "MedTech / BioTech / HealthTech",
       "youtube_link": " "
     },
     {
@@ -1214,7 +1215,7 @@
       "organization": "Ministry of Social Justice and Empowerment (MoSJE)",
       "department": "Department of Social Justice and Empowerment",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1226,9 +1227,9 @@
       "organization": "Ministry of Social Justice and Empowerment (MoSJE)",
       "department": "Department of Social Justice and Empowerment",
       "category": "Hardware",
-      "theme": "Heritage & Culture",
+      "theme": "Smart Education",
       "youtube_link": " ",
-      "dataset_link": "&#8226; Dr. Ambedkar Foundation.<br> &#8226; Constituent Assembly Debates Archive.<br> &#8226; National Digital Library of India.<br>"
+      "dataset_link": "-Dr. Ambedkar Foundation. -Constituent Assembly Debates Archive. -National Digital Library of India."
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -1239,7 +1240,7 @@
       "organization": "Ministry of Social Justice and Empowerment (MoSJE)",
       "department": "Department of Social Justice and Empowerment",
       "category": "Software",
-      "theme": "Smart Education",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -1251,7 +1252,7 @@
       "organization": "Ministry of Defence (MoD)",
       "department": "Yantra India Limited, Ambajhari,Nagpur",
       "category": "Hardware",
-      "theme": "Miscellaneous",
+      "theme": "Smart Vehicles",
       "youtube_link": " "
     },
     {
@@ -1265,7 +1266,7 @@
       "category": "Software",
       "theme": "Smart Automation",
       "youtube_link": " ",
-      "dataset_link": "CPSE Material Master Data / Sample Material Master Dataset â€“To be provided by participating CPSEs"
+      "dataset_link": "CPSE Material Master Data / Sample Material Master Dataset –To be provided by participating CPSEs"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -1302,7 +1303,7 @@
       "organization": "MoSPI",
       "department": "Data Informatics & Innovation Division (DIID)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " ",
       "dataset_link": "https://mplads.mospi.gov.in/digigov/dashboard.html"
     },
@@ -1328,7 +1329,7 @@
       "organization": "All India Council for Technical Education (AICTE)",
       "department": "Cyber Security Cell",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
@@ -1449,7 +1450,7 @@
       "organization": "Autodesk",
       "department": "Autodesk Education Experience",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Miscellaneous",
       "youtube_link": " "
     },
     {
@@ -1473,7 +1474,7 @@
       "organization": "Autodesk",
       "department": "Autodesk Education Experience",
       "category": "Software",
-      "theme": "Smart Education",
+      "theme": "Miscellaneous",
       "youtube_link": " "
     },
     {
@@ -1487,7 +1488,7 @@
       "category": "Software",
       "theme": "Smart Automation",
       "youtube_link": " ",
-      "dataset_link": "Open-source models and publicly available document samples (sample scanned PDFs, sample P&amp;IDs from open datasets) to be used for demonstration; no proprietary data required."
+      "dataset_link": "Open-source models and publicly available document samples (sample scanned PDFs, sample P&IDs from open datasets) to be used for demonstration; no proprietary data required."
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -1498,7 +1499,7 @@
       "organization": "Mangalore Refinery and Petrochemicals Limited (MRPL)",
       "department": "Mangalore Refinery and Petrochemicals Limited (MRPL)",
       "category": "Hardware",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1510,7 +1511,7 @@
       "organization": "Mangalore Refinery and Petrochemicals Limited (MRPL)",
       "department": "Mangalore Refinery and Petrochemicals Limited (MRPL)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " ",
       "dataset_link": "Teams to use publicly available mathematical optimization benchmark datasets such as MIPLIB, Netlib LP, Mittelmann benchmark instances, QPLIB (for quadratic programming where applicable), along with representative refinery scheduling, crude blending, production planning and supply chain optimization case studies from open literature. Where industrial da"
     },
@@ -1559,7 +1560,7 @@
       "organization": "Bharat Electronics Limited",
       "department": "Bharat Electronics Limited",
       "category": "Software",
-      "theme": "Robotics and Drones",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1571,7 +1572,7 @@
       "organization": "Bharat Electronics Limited",
       "department": "Bharat Electronics Limited",
       "category": "Software",
-      "theme": "Fitness & Sports",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1595,7 +1596,7 @@
       "organization": "Bharat Electronics Limited",
       "department": "Bharat Electronics Limited",
       "category": "Software",
-      "theme": "Robotics and Drones",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1607,7 +1608,7 @@
       "organization": "Bharat Electronics Limited",
       "department": "Bharat Electronics Limited",
       "category": "Software",
-      "theme": "Transportation & Logistics",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1619,7 +1620,7 @@
       "organization": "Government Of Maharashtra",
       "department": "Maharashtra State Innovation Society, Department of Skills, Employment, Entrepreneurship and Innovation",
       "category": "Software",
-      "theme": "Agriculture, FoodTech & Rural Development",
+      "theme": "MedTech / BioTech / HealthTech",
       "youtube_link": " "
     },
     {
@@ -1631,7 +1632,7 @@
       "organization": "Government Of Maharashtra",
       "department": "Maharashtra State Innovation Society, Department of Skills, Employment, Entrepreneurship and Innovation",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Miscellaneous",
       "youtube_link": " "
     },
     {
@@ -1643,7 +1644,7 @@
       "organization": "Government Of Maharashtra",
       "department": "Maharashtra State Innovation Society, Department of Skills, Employment, Entrepreneurship and Innovation",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Miscellaneous",
       "youtube_link": " "
     },
     {
@@ -1703,7 +1704,7 @@
       "organization": "Government Of Maharashtra",
       "department": "Maharashtra State Innovation Society, Department of Skills, Employment, Entrepreneurship and Innovation",
       "category": "Software",
-      "theme": "Smart Education",
+      "theme": "Miscellaneous",
       "youtube_link": " "
     },
     {
@@ -1715,7 +1716,7 @@
       "organization": "Government Of Maharashtra",
       "department": "Maharashtra State Innovation Society, Department of Skills, Employment, Entrepreneurship and Innovation",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Miscellaneous",
       "youtube_link": " "
     },
     {
@@ -1727,7 +1728,7 @@
       "organization": "Egreen Quanta",
       "department": "Egreen Quanta",
       "category": "Software",
-      "theme": "Fitness & Sports",
+      "theme": "Transportation & Logistics",
       "youtube_link": " ",
       "dataset_link": "Public/Open"
     },
@@ -1740,7 +1741,7 @@
       "organization": "Egreen Quanta",
       "department": "Egreen Quanta",
       "category": "Software",
-      "theme": "Smart Vehicles",
+      "theme": "Clean & Green Technology",
       "youtube_link": " ",
       "dataset_link": "Public/Open"
     },
@@ -1792,8 +1793,8 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Smart Education",
-      "youtube_link": " ",
+      "theme": "Space Technology",
+      "youtube_link": " https://www.youtube.com/watch?v=cQoHSStTEdM",
       "dataset_link": "https://browser.dataspace.copernicus.eu"
     },
     {
@@ -1805,9 +1806,9 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Space Technology",
-      "youtube_link": " ",
-      "dataset_link": "AIS Data 1.Format of AIS data can be obtained from sample AIS data available to https://marinecadastre.gov/accessais/.<br><br> 2.Real AIS if available may be used else synthetic data can be prepared for the region of oil spill to demonstrate the functioning of the algorithm.<br><br> Satellite Imagery Data of Oil spills 3.Zenodo - Sentinel-1 SAR Oil Spil"
+      "theme": "Disaster Management",
+      "youtube_link": " https://www.youtube.com/watch?v=cQoHSStTEdM",
+      "dataset_link": "AIS Data 1.Format of AIS data can be obtained from sample AIS data available to https://marinecadastre.gov/accessais/. 2.Real AIS if available may be used else synthetic data can be prepared for the region of oil spill to demonstrate the functioning of the algorithm. Satellite Imagery Data of Oil spills 3.Zenodo - Sentinel-1 SAR Oil Spill Dataset P"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -1818,7 +1819,7 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Hardware",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -1832,7 +1833,7 @@
       "category": "Software",
       "theme": "Blockchain & Cybersecurity",
       "youtube_link": " ",
-      "dataset_link": "a)Synthetic and lab-generated traffic: Benign load from iperf3, Ostinato, or TRex; attack traffic from hping3 (SYN/UDP floods), Slowloris (slow HTTP exhaustion), dnscat2/iodine (DNS tunnelling), and DGA samples from published algorithms (e.g., via DGArchive) or a sandboxed C2 emulator for realistic beaconing timing.<br><br> b)Feature extraction : Extrac"
+      "dataset_link": "a)Synthetic and lab-generated traffic: Benign load from iperf3, Ostinato, or TRex; attack traffic from hping3 (SYN/UDP floods), Slowloris (slow HTTP exhaustion), dnscat2/iodine (DNS tunnelling), and DGA samples from published algorithms (e.g., via DGArchive) or a sandboxed C2 emulator for realistic beaconing timing. b)Feature extraction : Extract flow"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -1843,7 +1844,7 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Transportation & Logistics",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
@@ -1855,7 +1856,7 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Space Technology",
       "youtube_link": " "
     },
     {
@@ -1915,7 +1916,7 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
@@ -1929,7 +1930,7 @@
       "category": "Software",
       "theme": "Blockchain & Cybersecurity",
       "youtube_link": " ",
-      "dataset_link": "&#8226; Check nciipc.gov.in; helpdesk1@nciipc.gov.in<br> &#8226; Use publicly available datasets such as CIC-IDS2017/2018, UNSW-NB15, CTU-13, CICIoT2023, LANL Authentication Dataset, DARPA Intrusion Detection datasets, together with public knowledge bases such as MITRE ATT&amp;CK, CAPEC, CVE/NVD and other open cybersecurity resources.<br>"
+      "dataset_link": "-Check nciipc.gov.in; helpdesk1@nciipc.gov.in -Use publicly available datasets such as CIC-IDS2017/2018, UNSW-NB15, CTU-13, CICIoT2023, LANL Authentication Dataset, DARPA Intrusion Detection datasets, together with public knowledge bases such as MITRE ATT&CK, CAPEC, CVE/NVD and other open cybersecurity resources."
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -1940,8 +1941,8 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Smart Automation",
-      "youtube_link": " "
+      "theme": "Blockchain & Cybersecurity",
+      "youtube_link": " Check nciipc.gov.in ; helpdesk1@nciipc.gov.in"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -1954,7 +1955,7 @@
       "category": "Software",
       "theme": "Blockchain & Cybersecurity",
       "youtube_link": " ",
-      "dataset_link": "&#8226; Check nciipc.gov.in , helpdesk1@nciipc.gov.in<br> &#8226; CIS Benchmarks, NIST SP 800-53, DISA STIGs, ISO/IEC 27001; Vendor-specific CLI configuration samples.<br>"
+      "dataset_link": "-Check nciipc.gov.in , helpdesk1@nciipc.gov.in -CIS Benchmarks, NIST SP 800-53, DISA STIGs, ISO/IEC 27001; Vendor-specific CLI configuration samples."
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -1965,8 +1966,8 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Miscellaneous",
-      "youtube_link": " "
+      "theme": "Blockchain & Cybersecurity",
+      "youtube_link": " Check nciipc.gov.in , helpdesk1@nciipc.gov.in"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -1977,7 +1978,7 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
@@ -2040,7 +2041,7 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Disaster Management",
       "youtube_link": " ",
       "dataset_link": "firms.modap.eosdis.nasa.gov/map"
     },
@@ -2053,8 +2054,8 @@
       "organization": "National Technical Research Organisation (NTRO)",
       "department": "National Technical Research Organisation (NTRO)",
       "category": "Software",
-      "theme": "Miscellaneous",
-      "youtube_link": " ",
+      "theme": "Smart Automation",
+      "youtube_link": " https://www.youtube.com/watch?v=-wws31Ol3mc",
       "dataset_link": "App link- https://www.worldmonitor.app Source Code: https://github.com/koala73/worldmonitor"
     },
     {
@@ -2079,7 +2080,7 @@
       "organization": "Oil India Limited",
       "department": "Oil India Limited",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -2093,7 +2094,7 @@
       "category": "Software",
       "theme": "Space Technology",
       "youtube_link": " ",
-      "dataset_link": "Specific datasets link will be provided - TBD<br><br> &#8226; Chandrayaan-2 orbiter optical payload: OHRC, TMC-2, IIRS lunar images. (Link: https://chmapbrowse.issdc.gov.in/)<br> &#8226; Reference: LRO NAC Images (Lunar Reconnaissance Orbiter Narrow Angle Camera) (Link: https://lroc.im.-ldi.com/images/downloads/ , https://quickmap.lroc.im-ldi.com/ ), SE"
+      "dataset_link": "Specific datasets link will be provided - TBD • Chandrayaan-2 orbiter optical payload: OHRC, TMC-2, IIRS lunar images. (Link: https://chmapbrowse.issdc.gov.in/) • Reference: LRO NAC Images (Lunar Reconnaissance Orbiter Narrow Angle Camera) (Link: https://lroc.im.-ldi.com/images/downloads/ , https://quickmap.lroc.im-ldi.com/ ), SELENE Images"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -2106,7 +2107,7 @@
       "category": "Software",
       "theme": "Space Technology",
       "youtube_link": " ",
-      "dataset_link": "Training / Fine-Tuning Dataset BigEarthNet.txt â€” primary dataset for remote-sensing adaptation using co-registered Sentinel-1 SAR, Sentinel-2 multispectral imagery, and diverse text annotations. Link: https://arxiv.org/abs/2603.29630. All datasets are available online open source.<br><br> Public Evaluation Benchmarks<br><br> &#8226; VRSBench â€” for r"
+      "dataset_link": "Training / Fine-Tuning Dataset BigEarthNet.txt — primary dataset for remote-sensing adaptation using co-registered Sentinel-1 SAR, Sentinel-2 multispectral imagery, and diverse text annotations. Link: https://arxiv.org/abs/2603.29630. All datasets are available online open source. Public Evaluation Benchmarks • VRSBench — for remote-sensing image cap"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -2117,7 +2118,7 @@
       "organization": "Indian Space Research Organisation(ISRO)",
       "department": "Department of Space / Indian Space Research Organisation",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Vehicles",
       "youtube_link": " ",
       "dataset_link": "IO-VNBD: Inertial and Odometry benchmark dataset for ground vehicle positioning (https://github.com/onyekpeu/IO-VNBD)"
     },
@@ -2130,7 +2131,7 @@
       "organization": "Indian Space Research Organisation(ISRO)",
       "department": "Department of Space / Indian Space Research Organisation",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -2154,7 +2155,7 @@
       "organization": "Indian Space Research Organisation(ISRO)",
       "department": "Department of Space / Indian Space Research Organisation",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " ",
       "dataset_link": "Any open-source data can be used. Use cases for evaluation will provided during finale"
     },
@@ -2167,7 +2168,7 @@
       "organization": "Indian Space Research Organisation(ISRO)",
       "department": "Department of Space / Indian Space Research Organisation",
       "category": "Hardware",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -2179,7 +2180,7 @@
       "organization": "Indian Space Research Organisation(ISRO)",
       "department": "Department of Space / Indian Space Research Organisation",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Smart Automation",
       "youtube_link": " "
     },
     {
@@ -2191,9 +2192,9 @@
       "organization": "Indian Space Research Organisation(ISRO)",
       "department": "Department of Space / Indian Space Research Organisation",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Space Technology",
       "youtube_link": " ",
-      "dataset_link": "This problem requires synthetic dataset generation. Teams have to build a custom, highly focused local dataset (even just using a webcam) replicating a specific experiment. For this particular problem, following is the sequence of steps in a sample experiment:<br><br> Sample Experiment You are given a box that contains two smaller boxes of color red and"
+      "dataset_link": "This problem requires synthetic dataset generation. Teams have to build a custom, highly focused local dataset (even just using a webcam) replicating a specific experiment. For this particular problem, following is the sequence of steps in a sample experiment: Sample Experiment You are given a box that contains two smaller boxes of color red and yello"
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
@@ -2204,7 +2205,7 @@
       "organization": "Indian Space Research Organisation(ISRO)",
       "department": "Department of Space / Indian Space Research Organisation",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Disaster Management",
       "youtube_link": " ",
       "dataset_link": "Any high-resolution remote-sensing dataset openly available on the internet may be used for development. Reference dataset: https://github.com/IMG-PROCESS-SAC/SIH2026/. A lower-resolution DEM source such as SRTM 30 m may be used to map scale-agnostic depth features to absolute metric elevations. During final evaluation, ISRO RGB-band optical satellite i"
     },
@@ -2217,7 +2218,7 @@
       "organization": "Indian Space Research Organisation(ISRO)",
       "department": "Department of Space / Indian Space Research Organisation",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Disaster Management",
       "youtube_link": " "
     },
     {
@@ -2253,7 +2254,7 @@
       "organization": "Qualcomm Inc",
       "department": "Qualcomm Inc",
       "category": "Hardware",
-      "theme": "Smart Automation",
+      "theme": "Miscellaneous",
       "youtube_link": " "
     },
     {
@@ -2265,7 +2266,7 @@
       "organization": "Qualcomm Inc",
       "department": "Qualcomm Inc",
       "category": "Hardware",
-      "theme": "Disaster Management",
+      "theme": "Agriculture, FoodTech & Rural Development",
       "youtube_link": " "
     },
     {
@@ -2325,7 +2326,7 @@
       "organization": "Ministry of Home Affairs",
       "department": "National Security Guard (NSG), Police II Division",
       "category": "Hardware",
-      "theme": "Miscellaneous",
+      "theme": "Robotics and Drones",
       "youtube_link": " "
     },
     {
@@ -2350,7 +2351,7 @@
       "organization": "Ministry of Home Affairs",
       "department": "Sashastra Seema Bal (SSB), Police II Division",
       "category": "Software",
-      "theme": "Smart Automation",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
@@ -2362,7 +2363,7 @@
       "organization": "Ministry of Home Affairs",
       "department": "Sashastra Seema Bal (SSB), Police II Division",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
@@ -2386,7 +2387,7 @@
       "organization": "Ministry of Home Affairs",
       "department": "National Crime Records Bureau (NCRB), Women Safety Division",
       "category": "Software",
-      "theme": "Miscellaneous",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
@@ -2417,56 +2418,8 @@
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26193",
       "ps_id": "26193",
-      "title": "Student Innovation",
-      "description": "Ideas focused on the intelligent use of resources for transforming and advancements of technology with combining the artificial intelligence to explore more various sources and get valuable insights.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Software",
-      "theme": "Smart Resource Conservation",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26194",
-      "ps_id": "26194",
-      "title": "Student Innovation",
-      "description": "Ideas that can boost fitness activities and assist in keeping fit.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Software",
-      "theme": "Fitness & Sports",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26195",
-      "ps_id": "26195",
-      "title": "Student Innovation",
-      "description": "Ideas that showcase the rich cultural heritage and traditions of India.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Software",
-      "theme": "Heritage & Culture",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26196",
-      "ps_id": "26196",
-      "title": "Student Innovation",
-      "description": "Cutting-edge technology in these sectors continues to be in demand. Recent shifts in healthcare trends, growing populations also present an array of opportunities for innovation.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Software",
-      "theme": "MedTech / BioTech / HealthTech",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26197",
-      "ps_id": "26197",
-      "title": "Student Innovation",
-      "description": "Developing solutions, keeping in mind the need to enhance the primary sector of India - Agriculture and to manage and process our agriculture produce.",
+      "title": "Student Innovation-Developing solutions, keeping in mind the need to enhance the primary sector of India - Agriculture and to manage and process our agriculture produce.",
+      "description": "Student Innovation-Developing solutions, keeping in mind the need to enhance the primary sector of India - Agriculture and to manage and process our agriculture produce.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
@@ -2475,22 +2428,34 @@
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26198",
-      "ps_id": "26198",
-      "title": "Student Innovation",
-      "description": "Creating intelligent devices to improve commutation sector.",
+      "source_modal_id": "ViewProblemStatement26194",
+      "ps_id": "26194",
+      "title": "Student Innovation-Provide ideas in a decentralized and distributed ledger technology used to store digital information that powers cryptocurrencies and NFTs and can radically change multiple sectors.",
+      "description": "Student Innovation-Provide ideas in a decentralized and distributed ledger technology used to store digital information that powers cryptocurrencies and NFTs and can radically change multiple sectors.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
-      "theme": "Transportation & Logistics",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26199",
-      "ps_id": "26199",
-      "title": "Student Innovation",
-      "description": "Submit your ideas to address the growing pressures on the city’s resources, transport networks, and logistic infrastructure.",
+      "source_modal_id": "ViewProblemStatement26195",
+      "ps_id": "26195",
+      "title": "Student Innovation-Solutions could be in the form of waste segregation, disposal, and improve sanitization system.",
+      "description": "Student Innovation-Solutions could be in the form of waste segregation, disposal, and improve sanitization system.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Software",
+      "theme": "Clean & Green Technology",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26196",
+      "ps_id": "26196",
+      "title": "Student Innovation-Ideas that can boost fitness activities and assist in keeping fit.",
+      "description": "Student Innovation-Ideas that can boost fitness activities and assist in keeping fit.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
@@ -2499,10 +2464,22 @@
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26200",
-      "ps_id": "26200",
-      "title": "Student Innovation",
-      "description": "There is a need to design drones and robots that can solve some of the pressing challenges of India such as handling medical emergencies, search and rescue operations, etc.",
+      "source_modal_id": "ViewProblemStatement26197",
+      "ps_id": "26197",
+      "title": "Student Innovation-Ideas that showcase the rich cultural heritage and traditions of India.",
+      "description": "Student Innovation-Ideas that showcase the rich cultural heritage and traditions of India.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Software",
+      "theme": "Heritage & Culture",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26198",
+      "ps_id": "26198",
+      "title": "Student Innovation-Cutting-edge technology in these sectors continues to be in demand. Recent shifts in healthcare trends, growing populations also present an array of opportunities for innovation.",
+      "description": "Student Innovation-Cutting-edge technology in these sectors continues to be in demand. Recent shifts in healthcare trends, growing populations also present an array of opportunities for innovation.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
@@ -2511,46 +2488,10 @@
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26201",
-      "ps_id": "26201",
-      "title": "Student Innovation",
-      "description": "Solutions could be in the form of waste segregation, disposal, and improve sanitization system.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Software",
-      "theme": "Smart Resource Conservation",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26202",
-      "ps_id": "26202",
-      "title": "Student Innovation",
-      "description": "A solution/idea that can boost the current situation of the tourism industries including hotels, travel and others.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Software",
-      "theme": "Travel & Tourism",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26203",
-      "ps_id": "26203",
-      "title": "Student Innovation",
-      "description": "Innovative ideas that help manage and generate renewable /sustainable sources more efficiently.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Software",
-      "theme": "Renewable / Sustainable Energy",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26204",
-      "ps_id": "26204",
-      "title": "Student Innovation",
-      "description": "Provide ideas in a decentralized and distributed ledger technology used to store digital information that powers cryptocurrencies and NFTs and can radically change multiple sectors.",
+      "source_modal_id": "ViewProblemStatement26199",
+      "ps_id": "26199",
+      "title": "Student Innovation-Technology ideas in tertiary sectors like Hospitality, Financial Services, Entertainment and Retail.",
+      "description": "Student Innovation-Technology ideas in tertiary sectors like Hospitality, Financial Services, Entertainment and Retail.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
@@ -2559,22 +2500,82 @@
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26205",
-      "ps_id": "26205",
-      "title": "Student Innovation",
-      "description": "Smart education, a concept that describes learning in digital age. It enables learners to learn more effectively, efficiently, flexibly and comfortably.",
+      "source_modal_id": "ViewProblemStatement26200",
+      "ps_id": "26200",
+      "title": "Student Innovation-Innovative ideas that help manage and generate renewable /sustainable sources more efficiently",
+      "description": "Student Innovation-Innovative ideas that help manage and generate renewable /sustainable sources more efficiently",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
-      "theme": "Smart Education",
+      "theme": "Renewable / Sustainable Energy",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26201",
+      "ps_id": "26201",
+      "title": "Student Innovation-There is a need to design drones and robots that can solve some of the pressing challenges of India such as handling medical emergencies, search and rescue operations, etc.",
+      "description": "Student Innovation-There is a need to design drones and robots that can solve some of the pressing challenges of India such as handling medical emergencies, search and rescue operations, etc.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Software",
+      "theme": "Robotics and Drones",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26202",
+      "ps_id": "26202",
+      "title": "Student Innovation-Ideas focused on the intelligent use of resources for transforming and advancements of technology with combining the artificial intelligence to explore more various sources and get valuable insights.",
+      "description": "Student Innovation-Ideas focused on the intelligent use of resources for transforming and advancements of technology with combining the artificial intelligence to explore more various sources and get valuable insights.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Software",
+      "theme": "Smart Automation",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26203",
+      "ps_id": "26203",
+      "title": "Student Innovation-Creating intelligent devices to improve commutation sector.",
+      "description": "Student Innovation-Creating intelligent devices to improve commutation sector.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Software",
+      "theme": "Smart Vehicles",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26204",
+      "ps_id": "26204",
+      "title": "Student Innovation-A solution/idea that can boost the current situation of the tourism industries including hotels, travel and others.",
+      "description": "Student Innovation-A solution/idea that can boost the current situation of the tourism industries including hotels, travel and others.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Software",
+      "theme": "Travel & Tourism",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26205",
+      "ps_id": "26205",
+      "title": "Student Innovation-Submit your ideas to address the growing pressures on the city’s resources, transport networks, and logistic infrastructure.",
+      "description": "Student Innovation-Submit your ideas to address the growing pressures on the city’s resources, transport networks, and logistic infrastructure.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Software",
+      "theme": "Transportation & Logistics",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26206",
       "ps_id": "26206",
-      "title": "Student Innovation",
-      "description": "Disaster management includes ideas related to risk mitigation, Planning and management before, after or during a disaster.",
+      "title": "Student Innovation-Disaster management includes ideas related to risk mitigation, Planning and management before, after or during a disaster.",
+      "description": "Student Innovation-Disaster management includes ideas related to risk mitigation, Planning and management before, after or during a disaster.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
@@ -2585,32 +2586,32 @@
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26207",
       "ps_id": "26207",
-      "title": "Student Innovation",
-      "description": "Technology ideas in tertiary sectors like Hospitality, Financial Services, Entertainment and Retail.",
+      "title": "Student Innovation-Smart education,a concept that describes learning in digital age. It enables learners to learn more effectively, efficiently, flexibly and comfortably.",
+      "description": "Student Innovation-Smart education,a concept that describes learning in digital age. It enables learners to learn more effectively, efficiently, flexibly and comfortably.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
-      "theme": "Travel & Tourism",
+      "theme": "Smart Education",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26208",
       "ps_id": "26208",
-      "title": "Student Innovation",
-      "description": "Challenge your creative mind to conceptualize and develop unique toys and games based on our civilization, history, and culture etc.",
+      "title": "Student Innovation-Challenge your creative mind to conceptualize and develop unique toys and games based on our civilization, history, and culture etc.",
+      "description": "Student Innovation-Challenge your creative mind to conceptualize and develop unique toys and games based on our civilization, history, and culture etc.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
-      "theme": "Heritage & Culture",
+      "theme": "Toys & Games",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26209",
       "ps_id": "26209",
-      "title": "Student Innovation",
-      "description": "Space technology refers to the application of engineering principles to the design, development, manufacture, and operation of devices and systems for space travel and exploration.",
+      "title": "Student Innovation-Space technology refers to the application of engineering principles to the design, development, manufacture, and operation of devices and systems for space travel and exploration.",
+      "description": "Student Innovation-Space technology refers to the application of engineering principles to the design, development, manufacture, and operation of devices and systems for space travel and exploration.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Software",
@@ -2621,56 +2622,8 @@
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26210",
       "ps_id": "26210",
-      "title": "Student Innovation",
-      "description": "Ideas focused on the intelligent use of resources for transforming and advancements of technology with combining the artificial intelligence to explore more various sources and get valuable insights.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Hardware",
-      "theme": "Smart Resource Conservation",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26211",
-      "ps_id": "26211",
-      "title": "Student Innovation",
-      "description": "Ideas that can boost fitness activities and assist in keeping fit.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Hardware",
-      "theme": "Fitness & Sports",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26212",
-      "ps_id": "26212",
-      "title": "Student Innovation",
-      "description": "Ideas that showcase the rich cultural heritage and traditions of India.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Hardware",
-      "theme": "Heritage & Culture",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26213",
-      "ps_id": "26213",
-      "title": "Student Innovation",
-      "description": "Cutting-edge technology in these sectors continues to be in demand. Recent shifts in healthcare trends, growing populations also present an array of opportunities for innovation.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Hardware",
-      "theme": "MedTech / BioTech / HealthTech",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26214",
-      "ps_id": "26214",
-      "title": "Student Innovation",
-      "description": "Developing solutions, keeping in mind the need to enhance the primary sector of India - Agriculture and to manage and process our agriculture produce.",
+      "title": "Student Innovation-Developing solutions, keeping in mind the need to enhance the primary sector of India - Agriculture and to manage and process our agriculture produce.",
+      "description": "Student Innovation-Developing solutions, keeping in mind the need to enhance the primary sector of India - Agriculture and to manage and process our agriculture produce.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
@@ -2679,22 +2632,34 @@
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26215",
-      "ps_id": "26215",
-      "title": "Student Innovation",
-      "description": "Creating intelligent devices to improve commutation sector.",
+      "source_modal_id": "ViewProblemStatement26211",
+      "ps_id": "26211",
+      "title": "Student Innovation-Provide ideas in a decentralized and distributed ledger technology used to store digital information that powers cryptocurrencies and NFTs and can radically change multiple sectors.",
+      "description": "Student Innovation-Provide ideas in a decentralized and distributed ledger technology used to store digital information that powers cryptocurrencies and NFTs and can radically change multiple sectors.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
-      "theme": "Transportation & Logistics",
+      "theme": "Blockchain & Cybersecurity",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26216",
-      "ps_id": "26216",
-      "title": "Student Innovation",
-      "description": "Submit your ideas to address the growing pressures on the city’s resources, transport networks, and logistic infrastructure.",
+      "source_modal_id": "ViewProblemStatement26212",
+      "ps_id": "26212",
+      "title": "Student Innovation-Solutions could be in the form of waste segregation, disposal, and improve sanitization system.",
+      "description": "Student Innovation-Solutions could be in the form of waste segregation, disposal, and improve sanitization system.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Hardware",
+      "theme": "Clean & Green Technology",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26213",
+      "ps_id": "26213",
+      "title": "Student Innovation-Ideas that can boost fitness activities and assist in keeping fit.",
+      "description": "Student Innovation-Ideas that can boost fitness activities and assist in keeping fit.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
@@ -2703,10 +2668,22 @@
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26217",
-      "ps_id": "26217",
-      "title": "Student Innovation",
-      "description": "There is a need to design drones and robots that can solve some of the pressing challenges of India such as handling medical emergencies, search and rescue operations, etc.",
+      "source_modal_id": "ViewProblemStatement26214",
+      "ps_id": "26214",
+      "title": "Student Innovation-Ideas that showcase the rich cultural heritage and traditions of India.",
+      "description": "Student Innovation-Ideas that showcase the rich cultural heritage and traditions of India.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Hardware",
+      "theme": "Heritage & Culture",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26215",
+      "ps_id": "26215",
+      "title": "Student Innovation-Cutting-edge technology in these sectors continues to be in demand. Recent shifts in healthcare trends, growing populations also present an array of opportunities for innovation.",
+      "description": "Student Innovation-Cutting-edge technology in these sectors continues to be in demand. Recent shifts in healthcare trends, growing populations also present an array of opportunities for innovation.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
@@ -2715,46 +2692,10 @@
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26218",
-      "ps_id": "26218",
-      "title": "Student Innovation",
-      "description": "Solutions could be in the form of waste segregation, disposal, and improve sanitization system.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Hardware",
-      "theme": "Smart Resource Conservation",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26219",
-      "ps_id": "26219",
-      "title": "Student Innovation",
-      "description": "A solution/idea that can boost the current situation of the tourism industries including hotels, travel and others.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Hardware",
-      "theme": "Travel & Tourism",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26220",
-      "ps_id": "26220",
-      "title": "Student Innovation",
-      "description": "Innovative ideas that help manage and generate renewable /sustainable sources more efficiently.",
-      "organization": "AICTE",
-      "department": "AICTE, MIC-Student Innovation",
-      "category": "Hardware",
-      "theme": "Renewable / Sustainable Energy",
-      "youtube_link": " "
-    },
-    {
-      "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26221",
-      "ps_id": "26221",
-      "title": "Student Innovation",
-      "description": "Provide ideas in a decentralized and distributed ledger technology used to store digital information that powers cryptocurrencies and NFTs and can radically change multiple sectors.",
+      "source_modal_id": "ViewProblemStatement26216",
+      "ps_id": "26216",
+      "title": "Student Innovation-Technology ideas in tertiary sectors like Hospitality, Financial Services, Entertainment and Retail.",
+      "description": "Student Innovation-Technology ideas in tertiary sectors like Hospitality, Financial Services, Entertainment and Retail.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
@@ -2763,22 +2704,82 @@
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
-      "source_modal_id": "ViewProblemStatement26222",
-      "ps_id": "26222",
-      "title": "Student Innovation",
-      "description": "Smart education, a concept that describes learning in digital age. It enables learners to learn more effectively, efficiently, flexibly and comfortably.",
+      "source_modal_id": "ViewProblemStatement26217",
+      "ps_id": "26217",
+      "title": "Student Innovation-Innovative ideas that help manage and generate renewable /sustainable sources more efficiently",
+      "description": "Student Innovation-Innovative ideas that help manage and generate renewable /sustainable sources more efficiently",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
-      "theme": "Smart Education",
+      "theme": "Renewable / Sustainable Energy",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26218",
+      "ps_id": "26218",
+      "title": "Student Innovation-There is a need to design drones and robots that can solve some of the pressing challenges of India such as handling medical emergencies, search and rescue operations, etc.",
+      "description": "Student Innovation-There is a need to design drones and robots that can solve some of the pressing challenges of India such as handling medical emergencies, search and rescue operations, etc.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Hardware",
+      "theme": "Robotics and Drones",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26219",
+      "ps_id": "26219",
+      "title": "Student Innovation-Ideas focused on the intelligent use of resources for transforming and advancements of technology with combining the artificial intelligence to explore more various sources and get valuable insights.",
+      "description": "Student Innovation-Ideas focused on the intelligent use of resources for transforming and advancements of technology with combining the artificial intelligence to explore more various sources and get valuable insights.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Hardware",
+      "theme": "Smart Automation",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26220",
+      "ps_id": "26220",
+      "title": "Student Innovation-Creating intelligent devices to improve commutation sector.",
+      "description": "Student Innovation-Creating intelligent devices to improve commutation sector.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Hardware",
+      "theme": "Smart Vehicles",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26221",
+      "ps_id": "26221",
+      "title": "Student Innovation-A solution/idea that can boost the current situation of the tourism industries including hotels, travel and others.",
+      "description": "Student Innovation-A solution/idea that can boost the current situation of the tourism industries including hotels, travel and others.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Hardware",
+      "theme": "Travel & Tourism",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26222",
+      "ps_id": "26222",
+      "title": "Student Innovation-Submit your ideas to address the growing pressures on the city’s resources, transport networks, and logistic infrastructure.",
+      "description": "Student Innovation-Submit your ideas to address the growing pressures on the city’s resources, transport networks, and logistic infrastructure.",
+      "organization": "AICTE",
+      "department": "AICTE, MIC-Student Innovation",
+      "category": "Hardware",
+      "theme": "Transportation & Logistics",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26223",
       "ps_id": "26223",
-      "title": "Student Innovation",
-      "description": "Disaster management includes ideas related to risk mitigation, Planning and management before, after or during a disaster.",
+      "title": "Student Innovation-Disaster management includes ideas related to risk mitigation, Planning and management before, after or during a disaster.",
+      "description": "Student Innovation-Disaster management includes ideas related to risk mitigation, Planning and management before, after or during a disaster.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
@@ -2789,36 +2790,74 @@
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26224",
       "ps_id": "26224",
-      "title": "Student Innovation",
-      "description": "Technology ideas in tertiary sectors like Hospitality, Financial Services, Entertainment and Retail.",
+      "title": "Student Innovation-Smart education,a concept that describes learning in digital age. It enables learners to learn more effectively, efficiently, flexibly and comfortably.",
+      "description": "Student Innovation-Smart education,a concept that describes learning in digital age. It enables learners to learn more effectively, efficiently, flexibly and comfortably.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
-      "theme": "Travel & Tourism",
+      "theme": "Smart Education",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26225",
       "ps_id": "26225",
-      "title": "Student Innovation",
-      "description": "Challenge your creative mind to conceptualize and develop unique toys and games based on our civilization, history, and culture etc.",
+      "title": "Student Innovation-Challenge your creative mind to conceptualize and develop unique toys and games based on our civilization, history, and culture etc.",
+      "description": "Student Innovation-Challenge your creative mind to conceptualize and develop unique toys and games based on our civilization, history, and culture etc.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
-      "theme": "Heritage & Culture",
+      "theme": "Toys & Games",
       "youtube_link": " "
     },
     {
       "source_url": "https://www.sih.gov.in/sih2026PS",
       "source_modal_id": "ViewProblemStatement26226",
       "ps_id": "26226",
-      "title": "Student Innovation",
-      "description": "Space technology refers to the application of engineering principles to the design, development, manufacture, and operation of devices and systems for space travel and exploration.",
+      "title": "Student Innovation-Space technology refers to the application of engineering principles to the design, development, manufacture, and operation of devices and systems for space travel and exploration.",
+      "description": "Student Innovation-Space technology refers to the application of engineering principles to the design, development, manufacture, and operation of devices and systems for space travel and exploration.",
       "organization": "AICTE",
       "department": "AICTE, MIC-Student Innovation",
       "category": "Hardware",
       "theme": "Space Technology",
+      "youtube_link": " "
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26227",
+      "ps_id": "26227",
+      "title": "Semantic Retrieval and Multi-Temporal Change Analysis of Satellite lmagery.",
+      "description": "Description 2.1. Background. Earth-observation archives are expanding rapidly and increasingly contain multi-temporal, multi-spectral and multi-sensor imagery. Conventional catalogues are effective for searching by metadata such as coordinates, acquisition date, platform and product type, but analysts may still need to know where and when to look before they can examine the imagery itself. Recent advances in multimodal and remote-sensing foundation models have improved semantic representation of Earth-observation data, creating the possibility of searching imagery by meaning as well as metadata. Translating those advances into a reliable operational system remains challenging. particularly when the system must work on-premises, ingest new acquisitions incrementally, preserve geospatial provenance, and suppress false change caused by season, atmosphere, viewing geometry, registration error or sensor differences. 2.2. Detailed Description. Teams are required to build a system that makes a satellite-imagery archive queryable by semantic content and by change over time, while retaining conventional spatial, temporal and sensor filters. The solution should support analyst discovery rather than require the analyst to identify every location of interest in advance. Six core capabilities are required. 2.2.1. Semantic and Multimodal Retrieval. Support free-text search over imagery tiles using natural-language queries, together with image-to-image search for visually and semantically similar locations. Results should be rank ordered and may be refined using area-of-interest, date-range, sensor or other metadata filters. Example queries include \"newly built structures near a river\" and \"large vehicle concentrations on open ground\". 2.2.2. Multi-Temporal Change Analysis. For a specified area and time window, identify meaningful changes such as appearance, disappearance, expansion or contraction of features; classify supported change types such as construction, clearance, water-extent variation or road development; and estimate the earliest available observation at which the change is supported by usable imagery. 2.2.3. False-Alarm Suppression and Quality Handling. Seasonal variation, illumination and view-angle differences, cloud, haze, snow, shadows, radiometric inconsistency and imperfect co-registration must be treated as confounding factors rather than automatically reported as change. The system should use quality masks, normalization, confidence estimates or equivalent mechanisms and should favour analytically useful precision over indiscriminate change recall. 2.2.4. Discovery and Clustering. Support unsupervised or embedding-based grouping of similar sites across a wider area so that an analyst who identifies one location of interest can discover other locations with comparable visual or semantic characteristics without manually constructing a new query for each site. 2.2.5. Analyst Workflow and Provenance. Provide a ranked review queue with before-and-after evidence, location, acquisition time, sensor or source information, confidence and relevant processing history. Analysts should be able to confirm or reject candidates, preserve those decisions in the audit trail, and use feedback for subsequent reranking or refinement where the chosen approach supports it. Exported results must retain source-scene and processing provenance. 2.2.6. Scale, Incremental Ingestion and Sovereignty. Support efficient vector or equivalent indexing, incremental addition of newly acquired imagery without a complete index rebuild, and complete on-premises operation without cloud services or external APIs during evaluation. Georeferencing and acquisition metadata must be preserved, and the solution should ingest organiser-defined common geospatial formats such as GeoTIFF or Cloud Optimized GeoTIFF (COG). 2.2.7. Constraints. The complete demonstration must run with network access. disabled after all approved models, libraries and datasets have been staged. locally. Pretrained public models may be used provided that their origin and licence are declared and the required weights are packaged for offline use. The evaluation will use publicly available or organiser-generated imagery only; no classified, operational or service-generated imagery will be included. 2.3 Expected Solution. A working system will be demonstrated over an organiser-defined area of interest and time span using public imagery. Retrieval will be evaluated against held-out semantic queries and relevance judgements, while change analysis will be evaluated against a held-out set of labelled change and no-change cases that participating teams have not seen. Teams must submit source code, an architecture note, the index-build and incremental-ingestion procedure, model and dataset provenance, and a reproducible evaluation report stating the indexed area, number of scenes or tiles, build time, storage footprint, query latency and hardware used. .",
+      "organization": "Ministry of defence (MoD)",
+      "department": "Indian Army (DGIS)",
+      "category": "Software",
+      "theme": "Space Technology",
+      "youtube_link": " ",
+      "dataset_link": "7. Dataset Link. All datasets must be publicly accessible under applicable licences or provided by the organisers. No classified, operational or service-generated data will be used. 7.1. Primary Imagery Sources. Copernicus Sentinel-2 optical imagery and Sentinel-1 SAR; USGS Landsat Collection 2; and NRSC/ISRO Bhuvan open Earth-observation data produc"
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26228",
+      "ps_id": "26228",
+      "title": "Trustworthy Computer Vision Integrity Assurance for Data, Models and Inference Outputs in Multi-Contributor Pipelines",
+      "description": "2. Description. 2.1. Background. Operational computer vision pipelines may combine training data from multiple contributors, pretrained or vendor-supplied models, and inference outputs consumed by downstream systems. This creates distinct integrity and assurance risks across the data, model and inference lifecycle. Data may contain deliberately or inadvertently mislabelled samples, duplicated content, out-of-distribution material or trigger-based backdoors. A model may be substituted, modified or contain hidden behaviour that is not apparent during routine validation. Inference records may also be replayed, replaced or altered after generation unless they are cryptographically linked to the exact input, model and processing chain that produced them. Existing controls often address only individual parts of this lifecycle. The challenge is therefore to create a unified, evidence-based assurance layer that can assess these risks without assuming that every contributing source is trusted. of Fos 2.2. Detailed Description. Teams are required to build an extensible computer-vision assurance framework that can evaluate a contributed dataset, a trained model and associated inference records, and produce an evidence-based assessment of integrity and risk. The solution should not be hard-coded to a single model architecture or dataset. Five core capabilities are required. 2.2.1. Training-Data Integrity. Identify suspicious or anomalous samples associated with trigger injection, label flipping, systematic mislabelling, near-duplicate flooding and out-of-distribution insertion. Where contributor, batch or source metadata is available, the system should aggregate sample-level evidence into a source-level risk assessment rather than flagging samples in isolation. 2.2.2. Model Integrity. Assess whether a supplied model exhibits anomalous, substituted or backdoor-like behaviour using methods appropriate to the level of access available. Approaches may include behavioural fingerprinting, trigger search or reconstruction, parameter or activation statistics, and comparison against a defined reference battery. The system must state the access assumptions, confidence and limitations of its assessment. 2.2.3. Inference Provenance and Output Integrity. Create a verifiable cryptographic binding among the input image, model identifier or weight digest, preprocessing and inference configuration, and resulting output. The design should make post-hoc alteration, substitution or replay of protected inference records detectable through hashes, signatures and appropriate sequence, timestamp or nonce controls. 2.2.4. Distribution-Shift and Anomaly Assessment. Detect material deviation from a declared reference distribution, including changes caused by terrain, season, sensor, illumination or acquisition conditions. The system should characterise the observed shift, provide a calibrated risk or confidence score, and distinguish probable operational drift from suspicious manipulation where the available evidence supports such a distinction. 2.2.5. Analyst-Facing Assurance and Governance. Every flag must include a human-readable reason, supporting evidence, confidence or severity, the affected asset, and a recommended disposition such as accept, review or quarantine. The solution must maintain a tamper-evident audit trail and explicitly declare attack classes or conditions that it does not support. 2.2.6. Constraints, the complete evaluation workflow must operate offline and in an air-gapped environment with no dependency on cloud services or external APIs. The solution should ingest common computer-vision dataset formats, including COCO and YOLO, and support the organiser-defined reference model formats, including ONNX and PyTorch/TorchScript. Baseline integrity assessment must not require retraining of the contributed model, although optional remediation may use retraining. Methods that require white-box access must fall back gracefully or clearly report that the relevant assessment is unavailable when only black-box access is provided. 2.3 Expected Solution. Teams are expected to develop a model-agnostic assurance system for assessing the integrity of training data, trained computer-vision models and inference outputs. The solution shall use publicly available or team-generated datasets and models, with teams developing reproducible methods to introduce representative poisoning, backdoor, substitution and tampering scenarios for testing. The system should identify suspicious data or contributor behaviour, assess model integrity, detect tampering of inference records, provide supporting evidence for each finding, and generate a clear assurance report stating confidence, limitations and recommended action. Each team must submit the source code, architecture and setup notes, the assurance-report schema, a reproducible audit log, and a clear coverage statement identifying supported attack classes, assumptions and known limitations.",
+      "organization": "Ministry of defence (MoD)",
+      "department": "Indian Army (DGIS)",
+      "category": "Software",
+      "theme": "Blockchain & Cybersecurity",
+      "youtube_link": " ",
+      "dataset_link": "Dataset Link. All development and evaluation data will be publicly available under applicable licences or synthetically generated. No classified, operational or service-generated data will be used. 7.1. Reference Attack and Assurance Resources. NIST TrojAl benchmark artefacts, BackdoorBench and other reproducible public backdoor or adversarial-machi"
+    },
+    {
+      "source_url": "https://www.sih.gov.in/sih2026PS",
+      "source_modal_id": "ViewProblemStatement26229",
+      "ps_id": "26229",
+      "title": "Kabadiwala Connect – Bringing the Informal Collector into the Formal Recycling Chain",
+      "description": "Background: The overwhelming majority of India’s end-of-life electronics is collected through informal scrap dealers, waste-pickers, and local aggregators due to their extensive last-mile reach and low collection costs. However, these informal collectors remain largely outside the formal recycling ecosystem. The E-Waste (Management) Rules, 2022 established a formal Extended Producer Responsibility (EPR) framework involving authorized recyclers, but there is currently limited access for informal collectors to participate in this formal recycling chain. As a result, material collected by informal aggregators may undergo unsafe backyard processing such as open-air cable burning, acid leaching of printed circuit boards, and manual desoldering without proper extraction facilities. While materials such as copper and small quantities of gold may be recovered, valuable materials including lithium, cobalt, neodymium, tantalum, gallium, and indium may be lost. These practices also expose workers to significant health and safety risks. The fundamental gap is not only technological but also informational and institutional. Informal collectors may not know the prevailing fair price of materials, which nearby recyclers are authorized, how to complete a compliant material handover, or how to obtain a documented record of the transaction. Consequently, there is limited incentive for collectors to prefer the formal recycling route Problem: Design and develop a vernacular, low-literacy, offline-tolerant mobile platform that enables informal scrap collectors to discover fair prices, connect directly with authorized recyclers, complete a documented and traceable handover of collected materials, and receive payment. The platform should make the formal recycling channel an economically attractive and convenient option for informal collectors rather than creating an additional compliance burden The platform should: • Allow collectors to photograph, categorize, and create digital lots of collected materials such as CRTs, LCD panels, PCBs, cables, batteries, motors and magnet-bearing assemblies, and mixed plastics, enter approximate weight, and receive an instant value estimate. • Provide a price discovery and historical price dataset containing material category, sub-category,location, date, prevailing buying price, unit of measurement, approximate market range, and recycler/aggregator offered price. The system should use this dataset to provide transparent and current price information to collectors and identify basic price trends. • Maintain a material and transaction dataset containing lot/reference ID, material category, material description, photograph/image reference, approximate weight, estimated value, quoted price, final sale value, date and time of collection, collection location, recycler details, and transaction status. This dataset should enable traceability of material from collection to authorized recycling. • Maintain an authorized recycler/aggregator dataset containing recycler/aggregator name, facility location, materials accepted, authorization/registration details, authorization status, contact details, offered rates, pickup availability, and service area. The platform should use this information to identify and rank suitable authorized recyclers for a collector's lot. • Use the collected material image, category, weight, location, historical price, and transaction data to support AI/ML-based features such as material classification, approximate valuation, recycler matching, and identification of abnormal or inconsistent transaction values, wherever sufficient training data is available. • Provide current buying rates for different material categories and locations through a simple price board, including spoken price information and basic price trends. • Match collected lots with nearby authorized recyclers or aggregators based on location, material category, offered rate, pickup availability, and authorization status. • Generate a digital and verifiable handover/transfer record containing photographs, weight, timestamp, GPS/location details, and a unique reference that can be confirmed by the recycler. • Maintain an easy-to-understand earnings ledger showing transactions, payments, and pending dues, thereby building a usable financial and transaction history for collectors. • Provide pictorial and/or audio-based safety guidance on hazardous practices, including improper burning or opening of materials and safe handling of batteries and CRTs. • Support Marathi and Hindi at a minimum and provide a genuinely usable interface for users with limited literacy. • Operate in low-connectivity environments through an offline-first architecture, allowing core activities to be completed offline and synchronized when connectivity becomes available. • Support entry-level Android devices with a small application size and low memory requirements. Allow cash-based transactions while keeping digital payment optional and not making it a prerequisite for using the platform. Dataset Requirements: The solution should be designed to create and utilize structured datasets generated through field operations and platform transactions. The minimum dataset should cover the following: • Material Dataset: Material category, sub-category, material description, image, approximate weight, condition, source type, and estimated value. • Price Dataset: Material category, location, date/time, buying price, selling/quoted price, unit, recycler/aggregator, and historical price information. • Recycler Dataset: Recycler/facility name, location, materials accepted, authorization status/details,contact information, offered rate, pickup availability, and service area. • Transaction Dataset: Unique lot ID, collector ID, material category, quantity/weight, quoted price, final price, recycler ID, collection location, handover location, date/time, payment status, and transaction status. • Traceability Dataset: Lot ID, photographs, weight, timestamp, GPS/location, handover reference number, recycler confirmation, and subsequent transaction status. • Collector Dataset: A minimal profile containing collector ID, preferred language, general operating location, transaction history, and earnings history. The system should avoid collecting unnecessary personal information. • AI/ML Training Dataset: Where AI/ML functionality is proposed, teams should develop or use appropriately sourced datasets containing material images, material categories, weights, prices, locations, and transaction records for model training and validation. Teams should clearly identify the source, quality, size, and limitations of such datasets. • The dataset should support data cleaning, validation, anonymization where required, historical analysis, price prediction, material classification, recycler recommendation, and transaction-level traceability. • Teams should demonstrate how the dataset is generated, stored, validated, updated, and used by the application rather than treating the dataset as a static database. Expected Outcome: The proposed solution should create a simple digital bridge between informal collectors and the formal recycling ecosystem, improving price transparency, enabling traceable material handovers, connecting collectors with authorized recyclers, promoting safer handling practices, and encouraging greater participation in the formal recycling chain. The solution should include a working mobile application, recycler-side interface, structured datasets for materials, prices, recyclers and transactions, field research involving at least two working scrap collectors or aggregators, and a live usability demonstration. Teams should also provide a short unit-economics assessment comparing the collector's existing earnings with the potential earnings through the proposed platform and explaining how the platform can sustain its operations.",
+      "organization": "Ministry of Mines (MoM)",
+      "department": "Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC)",
+      "category": "Software",
+      "theme": "Clean & Green Technology",
       "youtube_link": " "
     }
   ]

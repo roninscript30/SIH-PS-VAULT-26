@@ -16,8 +16,8 @@ tags:
 
 | PS ID | Title | Organization | Category | Theme |
 |-------|-------|-------------|----------|-------|
-| [PS-26137](../01-Problem-Statements/PS-26137.md) | Quantum-Inspired Intelligent Traffic Route Optimization in T | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [Fitness & Sports](../02-Themes/Fitness-Sports.md) |
-| [PS-26138](../01-Problem-Statements/PS-26138.md) | Quantum-Inspired Fuel Consumption Prediction and Green Fleet | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
+| [PS-26137](../01-Problem-Statements/PS-26137.md) | Quantum-Inspired Intelligent Traffic Route Optimization in T | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
+| [PS-26138](../01-Problem-Statements/PS-26138.md) | Quantum-Inspired Fuel Consumption Prediction and Green Fleet | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 | [PS-26139](../01-Problem-Statements/PS-26139.md) | Hybrid Quantum Machine Learning Platform for Early Disease D | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26140](../01-Problem-Statements/PS-26140.md) | AI-Based Interactive Quantum Algorithm Learning Platform | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26141](../01-Problem-Statements/PS-26141.md) | Quantum-Inspired Cyber Threat Detection for Digital Signatur | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |

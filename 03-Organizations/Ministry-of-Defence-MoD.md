@@ -20,8 +20,8 @@ tags:
 
 | PS ID | Title | Category | Theme |
 |-------|-------|----------|-------|
-| [PS-26098](../01-Problem-Statements/PS-26098.md) | Development of a Low-Cost Precision Guidance and Smart Electronic | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26098](../01-Problem-Statements/PS-26098.md) | Development of a Low-Cost Precision Guidance and Smart Electronic | Hardware | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
 
 ## 🏷️ Theme Breakdown
 
-- [Miscellaneous](../02-Themes/Miscellaneous.md) — 1 problems
+- [Smart Vehicles](../02-Themes/Smart-Vehicles.md) — 1 problems

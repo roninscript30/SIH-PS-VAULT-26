@@ -4,19 +4,19 @@ tags: [sih2026, dashboard]
 ---
 # 🏠 SIH 2026 — Intelligence Vault Dashboard
 
-> Smart India Hackathon 2026 · **226 Problem Statements** · Connected Knowledge Vault
+> Smart India Hackathon 2026 · **229 Problem Statements** · Connected Knowledge Vault
 
 ## 📊 Quick Overview
 
 | Metric | Count |
 |--------|------:|
-| Total Problem Statements | **226** |
-| Ministry & Nodal Org Problems | **192** |
-| Student Innovation Themes | **34** |
-| Software Problems | **172** |
+| Total Problem Statements | **229** |
+| Ministry & Nodal Org Problems | **229** |
+| Student Innovation Themes | **0** |
+| Software Problems | **175** |
 | Hardware Problems | **54** |
-| Themes | **18** |
-| Nodal Organizations | **30** |
+| Themes | **17** |
+| Nodal Organizations | **32** |
 
 ---
 
@@ -37,24 +37,23 @@ tags: [sih2026, dashboard]
 
 | Theme | Total | SW | HW | Link |
 |-------|------:|---:|---:|------|
-| Miscellaneous | 38 | 32 | 6 | [Miscellaneous](02-Themes/Miscellaneous.md) |
-| Smart Automation | 31 | 24 | 7 | [Smart Automation](02-Themes/Smart-Automation.md) |
-| Disaster Management | 29 | 24 | 5 | [Disaster Management](02-Themes/Disaster-Management.md) |
-| Blockchain & Cybersecurity | 22 | 20 | 2 | [Blockchain & Cybersecurity](02-Themes/Blockchain-Cybersecurity.md) |
-| MedTech / BioTech / HealthTech | 14 | 9 | 5 | [MedTech / BioTech / HealthTech](02-Themes/MedTech-BioTech-HealthTech.md) |
-| Smart Education | 13 | 11 | 2 | [Smart Education](02-Themes/Smart-Education.md) |
-| Agriculture, FoodTech & Rural Development | 12 | 8 | 4 | [Agriculture, FoodTech & Rural Development](02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
-| Space Technology | 11 | 9 | 2 | [Space Technology](02-Themes/Space-Technology.md) |
-| Robotics and Drones | 10 | 7 | 3 | [Robotics and Drones](02-Themes/Robotics-and-Drones.md) |
-| Transportation & Logistics | 8 | 7 | 1 | [Transportation & Logistics](02-Themes/Transportation-Logistics.md) |
-| Fitness & Sports | 8 | 5 | 3 | [Fitness & Sports](02-Themes/Fitness-Sports.md) |
-| Heritage & Culture | 7 | 3 | 4 | [Heritage & Culture](02-Themes/Heritage-Culture.md) |
-| Travel & Tourism | 6 | 3 | 3 | [Travel & Tourism](02-Themes/Travel-Tourism.md) |
-| Smart Resource Conservation | 5 | 2 | 3 | [Smart Resource Conservation](02-Themes/Smart-Resource-Conservation.md) |
-| Smart Vehicles | 4 | 2 | 2 | [Smart Vehicles](02-Themes/Smart-Vehicles.md) |
-| Renewable / Sustainable Energy | 4 | 2 | 2 | [Renewable / Sustainable Energy](02-Themes/Renewable-Sustainable-Energy.md) |
-| Clean & Green Technology | 2 | 2 | 0 | [Clean & Green Technology](02-Themes/Clean-Green-Technology.md) |
-| Toys & Games | 2 | 2 | 0 | [Toys & Games](02-Themes/Toys-Games.md) |
+| Smart Automation | 55 | 44 | 11 | [Smart Automation](02-Themes/Smart-Automation.md) |
+| Blockchain & Cybersecurity | 31 | 29 | 2 | [Blockchain & Cybersecurity](02-Themes/Blockchain-Cybersecurity.md) |
+| Disaster Management | 25 | 23 | 2 | [Disaster Management](02-Themes/Disaster-Management.md) |
+| Agriculture, FoodTech & Rural Development | 22 | 13 | 9 | [Agriculture, FoodTech & Rural Development](02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| MedTech / BioTech / HealthTech | 18 | 13 | 5 | [MedTech / BioTech / HealthTech](02-Themes/MedTech-BioTech-HealthTech.md) |
+| Miscellaneous | 15 | 12 | 3 | [Miscellaneous](02-Themes/Miscellaneous.md) |
+| Robotics and Drones | 12 | 4 | 8 | [Robotics and Drones](02-Themes/Robotics-and-Drones.md) |
+| Smart Education | 11 | 8 | 3 | [Smart Education](02-Themes/Smart-Education.md) |
+| Space Technology | 9 | 8 | 1 | [Space Technology](02-Themes/Space-Technology.md) |
+| Transportation & Logistics | 7 | 6 | 1 | [Transportation & Logistics](02-Themes/Transportation-Logistics.md) |
+| Clean & Green Technology | 7 | 5 | 2 | [Clean & Green Technology](02-Themes/Clean-Green-Technology.md) |
+| Smart Vehicles | 6 | 4 | 2 | [Smart Vehicles](02-Themes/Smart-Vehicles.md) |
+| Heritage & Culture | 3 | 2 | 1 | [Heritage & Culture](02-Themes/Heritage-Culture.md) |
+| Fitness & Sports | 2 | 1 | 1 | [Fitness & Sports](02-Themes/Fitness-Sports.md) |
+| Renewable / Sustainable Energy | 2 | 1 | 1 | [Renewable / Sustainable Energy](02-Themes/Renewable-Sustainable-Energy.md) |
+| Travel & Tourism | 2 | 1 | 1 | [Travel & Tourism](02-Themes/Travel-Tourism.md) |
+| Toys & Games | 2 | 1 | 1 | [Toys & Games](02-Themes/Toys-Games.md) |
 
 ---
 

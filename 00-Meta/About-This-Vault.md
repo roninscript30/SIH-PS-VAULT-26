@@ -9,7 +9,7 @@ type: meta
 - **Verified**: Independent re-parse + field-by-field comparison against live site
 
 ## Methodology
-1. All 226 problem statement modals scraped from official SIH 2026 portal
+1. All 229 problem statement modals scraped from official SIH 2026 portal
 2. CP1252→UTF-8 encoding artifacts repaired (curly quotes, degree symbols, etc.)
 3. Independent verification confirmed 0 data loss, 0 missing problems, 0 truncation
 4. Technologies and domains auto-extracted via keyword matching
@@ -22,9 +22,9 @@ type: meta
 - **🔴 Analytical Estimates**: Scores and strategic groupings (Layers 7-8)
 
 ## Vault Structure
-- `01-Problem-Statements/` — 226 PS files with 9 knowledge layers each
-- `02-Themes/` — 18 theme hub pages
-- `03-Organizations/` — 30 organization pages
+- `01-Problem-Statements/` — 229 PS files with 9 knowledge layers each
+- `02-Themes/` — 17 theme hub pages
+- `03-Organizations/` — 32 organization pages
 - `04-Technologies/` — Technology concept nodes
 - `05-Domains/` — Domain classification pages
 - `06-Analysis/` — Evaluation, similarity, shortlist, innovation analysis

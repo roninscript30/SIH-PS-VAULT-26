@@ -24,7 +24,7 @@ Every Problem Statement record captures:
 
 | Attribute | Type | Example | Description | Authority |
 | :--- | :--- | :--- | :--- | :--- |
-| `ps_id` | String | `"26001"` | Unique 5-digit SIH Problem Statement ID (`26001` to `26226`). | Official |
+| `ps_id` | String | `"26001"` | Unique 5-digit SIH Problem Statement ID (`26001` to `26229`). | Official |
 | `title` | String | `"AI-based Fundus Image Analysis..."` | Official title of the problem statement. | Official |
 | `source_url` | String | `"https://www.sih.gov.in/sih2026PS"` | Direct reference link to the official SIH portal. | Official |
 
@@ -120,7 +120,7 @@ The repository distinguishes between ground-truth data, raw snapshots, and gener
 ```
 
 1. **`data/sih2026_problem_statements.json` is the CANONICAL GROUND TRUTH DATASET**.
-   - Contains all 226 records in machine-readable JSON.
+   - Contains all 229 records in machine-readable JSON.
    - Preserves exact clean official text and metadata.
 2. **`data/sih2026_raw.html` is the RAW SOURCE SNAPSHOT**.
    - Serves as offline evidence of the raw portal HTML modals.

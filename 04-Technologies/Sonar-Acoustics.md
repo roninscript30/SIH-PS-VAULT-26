@@ -17,11 +17,11 @@ tags:
 | PS ID | Title | Organization | Category | Theme |
 |-------|-------|-------------|----------|-------|
 | [PS-26008](../01-Problem-Statements/PS-26008.md) | Belt Joint Rupture and Conveyor Belt Damages in Iron Ore Min | [Ministry of Steel](../03-Organizations/Ministry-of-Steel.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26052](../01-Problem-Statements/PS-26052.md) | To develop an AI/ML-enabled adaptive noise cancellation (ANC | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
-| [PS-26057](../01-Problem-Statements/PS-26057.md) | AI-Powered Automated Underwater Marine Debris and Anomaly De | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Renewable / Sustainabl](../02-Themes/Renewable-Sustainable-Energy.md) |
-| [PS-26058](../01-Problem-Statements/PS-26058.md) | Development of a Low-Power, Real-Time Adaptive Software-Defi | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Hardware | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
-| [PS-26067](../01-Problem-Statements/PS-26067.md) | Develop a web-based interactive 3D visualization platform th | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26104](../01-Problem-Statements/PS-26104.md) | AI-Powered Real-Time Detection and Prevention of Voice Cloni | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26052](../01-Problem-Statements/PS-26052.md) | To develop an AI/ML-enabled adaptive noise cancellation (ANC | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26057](../01-Problem-Statements/PS-26057.md) | AI-Powered Automated Underwater Marine Debris and Anomaly De | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26058](../01-Problem-Statements/PS-26058.md) | Development of a Low-Power, Real-Time Adaptive Software-Defi | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26067](../01-Problem-Statements/PS-26067.md) | Develop a web-based interactive 3D visualization platform th | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26104](../01-Problem-Statements/PS-26104.md) | AI-Powered Real-Time Detection and Prevention of Voice Cloni | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 

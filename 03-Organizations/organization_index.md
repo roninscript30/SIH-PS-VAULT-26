@@ -34,4 +34,6 @@ type: index
 | Mangalore Refinery and Petrochemicals Limited | PSU | 3 | [Mangalore Refinery and Petrochemicals Limited](./Mangalore-Refinery-and-Petrochemicals-Limited-MRPL.md) |
 | MathWorks | Industry | 2 | [MathWorks](./MathWorks.md) |
 | Ministry of Petroleum & Natural Gas | Government | 2 | [Ministry of Petroleum & Natural Gas](./Ministry-of-Petroleum-Natural-Gas.md) |
+| Ministry of defence (MoD) | Government | 2 | [Ministry of defence (MoD)](./Ministry-of-defence-MoD.md) |
 | Ministry of Defence (MoD) | Government | 1 | [Ministry of Defence (MoD)](./Ministry-of-Defence-MoD.md) |
+| Ministry of Mines (MoM) | Government | 1 | [Ministry of Mines (MoM)](./Ministry-of-Mines-MoM.md) |

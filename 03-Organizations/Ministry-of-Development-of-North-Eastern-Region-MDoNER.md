@@ -19,14 +19,14 @@ tags:
 | PS ID | Title | Category | Theme |
 |-------|-------|----------|-------|
 | [PS-26001](../01-Problem-Statements/PS-26001.md) | AI-Based early warning and landslide Risk Monitoring System in NE | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
-| [PS-26002](../01-Problem-Statements/PS-26002.md) | Al-Based Smart Logistics and Accessibility Intelligence Platform  | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26003](../01-Problem-Statements/PS-26003.md) | AI-Based Cognitive Gaming and Memory Assistance Platform for Elde | Software | [Space Technology](../02-Themes/Space-Technology.md) |
-| [PS-26004](../01-Problem-Statements/PS-26004.md) | Al-Assisted Early Detection System for Osteoarthritis (OA) Risk M | Hardware | [Space Technology](../02-Themes/Space-Technology.md) |
-| [PS-26005](../01-Problem-Statements/PS-26005.md) | Solar-Powered Smart Mini Cold Storage System for Fresh Vegetables | Hardware | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
+| [PS-26002](../01-Problem-Statements/PS-26002.md) | Al-Based Smart Logistics and Accessibility Intelligence Platform  | Software | [Transportation & Logistics](../02-Themes/Transportation-Logistics.md) |
+| [PS-26003](../01-Problem-Statements/PS-26003.md) | AI-Based Cognitive Gaming and Memory Assistance Platform for Elde | Software | [MedTech / BioTech / HealthTech](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26004](../01-Problem-Statements/PS-26004.md) | Al-Assisted Early Detection System for Osteoarthritis (OA) Risk M | Hardware | [MedTech / BioTech / HealthTech](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26005](../01-Problem-Statements/PS-26005.md) | Solar-Powered Smart Mini Cold Storage System for Fresh Vegetables | Hardware | [Agriculture, FoodTech & Rural Development](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 
 ## 🏷️ Theme Breakdown
 
-- [Space Technology](../02-Themes/Space-Technology.md) — 2 problems
+- [MedTech / BioTech / HealthTech](../02-Themes/MedTech-BioTech-HealthTech.md) — 2 problems
 - [Disaster Management](../02-Themes/Disaster-Management.md) — 1 problems
-- [Smart Automation](../02-Themes/Smart-Automation.md) — 1 problems
-- [Smart Vehicles](../02-Themes/Smart-Vehicles.md) — 1 problems
+- [Transportation & Logistics](../02-Themes/Transportation-Logistics.md) — 1 problems
+- [Agriculture, FoodTech & Rural Development](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) — 1 problems

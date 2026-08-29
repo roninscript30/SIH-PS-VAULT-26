@@ -18,10 +18,10 @@ tags:
 
 | PS ID | Title | Category | Theme |
 |-------|-------|----------|-------|
-| [PS-26037](../01-Problem-Statements/PS-26037.md) | Adaptive Path Planning and Collision Avoidance for Autonomous Veh | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
-| [PS-26038](../01-Problem-Statements/PS-26038.md) | Explainable AI for Diabetic Retinopathy Screening in Rural India | Software | [Clean & Green Technology](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26037](../01-Problem-Statements/PS-26037.md) | Adaptive Path Planning and Collision Avoidance for Autonomous Veh | Software | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
+| [PS-26038](../01-Problem-Statements/PS-26038.md) | Explainable AI for Diabetic Retinopathy Screening in Rural India | Software | [MedTech / BioTech / HealthTech](../02-Themes/MedTech-BioTech-HealthTech.md) |
 
 ## 🏷️ Theme Breakdown
 
-- [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) — 1 problems
-- [Clean & Green Technology](../02-Themes/Clean-Green-Technology.md) — 1 problems
+- [Smart Vehicles](../02-Themes/Smart-Vehicles.md) — 1 problems
+- [MedTech / BioTech / HealthTech](../02-Themes/MedTech-BioTech-HealthTech.md) — 1 problems

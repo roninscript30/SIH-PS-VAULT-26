@@ -626,7 +626,7 @@ def main():
     print("Cleaning obsolete/orphaned generated artifacts...")
     clean_stale_artifacts(problems, VAULT_ROOT)
 
-    print("Generating 226 clean PS markdown files...")
+    print(f"Generating {len(problems)} clean PS markdown files...")
     for ps in problems:
         generate_ps_file(ps, VAULT_ROOT)
     print("  ✓ PS files done")

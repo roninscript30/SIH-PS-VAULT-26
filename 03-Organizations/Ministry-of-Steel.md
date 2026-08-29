@@ -23,9 +23,10 @@ tags:
 | [PS-26006](../01-Problem-Statements/PS-26006.md) | Development of an Intelligent Freight Forecasting Model for Optim | Software | [Transportation & Logistics](../02-Themes/Transportation-Logistics.md) |
 | [PS-26007](../01-Problem-Statements/PS-26007.md) | Safe and Efficient Operation of Mine Vehicles in Fog and Low-Visi | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26008](../01-Problem-Statements/PS-26008.md) | Belt Joint Rupture and Conveyor Belt Damages in Iron Ore Mining I | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26009](../01-Problem-Statements/PS-26009.md) | Using AI/ML and Space Technology to Identify Manganese Reserves a | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26009](../01-Problem-Statements/PS-26009.md) | Using AI/ML and Space Technology to Identify Manganese Reserves a | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 
 ## 🏷️ Theme Breakdown
 
-- [Smart Automation](../02-Themes/Smart-Automation.md) — 3 problems
+- [Smart Automation](../02-Themes/Smart-Automation.md) — 2 problems
 - [Transportation & Logistics](../02-Themes/Transportation-Logistics.md) — 1 problems
+- [Space Technology](../02-Themes/Space-Technology.md) — 1 problems

@@ -19,10 +19,9 @@ tags:
 | PS ID | Title | Category | Theme |
 |-------|-------|----------|-------|
 | [PS-26117](../01-Problem-Statements/PS-26117.md) | Sovereign On-Premise Agentic AI Workbench using Open-Weight Multi | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26118](../01-Problem-Statements/PS-26118.md) | Passive Colorimetric H2S Exposure-Dosimeter Wristband with AI-Bas | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
-| [PS-26119](../01-Problem-Statements/PS-26119.md) | Indigenous GPU-Accelerated Optimization Solver (Sovereign Alterna | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26118](../01-Problem-Statements/PS-26118.md) | Passive Colorimetric H2S Exposure-Dosimeter Wristband with AI-Bas | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26119](../01-Problem-Statements/PS-26119.md) | Indigenous GPU-Accelerated Optimization Solver (Sovereign Alterna | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 
 ## 🏷️ Theme Breakdown
 
-- [Miscellaneous](../02-Themes/Miscellaneous.md) — 2 problems
-- [Smart Automation](../02-Themes/Smart-Automation.md) — 1 problems
+- [Smart Automation](../02-Themes/Smart-Automation.md) — 3 problems
