@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Law-Enforcement"
-problem_count: 27
+problem_count: 28
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **27 Problem Statements** fall in this domain
+> **28 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -23,7 +23,7 @@ tags:
 | [PS-26055](../01-Problem-Statements/PS-26055.md) | Smart Scan strategy for Electronic Warfare | [DRDO](../03-Organizations/DRDO.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26093](../01-Problem-Statements/PS-26093.md) | AI-Based Real-Time Stress and Trauma Assessment Module  | [Ministry of Social Justic](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26095](../01-Problem-Statements/PS-26095.md) | Smart Real-Time Monitoring & Inspection Mobile App | [Ministry of Social Justic](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Fore | [All India Council for Tec](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Fore | [All India Council for Tec](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26109](../01-Problem-Statements/PS-26109.md) | Al-Based Predictive Modelling for Early Forecasting of  | [Ministry of Fisheries, An](../03-Organizations/Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26128](../01-Problem-Statements/PS-26128.md) | Efficient systems for early detection,prevention,and ma | [Government Of Maharashtra](../03-Organizations/Government-Of-Maharashtra.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26131](../01-Problem-Statements/PS-26131.md) | Early detection and management of crop diseases and pes | [Government Of Maharashtra](../03-Organizations/Government-Of-Maharashtra.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
@@ -43,3 +43,4 @@ tags:
 | [PS-26188](../01-Problem-Statements/PS-26188.md) | Al-Based Fake Identity & Document Screening System | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26189](../01-Problem-Statements/PS-26189.md) | AI-Powered Criminal Network Analysis System | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26190](../01-Problem-Statements/PS-26190.md) | Secure Digital Document Management System for Legal and | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |

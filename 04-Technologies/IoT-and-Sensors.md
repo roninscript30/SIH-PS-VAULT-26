@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "IoT-and-Sensors"
-problem_count: 47
+problem_count: 48
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **47 Problem Statements** leverage this technology
+> **48 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -63,6 +63,7 @@ tags:
 | [PS-26192](../01-Problem-Statements/PS-26192.md) | Flash Flood Prediction System for Hilly Regions using Multi- | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26227](../01-Problem-Statements/PS-26227.md) | Semantic Retrieval and Multi-Temporal Change Analysis of Sat | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Data, Mo | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
@@ -71,6 +72,6 @@ tags:
 - [Web-Platforms](./Web-Platforms.md) — 19 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 14 shared problems
 - [Robotics](./Robotics.md) — 12 shared problems
-- [Edge-Computing](./Edge-Computing.md) — 10 shared problems
+- [Edge-Computing](./Edge-Computing.md) — 11 shared problems
 - [Computer-Vision](./Computer-Vision.md) — 9 shared problems
 - [GPS-and-Navigation](./GPS-and-Navigation.md) — 8 shared problems

@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Web-Platforms"
-problem_count: 88
+problem_count: 89
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **88 Problem Statements** leverage this technology
+> **89 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -57,7 +57,7 @@ tags:
 | [PS-26084](../01-Problem-Statements/PS-26084.md) | Convective scale nowcasting for Thunderstorms, Hail & Cloudb | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26085](../01-Problem-Statements/PS-26085.md) | Urban Flood Nowcasting System (Drainage and Rainfall Couplin | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26086](../01-Problem-Statements/PS-26086.md) | Hyperlocal Monsoon Onset & Break Prediction System (Block/Vi | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
-| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI-Enabled Cooperative Capacity Building, ERP & Employment E | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI & LMS - Enabled Cooperative Capacity Building, ERP & Empl | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26088](../01-Problem-Statements/PS-26088.md) | Multilingual Cooperative Governance & Legal Assistance Chatb | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26089](../01-Problem-Statements/PS-26089.md) | Cooperative Gig Services Platform for Household & Community  | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26093](../01-Problem-Statements/PS-26093.md) | AI-Based Real-Time Stress and Trauma Assessment Module for V | [Ministry of Social Justice a](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
@@ -68,8 +68,8 @@ tags:
 | [PS-26101](../01-Problem-Statements/PS-26101.md) | Develop an AI enabled learning platform that identifies comp | [MoSPI](../03-Organizations/MoSPI.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26102](../01-Problem-Statements/PS-26102.md) | Development of an AI-powered system to detect anomalies, fra | [MoSPI](../03-Organizations/MoSPI.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26103](../01-Problem-Statements/PS-26103.md) | Use case on web-based integrated project-monitoring platform | [MoSPI](../03-Organizations/MoSPI.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26105](../01-Problem-Statements/PS-26105.md) | AI-Powered Continuous Cyber Risk Quantification and Investme | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
-| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Forensic  | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26105](../01-Problem-Statements/PS-26105.md) | AI-Powered Continuous Cyber Risk Quantification and Investme | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Forensic  | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26109](../01-Problem-Statements/PS-26109.md) | Al-Based Predictive Modelling for Early Forecasting of Bovin | [Ministry of Fisheries, Anima](../03-Organizations/Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md) | Hardware | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26111](../01-Problem-Statements/PS-26111.md) | Smart Al-Enabled Rapid Feed and Silage Quality Testing Syste | [Ministry of Fisheries, Anima](../03-Organizations/Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26121](../01-Problem-Statements/PS-26121.md) | eRTMAC-NWIS (Nearby Wells Intelligence System): An AI-Powere | [Oil India Limited](../03-Organizations/Oil-India-Limited.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
@@ -104,6 +104,7 @@ tags:
 | [PS-26183](../01-Problem-Statements/PS-26183.md) | Real-Time Identification of Fraud-Linked Cryptocurrency Exch | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26184](../01-Problem-Statements/PS-26184.md) | Development of a Predictive Analytics Framework for Cybercri | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26186](../01-Problem-Statements/PS-26186.md) | AI-Based Predictive Personnel Stress and Welfare Monitoring  | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
@@ -111,7 +112,7 @@ tags:
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 38 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 30 shared problems
 - [NLP](./NLP.md) — 26 shared problems
+- [Mobile-Development](./Mobile-Development.md) — 20 shared problems
 - [IoT-and-Sensors](./IoT-and-Sensors.md) — 19 shared problems
-- [Mobile-Development](./Mobile-Development.md) — 19 shared problems
 - [Data-Analytics](./Data-Analytics.md) — 16 shared problems
 - [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 13 shared problems

@@ -19,9 +19,9 @@ tags:
 | PS ID | Title | Organization | Category |
 |-------|-------|-------------|----------|
 | [PS-26026](../01-Problem-Statements/PS-26026.md) | Development of Mobile (Quadruped)/Handheld Device/System for Real-Time | [Ministry of Railways](../03-Organizations/Ministry-of-Railways.md) | Hardware |
-| [PS-26104](../01-Problem-Statements/PS-26104.md) | AI-Powered Real-Time Detection and Prevention of Voice Cloning Imperso | [All India Council for Technical Edu](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software |
-| [PS-26105](../01-Problem-Statements/PS-26105.md) | AI-Powered Continuous Cyber Risk Quantification and Investment Optimiz | [All India Council for Technical Edu](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software |
-| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Forensic Intelligen | [All India Council for Technical Edu](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software |
+| [PS-26104](../01-Problem-Statements/PS-26104.md) | AI-Powered Real-Time Detection and Prevention of Voice Cloning Imperso | [All India Council for Technical Edu](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software |
+| [PS-26105](../01-Problem-Statements/PS-26105.md) | AI-Powered Continuous Cyber Risk Quantification and Investment Optimiz | [All India Council for Technical Edu](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software |
+| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Forensic Intelligen | [All India Council for Technical Edu](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software |
 | [PS-26125](../01-Problem-Statements/PS-26125.md) | Blockchain-Based Secure Platform for Identity,Access Control, and Digi | [Bharat Electronics Limited](../03-Organizations/Bharat-Electronics-Limited.md) | Software |
 | [PS-26141](../01-Problem-Statements/PS-26141.md) | Quantum-Inspired Cyber Threat Detection for Digital Signature Security | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software |
 | [PS-26145](../01-Problem-Statements/PS-26145.md) | AI-Based Detection of Cyber Threats in Unidirectional IP Traffic | [National Technical Research Organis](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Software |
@@ -65,7 +65,7 @@ tags:
 
 - [National Technical Research Organisation (NTRO)](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) — 15 problems
 - [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) — 7 problems
-- [All India Council for Technical Education (AICTE)](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) — 3 problems
+- [All India Council for Technical Education (Cyber Security Cell)](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) — 3 problems
 - [AICTE](../03-Organizations/AICTE.md) — 2 problems
 - [Ministry of Railways](../03-Organizations/Ministry-of-Railways.md) — 1 problems
 - [Bharat Electronics Limited](../03-Organizations/Bharat-Electronics-Limited.md) — 1 problems

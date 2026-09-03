@@ -39,14 +39,14 @@ type: index
 - [PS-26020](../01-Problem-Statements/PS-26020.md) — Design and Development of Innovative Hand-Spinning Equipment for Enhancing 
 - *...and 17 more in full theme catalog*
 
-## [MedTech / BioTech / HealthTech](./MedTech-BioTech-HealthTech.md) (18 problems)
+## [MedTech / BioTech / HealthTech](./MedTech-BioTech-HealthTech.md) (20 problems)
 
 - [PS-26003](../01-Problem-Statements/PS-26003.md) — AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dement
 - [PS-26004](../01-Problem-Statements/PS-26004.md) — Al-Assisted Early Detection System for Osteoarthritis (OA) Risk Markers in 
 - [PS-26038](../01-Problem-Statements/PS-26038.md) — Explainable AI for Diabetic Retinopathy Screening in Rural India
 - [PS-26045](../01-Problem-Statements/PS-26045.md) — IP-SAKTI Sahayak a multilingual, RAG-based (source-cited) AI assistant for 
 - [PS-26046](../01-Problem-Statements/PS-26046.md) — AIIA Clinical Trials Dashboard - a real-time, cloud-based, GCP-compliant Cl
-- *...and 13 more in full theme catalog*
+- *...and 15 more in full theme catalog*
 
 ## [Miscellaneous](./Miscellaneous.md) (15 problems)
 

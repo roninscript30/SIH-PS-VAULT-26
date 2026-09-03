@@ -3,7 +3,7 @@ type: index
 ---
 # ⚙️ Problems by Category
 
-## 💻 Software Problems (175)
+## 💻 Software Problems (176)
 
 | PS ID | Title | Organization | Theme |
 |-------|-------|-------------|-------|
@@ -86,9 +86,9 @@ type: index
 | [PS-26101](../01-Problem-Statements/PS-26101.md) | Develop an AI enabled learning platform that identifies comp | [MoSPI](../03-Organizations/MoSPI.md) | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26102](../01-Problem-Statements/PS-26102.md) | Development of an AI-powered system to detect anomalies, fra | [MoSPI](../03-Organizations/MoSPI.md) | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26103](../01-Problem-Statements/PS-26103.md) | Use case on web-based integrated project-monitoring platform | [MoSPI](../03-Organizations/MoSPI.md) | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26104](../01-Problem-Statements/PS-26104.md) | AI-Powered Real-Time Detection and Prevention of Voice Cloni | [All India Council for Technica](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
-| [PS-26105](../01-Problem-Statements/PS-26105.md) | AI-Powered Continuous Cyber Risk Quantification and Investme | [All India Council for Technica](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
-| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Forensic  | [All India Council for Technica](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26104](../01-Problem-Statements/PS-26104.md) | AI-Powered Real-Time Detection and Prevention of Voice Cloni | [All India Council for Technica](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26105](../01-Problem-Statements/PS-26105.md) | AI-Powered Continuous Cyber Risk Quantification and Investme | [All India Council for Technica](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Forensic  | [All India Council for Technica](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26107](../01-Problem-Statements/PS-26107.md) | Al-powered Intelligent Assistant for Indian Standards and BI | [Ministry of Consumer Affairs, ](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26108](../01-Problem-Statements/PS-26108.md) | AI-Powered Recommendation Engine for Identifying Applicable  | [Ministry of Consumer Affairs, ](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26111](../01-Problem-Statements/PS-26111.md) | Smart Al-Enabled Rapid Feed and Silage Quality Testing Syste | [Ministry of Fisheries, Animal ](../03-Organizations/Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md) | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
@@ -182,8 +182,9 @@ type: index
 | [PS-26227](../01-Problem-Statements/PS-26227.md) | Semantic Retrieval and Multi-Temporal Change Analysis of Sat | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Data, Mo | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector into th | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 
-## 🔌 Hardware Problems (54)
+## 🔌 Hardware Problems (55)
 
 | PS ID | Title | Organization | Theme |
 |-------|-------|-------------|-------|
@@ -207,7 +208,7 @@ type: index
 | [PS-26058](../01-Problem-Statements/PS-26058.md) | Development of a Low-Power, Real-Time Adaptive Software-Defi | [Ministry of Earth Sciences (Mo](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26064](../01-Problem-Statements/PS-26064.md) | Low-Cost Deployable Seafloor Metal Detection Sensor for Ocea | [Ministry of Earth Sciences (Mo](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26065](../01-Problem-Statements/PS-26065.md) | Autonomous Low-Cost Ocean Observation Platform for Polar and | [Ministry of Earth Sciences (Mo](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
-| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI-Enabled Cooperative Capacity Building, ERP & Employment E | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI & LMS - Enabled Cooperative Capacity Building, ERP & Empl | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26088](../01-Problem-Statements/PS-26088.md) | Multilingual Cooperative Governance & Legal Assistance Chatb | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26096](../01-Problem-Statements/PS-26096.md) | Digital Heritage Archive for Memorials, Manuscripts & Ambedk | [Ministry of Social Justice and](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26098](../01-Problem-Statements/PS-26098.md) | Development of a Low-Cost Precision Guidance and Smart Elect | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
@@ -241,3 +242,4 @@ type: index
 | [PS-26224](../01-Problem-Statements/PS-26224.md) | Student Innovation-Smart education,a concept that describes  | [AICTE](../03-Organizations/AICTE.md) | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26225](../01-Problem-Statements/PS-26225.md) | Student Innovation-Challenge your creative mind to conceptua | [AICTE](../03-Organizations/AICTE.md) | [Toys & Games](../02-Themes/Toys-Games.md) |
 | [PS-26226](../01-Problem-Statements/PS-26226.md) | Student Innovation-Space technology refers to the applicatio | [AICTE](../03-Organizations/AICTE.md) | [Space Technology](../02-Themes/Space-Technology.md) |
+| [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |

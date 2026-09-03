@@ -1,9 +1,9 @@
 ---
 type: theme
 theme: "MedTech / BioTech / HealthTech"
-problem_count: 18
-software_count: 13
-hardware_count: 5
+problem_count: 20
+software_count: 14
+hardware_count: 6
 tags:
   - sih2026
   - theme
@@ -12,7 +12,7 @@ tags:
 
 [← Theme Catalog Index](./theme_index.md)
 
-> **18 Problem Statements** (13 Software, 5 Hardware)
+> **20 Problem Statements** (14 Software, 6 Hardware)
 
 ## 📋 Problem Statements in MedTech / BioTech / HealthTech
 
@@ -36,21 +36,24 @@ tags:
 | [PS-26186](../01-Problem-Statements/PS-26186.md) | AI-Based Predictive Personnel Stress and Welfare Monitoring System for | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software |
 | [PS-26198](../01-Problem-Statements/PS-26198.md) | Student Innovation-Cutting-edge technology in these sectors continues  | [AICTE](../03-Organizations/AICTE.md) | Software |
 | [PS-26215](../01-Problem-Statements/PS-26215.md) | Student Innovation-Cutting-edge technology in these sectors continues  | [AICTE](../03-Organizations/AICTE.md) | Hardware |
+| [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware |
+| [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software |
 
 ## 🔧 Top Technologies
 
 - [AI-and-ML](../04-Technologies/AI-and-ML.md) — 14 problems
-- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 9 problems
+- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 10 problems
 - [NLP](../04-Technologies/NLP.md) — 8 problems
+- [Mobile-Development](../04-Technologies/Mobile-Development.md) — 5 problems
+- [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 4 problems
 - [Cloud-Computing](../04-Technologies/Cloud-Computing.md) — 4 problems
-- [Mobile-Development](../04-Technologies/Mobile-Development.md) — 4 problems
-- [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 3 problems
-- [Cybersecurity-Tech](../04-Technologies/Cybersecurity-Tech.md) — 2 problems
-- [3D-Modeling](../04-Technologies/3D-Modeling.md) — 2 problems
+- [Cybersecurity-Tech](../04-Technologies/Cybersecurity-Tech.md) — 3 problems
+- [Edge-Computing](../04-Technologies/Edge-Computing.md) — 3 problems
 
 ## 🏢 Participating Organizations
 
 - [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) — 4 problems
+- [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) — 3 problems
 - [Ministry of Development of North Eastern Region (MDoNER)](../03-Organizations/Ministry-of-Development-of-North-Eastern-Region-MDoNER.md) — 2 problems
 - [Ministry of Social Justice and Empowerment (MoSJE)](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) — 2 problems
 - [Autodesk](../03-Organizations/Autodesk.md) — 2 problems
@@ -59,4 +62,3 @@ tags:
 - [MathWorks](../03-Organizations/MathWorks.md) — 1 problems
 - [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) — 1 problems
 - [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) — 1 problems
-- [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) — 1 problems

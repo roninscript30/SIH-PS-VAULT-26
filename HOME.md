@@ -4,17 +4,17 @@ tags: [sih2026, dashboard]
 ---
 # 🏠 SIH 2026 — Intelligence Vault Dashboard
 
-> Smart India Hackathon 2026 · **229 Problem Statements** · Connected Knowledge Vault
+> Smart India Hackathon 2026 · **231 Problem Statements** · Connected Knowledge Vault
 
 ## 📊 Quick Overview
 
 | Metric | Count |
 |--------|------:|
-| Total Problem Statements | **229** |
-| Ministry & Nodal Org Problems | **229** |
+| Total Problem Statements | **231** |
+| Ministry & Nodal Org Problems | **231** |
 | Student Innovation Themes | **0** |
-| Software Problems | **175** |
-| Hardware Problems | **54** |
+| Software Problems | **176** |
+| Hardware Problems | **55** |
 | Themes | **17** |
 | Nodal Organizations | **32** |
 
@@ -41,7 +41,7 @@ tags: [sih2026, dashboard]
 | Blockchain & Cybersecurity | 31 | 29 | 2 | [Blockchain & Cybersecurity](02-Themes/Blockchain-Cybersecurity.md) |
 | Disaster Management | 25 | 23 | 2 | [Disaster Management](02-Themes/Disaster-Management.md) |
 | Agriculture, FoodTech & Rural Development | 22 | 13 | 9 | [Agriculture, FoodTech & Rural Development](02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
-| MedTech / BioTech / HealthTech | 18 | 13 | 5 | [MedTech / BioTech / HealthTech](02-Themes/MedTech-BioTech-HealthTech.md) |
+| MedTech / BioTech / HealthTech | 20 | 14 | 6 | [MedTech / BioTech / HealthTech](02-Themes/MedTech-BioTech-HealthTech.md) |
 | Miscellaneous | 15 | 12 | 3 | [Miscellaneous](02-Themes/Miscellaneous.md) |
 | Robotics and Drones | 12 | 4 | 8 | [Robotics and Drones](02-Themes/Robotics-and-Drones.md) |
 | Smart Education | 11 | 8 | 3 | [Smart Education](02-Themes/Smart-Education.md) |
@@ -64,8 +64,8 @@ tags: [sih2026, dashboard]
 | AICTE | Government | 34 | [AICTE](03-Organizations/AICTE.md) |
 | Ministry of Earth Sciences (MoES) | Government | 30 | [Ministry of Earth Sciences (MoES)](03-Organizations/Ministry-of-Earth-Sciences-MoES.md) |
 | National Technical Research Organisation (NTR | Government | 23 | [National Technical Research Organisation (NTR](03-Organizations/National-Technical-Research-Organisation-NTRO.md) |
+| Ministry of Home Affairs | Government | 13 | [Ministry of Home Affairs](03-Organizations/Ministry-of-Home-Affairs.md) |
 | Indian Space Research Organisation(ISRO) | Government | 11 | [Indian Space Research Organisation(ISRO)](03-Organizations/Indian-Space-Research-OrganisationISRO.md) |
-| Ministry of Home Affairs | Government | 11 | [Ministry of Home Affairs](03-Organizations/Ministry-of-Home-Affairs.md) |
 | Ministry of Rural Development | Government | 10 | [Ministry of Rural Development](03-Organizations/Ministry-of-Rural-Development.md) |
 | Ministry of Consumer Affairs, Food & Public D | Government | 10 | [Ministry of Consumer Affairs, Food & Public D](03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) |
 | Government Of Maharashtra | Government | 9 | [Government Of Maharashtra](03-Organizations/Government-Of-Maharashtra.md) |

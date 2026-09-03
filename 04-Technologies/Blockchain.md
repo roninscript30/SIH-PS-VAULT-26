@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Blockchain"
-problem_count: 15
+problem_count: 16
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **15 Problem Statements** leverage this technology
+> **16 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -31,14 +31,15 @@ tags:
 | [PS-26194](../01-Problem-Statements/PS-26194.md) | Student Innovation-Provide ideas in a decentralized and dist | [AICTE](../03-Organizations/AICTE.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26211](../01-Problem-Statements/PS-26211.md) | Student Innovation-Provide ideas in a decentralized and dist | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Data, Mo | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
 - [AI-and-ML](./AI-and-ML.md) — 9 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 8 shared problems
 - [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 8 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 7 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 5 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 3 shared problems
-- [Mobile-Development](./Mobile-Development.md) — 2 shared problems
+- [Mobile-Development](./Mobile-Development.md) — 3 shared problems
 - [NLP](./NLP.md) — 2 shared problems
 - [Quantum-Computing](./Quantum-Computing.md) — 2 shared problems

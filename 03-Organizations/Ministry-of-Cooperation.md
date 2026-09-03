@@ -20,7 +20,7 @@ tags:
 
 | PS ID | Title | Category | Theme |
 |-------|-------|----------|-------|
-| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI-Enabled Cooperative Capacity Building, ERP & Employment Ecosys | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI & LMS - Enabled Cooperative Capacity Building, ERP & Employmen | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26088](../01-Problem-Statements/PS-26088.md) | Multilingual Cooperative Governance & Legal Assistance Chatbot | Hardware | [Agriculture, FoodTech & Rural Development](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26089](../01-Problem-Statements/PS-26089.md) | Cooperative Gig Services Platform for Household & Community Servi | Software | [Agriculture, FoodTech & Rural Development](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 

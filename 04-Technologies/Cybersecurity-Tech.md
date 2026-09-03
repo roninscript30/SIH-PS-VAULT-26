@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Cybersecurity-Tech"
-problem_count: 23
+problem_count: 24
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **23 Problem Statements** leverage this technology
+> **24 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -18,9 +18,9 @@ tags:
 |-------|-------|-------------|----------|-------|
 | [PS-26046](../01-Problem-Statements/PS-26046.md) | AIIA Clinical Trials Dashboard - a real-time, cloud-based, G | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26101](../01-Problem-Statements/PS-26101.md) | Develop an AI enabled learning platform that identifies comp | [MoSPI](../03-Organizations/MoSPI.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
-| [PS-26104](../01-Problem-Statements/PS-26104.md) | AI-Powered Real-Time Detection and Prevention of Voice Cloni | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
-| [PS-26105](../01-Problem-Statements/PS-26105.md) | AI-Powered Continuous Cyber Risk Quantification and Investme | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
-| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Forensic  | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26104](../01-Problem-Statements/PS-26104.md) | AI-Powered Real-Time Detection and Prevention of Voice Cloni | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26105](../01-Problem-Statements/PS-26105.md) | AI-Powered Continuous Cyber Risk Quantification and Investme | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Forensic  | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26125](../01-Problem-Statements/PS-26125.md) | Blockchain-Based Secure Platform for Identity,Access Control | [Bharat Electronics Limited](../03-Organizations/Bharat-Electronics-Limited.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26136](../01-Problem-Statements/PS-26136.md) | Startup friendly public procurement mechanism that enables g | [Government Of Maharashtra](../03-Organizations/Government-Of-Maharashtra.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26141](../01-Problem-Statements/PS-26141.md) | Quantum-Inspired Cyber Threat Detection for Digital Signatur | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
@@ -39,6 +39,7 @@ tags:
 | [PS-26186](../01-Problem-Statements/PS-26186.md) | AI-Based Predictive Personnel Stress and Welfare Monitoring  | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26187](../01-Problem-Statements/PS-26187.md) | AI-Based Intelligent Video Analytics Platform for Border Sur | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26190](../01-Problem-Statements/PS-26190.md) | Secure Digital Document Management System for Legal and Inve | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
@@ -49,4 +50,4 @@ tags:
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 6 shared problems
 - [Data-Analytics](./Data-Analytics.md) — 5 shared problems
 - [NLP](./NLP.md) — 4 shared problems
-- [Edge-Computing](./Edge-Computing.md) — 1 shared problems
+- [Edge-Computing](./Edge-Computing.md) — 2 shared problems

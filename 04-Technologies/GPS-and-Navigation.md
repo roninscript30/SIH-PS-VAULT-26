@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "GPS-and-Navigation"
-problem_count: 17
+problem_count: 18
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **17 Problem Statements** leverage this technology
+> **18 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -33,14 +33,15 @@ tags:
 | [PS-26168](../01-Problem-Statements/PS-26168.md) | AI-ML based Intelligent Dead Reckoning system for seamless n | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
 | [PS-26177](../01-Problem-Statements/PS-26177.md) | A deployable AI-powered autonomous drone that aids search-an | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector into th | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | Software | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
 - [AI-and-ML](./AI-and-ML.md) — 15 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 10 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 9 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 10 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 8 shared problems
 - [IoT-and-Sensors](./IoT-and-Sensors.md) — 8 shared problems
 - [Robotics](./Robotics.md) — 8 shared problems
-- [Mobile-Development](./Mobile-Development.md) — 5 shared problems
+- [Mobile-Development](./Mobile-Development.md) — 6 shared problems
 - [Computer-Vision](./Computer-Vision.md) — 4 shared problems

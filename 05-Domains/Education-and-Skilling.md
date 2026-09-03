@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Education-and-Skilling"
-problem_count: 37
+problem_count: 38
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **37 Problem Statements** fall in this domain
+> **38 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -28,11 +28,11 @@ tags:
 | [PS-26066](../01-Problem-Statements/PS-26066.md) | OceanEmbed - Satellite Embedding-Based Deep Learning Fr | [Ministry of Earth Science](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26075](../01-Problem-Statements/PS-26075.md) | Participants are invited to design and develop **CAPACI | [Ministry of Earth Science](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26078](../01-Problem-Statements/PS-26078.md) | AI-Driven Spatio-Temporal Tracking of Extreme Weather A | [Ministry of Earth Science](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI-Enabled Cooperative Capacity Building, ERP & Employm | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI & LMS - Enabled Cooperative Capacity Building, ERP & | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26092](../01-Problem-Statements/PS-26092.md) | AI-Driven Scheme Matching for Marginalized Entrepreneur | [Ministry of Social Justic](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26097](../01-Problem-Statements/PS-26097.md) | AI-Driven voice Assistant for livelihood Mapping and NS | [Ministry of Social Justic](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26101](../01-Problem-Statements/PS-26101.md) | Develop an AI enabled learning platform that identifies | [MoSPI](../03-Organizations/MoSPI.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
-| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Fore | [All India Council for Tec](../03-Organizations/All-India-Council-for-Technical-Education-AICTE.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26106](../01-Problem-Statements/PS-26106.md) | AI-Powered Email Threat Detection, GeoLocation and Fore | [All India Council for Tec](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26107](../01-Problem-Statements/PS-26107.md) | Al-powered Intelligent Assistant for Indian Standards a | [Ministry of Consumer Affa](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26134](../01-Problem-Statements/PS-26134.md) | Challenges in aligning skill development programs with  | [Government Of Maharashtra](../03-Organizations/Government-Of-Maharashtra.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26135](../01-Problem-Statements/PS-26135.md) | Difficulties in tracking employment outcomes,skill gaps | [Government Of Maharashtra](../03-Organizations/Government-Of-Maharashtra.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
@@ -53,3 +53,4 @@ tags:
 | [PS-26224](../01-Problem-Statements/PS-26224.md) | Student Innovation-Smart education,a concept that descr | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Dat | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector in | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | Software | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |

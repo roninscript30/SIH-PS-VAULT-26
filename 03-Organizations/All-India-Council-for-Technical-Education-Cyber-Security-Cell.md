@@ -1,6 +1,6 @@
 ---
 type: organization
-organization: "All India Council for Technical Education (AICTE)"
+organization: "All India Council for Technical Education (Cyber Security Cell)"
 organization_type: "Government"
 problem_count: 3
 tags:
@@ -8,7 +8,7 @@ tags:
   - organization
   - government
 ---
-# 🏢 All India Council for Technical Education (AICTE)
+# 🏢 All India Council for Technical Education (Cyber Security Cell)
 
 [← Organization Catalog Index](./organization_index.md)
 

@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Mobile-Development"
-problem_count: 28
+problem_count: 29
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **28 Problem Statements** leverage this technology
+> **29 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -27,7 +27,7 @@ tags:
 | [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translation Too | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26068](../01-Problem-Statements/PS-26068.md) | WeatherGPT: Conversational AI for Weather Forecasting, Alert | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26076](../01-Problem-Statements/PS-26076.md) | Development of personalized homepage for 'Mausam' mobile app | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI-Enabled Cooperative Capacity Building, ERP & Employment E | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26087](../01-Problem-Statements/PS-26087.md) | AI & LMS - Enabled Cooperative Capacity Building, ERP & Empl | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26089](../01-Problem-Statements/PS-26089.md) | Cooperative Gig Services Platform for Household & Community  | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26090](../01-Problem-Statements/PS-26090.md) | AI-Driven Market Linkage and Smart Cataloging Mobile Applica | [Ministry of Social Justice a](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | Software | [Heritage & Culture](../02-Themes/Heritage-Culture.md) |
 | [PS-26092](../01-Problem-Statements/PS-26092.md) | AI-Driven Scheme Matching for Marginalized Entrepreneurs | [Ministry of Social Justice a](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
@@ -44,14 +44,15 @@ tags:
 | [PS-26181](../01-Problem-Statements/PS-26181.md) | A secure, AI-powered Personal Health Companion that delivers | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26186](../01-Problem-Statements/PS-26186.md) | AI-Based Predictive Personnel Stress and Welfare Monitoring  | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector into th | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | Software | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
 - [AI-and-ML](./AI-and-ML.md) — 22 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 19 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 20 shared problems
 - [NLP](./NLP.md) — 12 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 9 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 8 shared problems
+- [GPS-and-Navigation](./GPS-and-Navigation.md) — 6 shared problems
 - [IoT-and-Sensors](./IoT-and-Sensors.md) — 6 shared problems
-- [GPS-and-Navigation](./GPS-and-Navigation.md) — 5 shared problems
-- [Computer-Vision](./Computer-Vision.md) — 3 shared problems
+- [Blockchain](./Blockchain.md) — 3 shared problems

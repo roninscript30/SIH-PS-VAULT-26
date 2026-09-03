@@ -11,10 +11,14 @@
             "id": "f8a7c0cd28dccaae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Problem-Statements/PS-26038.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PS-26038"
             }
           }
         ]
@@ -183,6 +187,19 @@
   },
   "active": "f8a7c0cd28dccaae",
   "lastOpenFiles": [
+    "02-Themes/MedTech-BioTech-HealthTech.md",
+    "01-Problem-Statements/PS-26025.md",
+    "02-Themes/Disaster-Management.md",
+    "01-Problem-Statements/PS-26227.md",
+    "02-Themes/Space-Technology.md",
+    "01-Problem-Statements/PS-26038.md",
+    "01-Problem-Statements/PS-26109.md",
+    "02-Themes/Agriculture,-FoodTech-Rural-Development.md",
+    "01-Problem-Statements/PS-26039.md",
+    "02-Themes/Smart-Automation.md",
+    "README.md",
+    "HOME.md",
+    "AGENTS.md",
     "00-Meta/Data-Provenance.md",
     "00-Meta/obsidian_graph.png",
     "01-Problem-Statements/PS-26101.md",
@@ -196,19 +213,6 @@
     "02-Themes/_Theme-Index.md",
     "00-Meta/How-To-Use.md",
     "00-Meta/About-This-Vault.md",
-    "02-Themes/Clean-Green-Technology.md",
-    "02-Themes/Blockchain-Cybersecurity.md",
-    "02-Themes/Disaster-Management.md",
-    "02-Themes/Agriculture,-FoodTech-Rural-Development.md",
-    "02-Themes/Smart-Resource-Conservation.md",
-    "02-Themes/Toys-Games.md",
-    "02-Themes/Robotics-and-Drones.md",
-    "02-Themes/Miscellaneous.md",
-    "02-Themes/MedTech-BioTech-HealthTech.md",
-    "03-Organizations/Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md",
-    "01-Problem-Statements/PS-26109.md",
-    "03-Organizations/Ministry-of-Development-of-North-Eastern-Region-(MDoNER).md",
-    "03-Organizations/Qualcomm-Inc.md",
-    "03-Organizations/Oil-India-Limited.md"
+    "02-Themes/Clean-Green-Technology.md"
   ]
 }

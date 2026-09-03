@@ -8,8 +8,8 @@ type: index
 | AICTE | Government | 34 | [AICTE](./AICTE.md) |
 | Ministry of Earth Sciences (MoES) | Government | 30 | [Ministry of Earth Sciences (MoES)](./Ministry-of-Earth-Sciences-MoES.md) |
 | National Technical Research Organisation (NTR | Government | 23 | [National Technical Research Organisation (NTR](./National-Technical-Research-Organisation-NTRO.md) |
+| Ministry of Home Affairs | Government | 13 | [Ministry of Home Affairs](./Ministry-of-Home-Affairs.md) |
 | Indian Space Research Organisation(ISRO) | Government | 11 | [Indian Space Research Organisation(ISRO)](./Indian-Space-Research-OrganisationISRO.md) |
-| Ministry of Home Affairs | Government | 11 | [Ministry of Home Affairs](./Ministry-of-Home-Affairs.md) |
 | Ministry of Rural Development | Government | 10 | [Ministry of Rural Development](./Ministry-of-Rural-Development.md) |
 | Ministry of Consumer Affairs, Food & Public D | Government | 10 | [Ministry of Consumer Affairs, Food & Public D](./Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) |
 | Government Of Maharashtra | Government | 9 | [Government Of Maharashtra](./Government-Of-Maharashtra.md) |
@@ -29,7 +29,7 @@ type: index
 | Ministry of Coal | Government | 3 | [Ministry of Coal](./Ministry-of-Coal.md) |
 | Ministry of Railways | Government | 3 | [Ministry of Railways](./Ministry-of-Railways.md) |
 | Ministry of Cooperation | Government | 3 | [Ministry of Cooperation](./Ministry-of-Cooperation.md) |
-| All India Council for Technical Education (AI | Government | 3 | [All India Council for Technical Education (AI](./All-India-Council-for-Technical-Education-AICTE.md) |
+| All India Council for Technical Education (Cy | Government | 3 | [All India Council for Technical Education (Cy](./All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) |
 | Ministry of Fisheries, Animal Husbandry & Dai | Government | 3 | [Ministry of Fisheries, Animal Husbandry & Dai](./Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md) |
 | Mangalore Refinery and Petrochemicals Limited | PSU | 3 | [Mangalore Refinery and Petrochemicals Limited](./Mangalore-Refinery-and-Petrochemicals-Limited-MRPL.md) |
 | MathWorks | Industry | 2 | [MathWorks](./MathWorks.md) |
