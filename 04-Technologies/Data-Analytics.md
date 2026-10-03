@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Data-Analytics"
-problem_count: 20
+problem_count: 22
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **20 Problem Statements** leverage this technology
+> **22 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -36,14 +36,16 @@ tags:
 | [PS-26163](../01-Problem-Statements/PS-26163.md) | Security Assessment of the World Monitor application | [National Technical Research ](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26184](../01-Problem-Statements/PS-26184.md) | Development of a Predictive Analytics Framework for Cybercri | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26186](../01-Problem-Statements/PS-26186.md) | AI-Based Predictive Personnel Stress and Welfare Monitoring  | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable Redist | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26250](../01-Problem-Statements/PS-26250.md) | Air Power - Dynamic Air Operations & Resource Optimisation. | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 17 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 19 shared problems
 - [Web-Platforms](./Web-Platforms.md) — 16 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 10 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 8 shared problems
+- [IoT-and-Sensors](./IoT-and-Sensors.md) — 7 shared problems
 - [NLP](./NLP.md) — 7 shared problems
-- [IoT-and-Sensors](./IoT-and-Sensors.md) — 6 shared problems
 - [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 5 shared problems
 - [Digital-Twin](./Digital-Twin.md) — 3 shared problems

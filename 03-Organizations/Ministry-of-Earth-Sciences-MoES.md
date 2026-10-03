@@ -14,7 +14,7 @@ tags:
 
 > **Type**: Government | **30 Problem Statements** (27 Software, 3 Hardware)
 
-**Departments**: National Centre for Polar andOcean Research (NCPOR), National Institute of Ocean Technology (NIOT), Indian National Centre for Ocean Information Services (INCOIS) Ocean Valley, National Centre for Medium Range Weather Forecasting (NCMRWF), India Meteorological Department
+**Departments**: Indian National Centre for Ocean Information Services (INCOIS) Ocean Valley, National Centre for Polar andOcean Research (NCPOR), National Centre for Medium Range Weather Forecasting (NCMRWF), National Institute of Ocean Technology (NIOT), India Meteorological Department
 
 ## 📋 Problem Statements
 

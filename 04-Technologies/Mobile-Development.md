@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Mobile-Development"
-problem_count: 29
+problem_count: 32
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **29 Problem Statements** leverage this technology
+> **32 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -23,8 +23,8 @@ tags:
 | [PS-26031](../01-Problem-Statements/PS-26031.md) | Quality assessment and grading of onions are often subjectiv | [Ministry of Consumer Affairs](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26034](../01-Problem-Statements/PS-26034.md) | Software System to check compliance of Packaged Commodities  | [Ministry of Consumer Affairs](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26036](../01-Problem-Statements/PS-26036.md) | Development of an Online Verification System for Weighing an | [Ministry of Consumer Affairs](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
-| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial Safety | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
-| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translation Too | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial Safety | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translation Too | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26068](../01-Problem-Statements/PS-26068.md) | WeatherGPT: Conversational AI for Weather Forecasting, Alert | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26076](../01-Problem-Statements/PS-26076.md) | Development of personalized homepage for 'Mausam' mobile app | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26087](../01-Problem-Statements/PS-26087.md) | AI & LMS - Enabled Cooperative Capacity Building, ERP & Empl | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
@@ -45,14 +45,17 @@ tags:
 | [PS-26186](../01-Problem-Statements/PS-26186.md) | AI-Based Predictive Personnel Stress and Welfare Monitoring  | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector into th | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | Software | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 | [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26236](../01-Problem-Statements/PS-26236.md) | Al-Based Intelligent Food Packaging Material Recommendation  | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26238](../01-Problem-Statements/PS-26238.md) | Unified Scholarship Mobile Application for Tribal Students | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26255](../01-Problem-Statements/PS-26255.md) | Development of a solution using AI and ML to monitor the fun | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 22 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 20 shared problems
-- [NLP](./NLP.md) — 12 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 24 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 23 shared problems
+- [NLP](./NLP.md) — 13 shared problems
+- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 9 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 9 shared problems
-- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 8 shared problems
+- [IoT-and-Sensors](./IoT-and-Sensors.md) — 7 shared problems
 - [GPS-and-Navigation](./GPS-and-Navigation.md) — 6 shared problems
-- [IoT-and-Sensors](./IoT-and-Sensors.md) — 6 shared problems
 - [Blockchain](./Blockchain.md) — 3 shared problems

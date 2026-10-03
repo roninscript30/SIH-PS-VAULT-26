@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "AI-and-ML"
-problem_count: 136
+problem_count: 151
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **136 Problem Statements** leverage this technology
+> **151 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -43,9 +43,9 @@ tags:
 | [PS-26033](../01-Problem-Statements/PS-26033.md) | Multiple intermediaries reduce farmers earnings and increase | [Ministry of Consumer Affairs](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26037](../01-Problem-Statements/PS-26037.md) | Adaptive Path Planning and Collision Avoidance for Autonomou | [MathWorks](../03-Organizations/MathWorks.md) | Software | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
 | [PS-26038](../01-Problem-Statements/PS-26038.md) | Explainable AI for Diabetic Retinopathy Screening in Rural I | [MathWorks](../03-Organizations/MathWorks.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
-| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Rescue Sy | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translation Too | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
-| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges and fa | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Rescue Sy | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translation Too | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges and fa | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26045](../01-Problem-Statements/PS-26045.md) | IP-SAKTI Sahayak a multilingual, RAG-based (source-cited) AI | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26047](../01-Problem-Statements/PS-26047.md) | Patient Case-Taking Software | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26048](../01-Problem-Statements/PS-26048.md) | iKwath - a pod-based smart Kwatha (Kadha) maker that prepare | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Hardware | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
@@ -135,7 +135,7 @@ tags:
 | [PS-26172](../01-Problem-Statements/PS-26172.md) | Low Latency and Efficient Voice Activator for Edge Devices | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26173](../01-Problem-Statements/PS-26173.md) | iTantra -Indian Multilingual TTS & STT Aided Neural Transcei | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26174](../01-Problem-Statements/PS-26174.md) | AI Human Activity Recognition for On-board BAS Experiments | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
-| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agents | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agents | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26177](../01-Problem-Statements/PS-26177.md) | A deployable AI-powered autonomous drone that aids search-an | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26178](../01-Problem-Statements/PS-26178.md) | A resilient, AI-powered environmental monitoring network tha | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26179](../01-Problem-Statements/PS-26179.md) | To build an AI-powered retail intelligence platform that del | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
@@ -152,14 +152,29 @@ tags:
 | [PS-26202](../01-Problem-Statements/PS-26202.md) | Student Innovation-Ideas focused on the intelligent use of r | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26219](../01-Problem-Statements/PS-26219.md) | Student Innovation-Ideas focused on the intelligent use of r | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector into th | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | Software | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable Redist | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26235](../01-Problem-Statements/PS-26235.md) | Development of a Portable Nano engineered Rapid Food Testing | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26236](../01-Problem-Statements/PS-26236.md) | Al-Based Intelligent Food Packaging Material Recommendation  | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26239](../01-Problem-Statements/PS-26239.md) | AI-Enabled Scholarship and Fellowship Management System for  | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26240](../01-Problem-Statements/PS-26240.md) | AI-Based Spring Revival and Recharge Planning for Tribal Are | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26241](../01-Problem-Statements/PS-26241.md) | AI-Enabled Career Counselling and Family Decision-Support Pl | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26242](../01-Problem-Statements/PS-26242.md) | AI-Assisted Skill Assessment Tool for Recognition of Prior L | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26244](../01-Problem-Statements/PS-26244.md) | AI-Enabled Diagnostic and Sensing Wearables for Skilled Trad | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26245](../01-Problem-Statements/PS-26245.md) | AI-Based Real-Time Monitoring of Training Centres for Attend | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26246](../01-Problem-Statements/PS-26246.md) | AI-Enabled Labour Market Intelligence and Skill Demand-Suppl | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trainer | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26249](../01-Problem-Statements/PS-26249.md) | Air Power - Predictive Maintenance & Fleet Availability | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
+| [PS-26250](../01-Problem-Statements/PS-26250.md) | Air Power - Dynamic Air Operations & Resource Optimisation. | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
+| [PS-26251](../01-Problem-Statements/PS-26251.md) | Indian Army - Predictive Logistics & Forward Supply Chain. | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
+| [PS-26255](../01-Problem-Statements/PS-26255.md) | Development of a solution using AI and ML to monitor the fun | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [Web-Platforms](./Web-Platforms.md) — 66 shared problems
-- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 43 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 74 shared problems
+- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 47 shared problems
+- [NLP](./NLP.md) — 43 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 42 shared problems
-- [NLP](./NLP.md) — 42 shared problems
-- [IoT-and-Sensors](./IoT-and-Sensors.md) — 30 shared problems
-- [Mobile-Development](./Mobile-Development.md) — 22 shared problems
-- [Data-Analytics](./Data-Analytics.md) — 17 shared problems
-- [Computer-Vision](./Computer-Vision.md) — 17 shared problems
+- [IoT-and-Sensors](./IoT-and-Sensors.md) — 34 shared problems
+- [Mobile-Development](./Mobile-Development.md) — 24 shared problems
+- [Data-Analytics](./Data-Analytics.md) — 19 shared problems
+- [Computer-Vision](./Computer-Vision.md) — 18 shared problems

@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Disaster-Response"
-problem_count: 49
+problem_count: 52
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **49 Problem Statements** fall in this domain
+> **52 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -21,7 +21,7 @@ tags:
 | [PS-26006](../01-Problem-Statements/PS-26006.md) | Development of an Intelligent Freight Forecasting Model | [Ministry of Steel](../03-Organizations/Ministry-of-Steel.md) | Software | [Transportation & Log](../02-Themes/Transportation-Logistics.md) |
 | [PS-26008](../01-Problem-Statements/PS-26008.md) | Belt Joint Rupture and Conveyor Belt Damages in Iron Or | [Ministry of Steel](../03-Organizations/Ministry-of-Steel.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26025](../01-Problem-Statements/PS-26025.md) | Development of an AI-enabled Low Cost Real Time Mine Su | [Ministry of Coal](../03-Organizations/Ministry-of-Coal.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Resc | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Resc | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26047](../01-Problem-Statements/PS-26047.md) | Patient Case-Taking Software | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26052](../01-Problem-Statements/PS-26052.md) | To develop an AI/ML-enabled adaptive noise cancellation | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26062](../01-Problem-Statements/PS-26062.md) | Integrated Polar Expedition Logistics and Asset Managem | [Ministry of Earth Science](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
@@ -52,7 +52,7 @@ tags:
 | [PS-26167](../01-Problem-Statements/PS-26167.md) | SatQuery AI - An Interactive Vision-Language Assistant  | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26168](../01-Problem-Statements/PS-26168.md) | AI-ML based Intelligent Dead Reckoning system for seaml | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
 | [PS-26175](../01-Problem-Statements/PS-26175.md) | DepthWizard - Single-View Height Estimation and 3D Flyt | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
-| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agen | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agen | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26177](../01-Problem-Statements/PS-26177.md) | A deployable AI-powered autonomous drone that aids sear | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26178](../01-Problem-Statements/PS-26178.md) | A resilient, AI-powered environmental monitoring networ | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26180](../01-Problem-Statements/PS-26180.md) | A field-deployable AI-powered Smart Farming Assistant t | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
@@ -65,3 +65,6 @@ tags:
 | [PS-26218](../01-Problem-Statements/PS-26218.md) | Student Innovation-There is a need to design drones and | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26223](../01-Problem-Statements/PS-26223.md) | Student Innovation-Disaster management includes ideas r | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Dat | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26240](../01-Problem-Statements/PS-26240.md) | AI-Based Spring Revival and Recharge Planning for Triba | [Ministry of Tribal Affair](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26243](../01-Problem-Statements/PS-26243.md) | Smart Connected Safety Gear for Electrical and Welding  | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26257](../01-Problem-Statements/PS-26257.md) | Alternate Low-Cost Grey Water Management Solutions for  | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |

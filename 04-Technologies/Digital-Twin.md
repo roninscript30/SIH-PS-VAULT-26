@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Digital-Twin"
-problem_count: 6
+problem_count: 7
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **6 Problem Statements** leverage this technology
+> **7 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -22,10 +22,11 @@ tags:
 | [PS-26060](../01-Problem-Statements/PS-26060.md) | Digital Platform for efficient remote management of Indian A | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26120](../01-Problem-Statements/PS-26120.md) | Digital Twin for Well-to-Surface Optimization of Cyclic Stea | [Oil India Limited](../03-Organizations/Oil-India-Limited.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26158](../01-Problem-Statements/PS-26158.md) | Single-Pass Drone Video to Accurate 3D Model Generation Syst | [National Technical Research ](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26249](../01-Problem-Statements/PS-26249.md) | Air Power - Predictive Maintenance & Fleet Availability | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 5 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 6 shared problems
 - [IoT-and-Sensors](./IoT-and-Sensors.md) — 4 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 3 shared problems
 - [Data-Analytics](./Data-Analytics.md) — 3 shared problems

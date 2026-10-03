@@ -1,8 +1,8 @@
 ---
 type: theme
 theme: "Blockchain & Cybersecurity"
-problem_count: 31
-software_count: 29
+problem_count: 32
+software_count: 30
 hardware_count: 2
 tags:
   - sih2026
@@ -12,7 +12,7 @@ tags:
 
 [← Theme Catalog Index](./theme_index.md)
 
-> **31 Problem Statements** (29 Software, 2 Hardware)
+> **32 Problem Statements** (30 Software, 2 Hardware)
 
 ## 📋 Problem Statements in Blockchain & Cybersecurity
 
@@ -49,14 +49,15 @@ tags:
 | [PS-26194](../01-Problem-Statements/PS-26194.md) | Student Innovation-Provide ideas in a decentralized and distributed le | [AICTE](../03-Organizations/AICTE.md) | Software |
 | [PS-26211](../01-Problem-Statements/PS-26211.md) | Student Innovation-Provide ideas in a decentralized and distributed le | [AICTE](../03-Organizations/AICTE.md) | Hardware |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Data, Models and I | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software |
+| [PS-26237](../01-Problem-Statements/PS-26237.md) | Cryptographic Attribution and Immutable Decryption Provenance for Mult | [Ministry of Defence](../03-Organizations/Ministry-of-Defence.md) | Software |
 
 ## 🔧 Top Technologies
 
 - [AI-and-ML](../04-Technologies/AI-and-ML.md) — 23 problems
-- [Cybersecurity-Tech](../04-Technologies/Cybersecurity-Tech.md) — 19 problems
+- [Cybersecurity-Tech](../04-Technologies/Cybersecurity-Tech.md) — 20 problems
 - [Web-Platforms](../04-Technologies/Web-Platforms.md) — 15 problems
-- [Blockchain](../04-Technologies/Blockchain.md) — 14 problems
-- [Cloud-Computing](../04-Technologies/Cloud-Computing.md) — 11 problems
+- [Blockchain](../04-Technologies/Blockchain.md) — 15 problems
+- [Cloud-Computing](../04-Technologies/Cloud-Computing.md) — 12 problems
 - [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 9 problems
 - [NLP](../04-Technologies/NLP.md) — 7 problems
 - [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 3 problems
@@ -71,3 +72,4 @@ tags:
 - [Bharat Electronics Limited](../03-Organizations/Bharat-Electronics-Limited.md) — 1 problems
 - [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) — 1 problems
 - [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) — 1 problems
+- [Ministry of Defence](../03-Organizations/Ministry-of-Defence.md) — 1 problems

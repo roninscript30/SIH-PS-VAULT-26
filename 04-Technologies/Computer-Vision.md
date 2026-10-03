@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Computer-Vision"
-problem_count: 18
+problem_count: 19
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **18 Problem Statements** leverage this technology
+> **19 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -34,12 +34,13 @@ tags:
 | [PS-26180](../01-Problem-Statements/PS-26180.md) | A field-deployable AI-powered Smart Farming Assistant that h | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26187](../01-Problem-Statements/PS-26187.md) | AI-Based Intelligent Video Analytics Platform for Border Sur | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Data, Mo | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable Redist | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 17 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 18 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 10 shared problems
-- [IoT-and-Sensors](./IoT-and-Sensors.md) — 9 shared problems
+- [IoT-and-Sensors](./IoT-and-Sensors.md) — 10 shared problems
 - [Web-Platforms](./Web-Platforms.md) — 8 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 5 shared problems
 - [GPS-and-Navigation](./GPS-and-Navigation.md) — 4 shared problems

@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Cybersecurity-Tech"
-problem_count: 24
+problem_count: 26
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **24 Problem Statements** leverage this technology
+> **26 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -40,13 +40,15 @@ tags:
 | [PS-26187](../01-Problem-Statements/PS-26187.md) | AI-Based Intelligent Video Analytics Platform for Border Sur | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26190](../01-Problem-Statements/PS-26190.md) | Secure Digital Document Management System for Legal and Inve | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26237](../01-Problem-Statements/PS-26237.md) | Cryptographic Attribution and Immutable Decryption Provenanc | [Ministry of Defence](../03-Organizations/Ministry-of-Defence.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26248](../01-Problem-Statements/PS-26248.md) | Immersive Multi-Domain Decision-Making Trainer for Degraded  | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
 - [AI-and-ML](./AI-and-ML.md) — 17 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 13 shared problems
-- [Cloud-Computing](./Cloud-Computing.md) — 10 shared problems
-- [Blockchain](./Blockchain.md) — 8 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 14 shared problems
+- [Cloud-Computing](./Cloud-Computing.md) — 11 shared problems
+- [Blockchain](./Blockchain.md) — 9 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 6 shared problems
 - [Data-Analytics](./Data-Analytics.md) — 5 shared problems
 - [NLP](./NLP.md) — 4 shared problems

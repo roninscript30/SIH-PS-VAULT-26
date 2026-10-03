@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Law-Enforcement"
-problem_count: 28
+problem_count: 32
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **28 Problem Statements** fall in this domain
+> **32 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -44,3 +44,7 @@ tags:
 | [PS-26189](../01-Problem-Statements/PS-26189.md) | AI-Powered Criminal Network Analysis System | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26190](../01-Problem-Statements/PS-26190.md) | Secure Digital Document Management System for Legal and | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26235](../01-Problem-Statements/PS-26235.md) | Development of a Portable Nano engineered Rapid Food Te | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26237](../01-Problem-Statements/PS-26237.md) | Cryptographic Attribution and Immutable Decryption Prov | [Ministry of Defence](../03-Organizations/Ministry-of-Defence.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26252](../01-Problem-Statements/PS-26252.md) | Development of Field Test Kits for Detection and Monito | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26253](../01-Problem-Statements/PS-26253.md) | Development of Strip-Based Water Quality Test Kits for  | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |

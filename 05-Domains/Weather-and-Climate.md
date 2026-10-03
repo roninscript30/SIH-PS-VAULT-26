@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Weather-and-Climate"
-problem_count: 56
+problem_count: 63
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **56 Problem Statements** fall in this domain
+> **63 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -65,10 +65,17 @@ tags:
 | [PS-26144](../01-Problem-Statements/PS-26144.md) | Design & Development of a High-Sensitivity Micro barome | [National Technical Resear](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26153](../01-Problem-Statements/PS-26153.md) | AI based Network Attack Forecasting from Network Traffi | [National Technical Resear](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26170](../01-Problem-Statements/PS-26170.md) | AI-Driven Anomaly Detection in Component Burn-In & Scre | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agen | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agen | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26177](../01-Problem-Statements/PS-26177.md) | A deployable AI-powered autonomous drone that aids sear | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26178](../01-Problem-Statements/PS-26178.md) | A resilient, AI-powered environmental monitoring networ | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26180](../01-Problem-Statements/PS-26180.md) | A field-deployable AI-powered Smart Farming Assistant t | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26181](../01-Problem-Statements/PS-26181.md) | A secure, AI-powered Personal Health Companion that del | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26184](../01-Problem-Statements/PS-26184.md) | Development of a Predictive Analytics Framework for Cyb | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26192](../01-Problem-Statements/PS-26192.md) | Flash Flood Prediction System for Hilly Regions using M | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable R | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26240](../01-Problem-Statements/PS-26240.md) | AI-Based Spring Revival and Recharge Planning for Triba | [Ministry of Tribal Affair](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26246](../01-Problem-Statements/PS-26246.md) | AI-Enabled Labour Market Intelligence and Skill Demand- | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trai | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26250](../01-Problem-Statements/PS-26250.md) | Air Power - Dynamic Air Operations & Resource Optimisat | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Log](../02-Themes/Transportation-Logistics.md) |
+| [PS-26251](../01-Problem-Statements/PS-26251.md) | Indian Army - Predictive Logistics & Forward Supply Cha | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Log](../02-Themes/Transportation-Logistics.md) |
+| [PS-26258](../01-Problem-Statements/PS-26258.md) | Innovative Mechanized Desludging Models for Varied Clim | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |

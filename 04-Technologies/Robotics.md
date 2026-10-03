@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Robotics"
-problem_count: 21
+problem_count: 22
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **21 Problem Statements** leverage this technology
+> **22 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -22,7 +22,7 @@ tags:
 | [PS-26012](../01-Problem-Statements/PS-26012.md) | AI-Based Automated Urban Parcel Mapping and Cadastral Featur | [Ministry of Rural Developmen](../03-Organizations/Ministry-of-Rural-Development.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26013](../01-Problem-Statements/PS-26013.md) | Automated lntegration and lntelligent Harmonization of Multi | [Ministry of Rural Developmen](../03-Organizations/Ministry-of-Rural-Development.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26026](../01-Problem-Statements/PS-26026.md) | Development of Mobile (Quadruped)/Handheld Device/System for | [Ministry of Railways](../03-Organizations/Ministry-of-Railways.md) | Hardware | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
-| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Rescue Sy | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Rescue Sy | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26049](../01-Problem-Statements/PS-26049.md) | Modifications to improve the reliability, efficiency,and lif | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26050](../01-Problem-Statements/PS-26050.md) | High Altitude Performance Optimization and Robust Design of  | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26052](../01-Problem-Statements/PS-26052.md) | To develop an AI/ML-enabled adaptive noise cancellation (ANC | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
@@ -37,14 +37,15 @@ tags:
 | [PS-26177](../01-Problem-Statements/PS-26177.md) | A deployable AI-powered autonomous drone that aids search-an | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26201](../01-Problem-Statements/PS-26201.md) | Student Innovation-There is a need to design drones and robo | [AICTE](../03-Organizations/AICTE.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26218](../01-Problem-Statements/PS-26218.md) | Student Innovation-There is a need to design drones and robo | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trainer | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 14 shared problems
-- [IoT-and-Sensors](./IoT-and-Sensors.md) — 12 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 15 shared problems
+- [IoT-and-Sensors](./IoT-and-Sensors.md) — 13 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 9 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 9 shared problems
 - [GPS-and-Navigation](./GPS-and-Navigation.md) — 8 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 8 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 8 shared problems
 - [Sonar-Acoustics](./Sonar-Acoustics.md) — 4 shared problems
 - [3D-Modeling](./3D-Modeling.md) — 4 shared problems

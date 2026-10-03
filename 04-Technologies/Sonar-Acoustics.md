@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Sonar-Acoustics"
-problem_count: 6
+problem_count: 7
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **6 Problem Statements** leverage this technology
+> **7 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -22,14 +22,15 @@ tags:
 | [PS-26058](../01-Problem-Statements/PS-26058.md) | Development of a Low-Power, Real-Time Adaptive Software-Defi | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26067](../01-Problem-Statements/PS-26067.md) | Develop a web-based interactive 3D visualization platform th | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26104](../01-Problem-Statements/PS-26104.md) | AI-Powered Real-Time Detection and Prevention of Voice Cloni | [All India Council for Techni](../03-Organizations/All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26244](../01-Problem-Statements/PS-26244.md) | AI-Enabled Diagnostic and Sensing Wearables for Skilled Trad | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [IoT-and-Sensors](./IoT-and-Sensors.md) — 5 shared problems
-- [AI-and-ML](./AI-and-ML.md) — 4 shared problems
+- [IoT-and-Sensors](./IoT-and-Sensors.md) — 6 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 5 shared problems
 - [Robotics](./Robotics.md) — 4 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 3 shared problems
 - [Data-Analytics](./Data-Analytics.md) — 2 shared problems
 - [Edge-Computing](./Edge-Computing.md) — 2 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 2 shared problems
 - [3D-Modeling](./3D-Modeling.md) — 2 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 2 shared problems

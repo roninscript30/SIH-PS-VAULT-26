@@ -115,8 +115,8 @@ def independent_parse_html(html_content):
         if not table:
             continue
 
-        for row in table.find_all('tr'):
-            cells = row.find_all(['td', 'th'])
+        for row in [r for r in table.find_all('tr') if r.find_parent('table') == table]:
+            cells = row.find_all(['td', 'th'], recursive=False)
             if len(cells) < 2:
                 continue
             key = cells[0].get_text().strip().lower()
@@ -133,7 +133,7 @@ def independent_parse_html(html_content):
             elif 'department' in key:
                 entry['department'] = val
             elif key == 'category':
-                entry['category'] = val
+                entry['category'] = val.capitalize() if val.lower() in ('software', 'hardware') else val
             elif key == 'theme':
                 entry['theme'] = val
             elif 'youtube' in key:

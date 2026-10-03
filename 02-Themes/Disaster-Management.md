@@ -1,8 +1,8 @@
 ---
 type: theme
 theme: "Disaster Management"
-problem_count: 25
-software_count: 23
+problem_count: 24
+software_count: 22
 hardware_count: 2
 tags:
   - sih2026
@@ -12,7 +12,7 @@ tags:
 
 [← Theme Catalog Index](./theme_index.md)
 
-> **25 Problem Statements** (23 Software, 2 Hardware)
+> **24 Problem Statements** (22 Software, 2 Hardware)
 
 ## 📋 Problem Statements in Disaster Management
 
@@ -37,7 +37,6 @@ tags:
 | [PS-26161](../01-Problem-Statements/PS-26161.md) | Dam Break Inundation Modelling Using Hydrodynamic Modelling of any Riv | [National Technical Research Organis](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Software |
 | [PS-26162](../01-Problem-Statements/PS-26162.md) | AI-Based Detection and Classification of Industrial Fires and Persiste | [National Technical Research Organis](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Software |
 | [PS-26175](../01-Problem-Statements/PS-26175.md) | DepthWizard - Single-View Height Estimation and 3D Flythrough | [Indian Space Research Organisation(](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software |
-| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agents | [Indian Space Research Organisation(](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software |
 | [PS-26178](../01-Problem-Statements/PS-26178.md) | A resilient, AI-powered environmental monitoring network that provides | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware |
 | [PS-26191](../01-Problem-Statements/PS-26191.md) | Intelligent Identification of Hazard-Based Red Zones, Carrying Capacit | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software |
 | [PS-26192](../01-Problem-Statements/PS-26192.md) | Flash Flood Prediction System for Hilly Regions using Multi-Source Dat | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software |
@@ -46,21 +45,21 @@ tags:
 
 ## 🔧 Top Technologies
 
-- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 15 problems
-- [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 13 problems
+- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 14 problems
+- [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 12 problems
 - [Web-Platforms](../04-Technologies/Web-Platforms.md) — 12 problems
 - [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 7 problems
 - [Cloud-Computing](../04-Technologies/Cloud-Computing.md) — 6 problems
 - [3D-Modeling](../04-Technologies/3D-Modeling.md) — 6 problems
 - [Data-Analytics](../04-Technologies/Data-Analytics.md) — 3 problems
-- [NLP](../04-Technologies/NLP.md) — 3 problems
+- [NLP](../04-Technologies/NLP.md) — 2 problems
 
 ## 🏢 Participating Organizations
 
 - [Ministry of Earth Sciences (MoES)](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) — 14 problems
 - [National Technical Research Organisation (NTRO)](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) — 3 problems
-- [Indian Space Research Organisation(ISRO)](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) — 2 problems
 - [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) — 2 problems
 - [AICTE](../03-Organizations/AICTE.md) — 2 problems
 - [Ministry of Development of North Eastern Region (MDoNER)](../03-Organizations/Ministry-of-Development-of-North-Eastern-Region-MDoNER.md) — 1 problems
+- [Indian Space Research Organisation(ISRO)](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) — 1 problems
 - [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) — 1 problems

@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Cloud-Computing"
-problem_count: 49
+problem_count: 50
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **49 Problem Statements** leverage this technology
+> **50 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -65,6 +65,7 @@ tags:
 | [PS-26191](../01-Problem-Statements/PS-26191.md) | Intelligent Identification of Hazard-Based Red Zones, Carryi | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26227](../01-Problem-Statements/PS-26227.md) | Semantic Retrieval and Multi-Temporal Change Analysis of Sat | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Data, Mo | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26237](../01-Problem-Statements/PS-26237.md) | Cryptographic Attribution and Immutable Decryption Provenanc | [Ministry of Defence](../03-Organizations/Ministry-of-Defence.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
@@ -73,6 +74,6 @@ tags:
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 21 shared problems
 - [IoT-and-Sensors](./IoT-and-Sensors.md) — 21 shared problems
 - [NLP](./NLP.md) — 13 shared problems
+- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 11 shared problems
 - [Edge-Computing](./Edge-Computing.md) — 11 shared problems
 - [Computer-Vision](./Computer-Vision.md) — 10 shared problems
-- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 10 shared problems

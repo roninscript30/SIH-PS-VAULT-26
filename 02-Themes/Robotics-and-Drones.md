@@ -1,9 +1,9 @@
 ---
 type: theme
 theme: "Robotics and Drones"
-problem_count: 12
-software_count: 4
-hardware_count: 8
+problem_count: 15
+software_count: 5
+hardware_count: 10
 tags:
   - sih2026
   - theme
@@ -12,7 +12,7 @@ tags:
 
 [← Theme Catalog Index](./theme_index.md)
 
-> **12 Problem Statements** (4 Software, 8 Hardware)
+> **15 Problem Statements** (5 Software, 10 Hardware)
 
 ## 📋 Problem Statements in Robotics and Drones
 
@@ -30,24 +30,29 @@ tags:
 | [PS-26185](../01-Problem-Statements/PS-26185.md) | Helmet mounted conformal antenna for tactical communications in urban  | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware |
 | [PS-26201](../01-Problem-Statements/PS-26201.md) | Student Innovation-There is a need to design drones and robots that ca | [AICTE](../03-Organizations/AICTE.md) | Software |
 | [PS-26218](../01-Problem-Statements/PS-26218.md) | Student Innovation-There is a need to design drones and robots that ca | [AICTE](../03-Organizations/AICTE.md) | Hardware |
+| [PS-26243](../01-Problem-Statements/PS-26243.md) | Smart Connected Safety Gear for Electrical and Welding Trades | [Ministry of Skill Development and E](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware |
+| [PS-26244](../01-Problem-Statements/PS-26244.md) | AI-Enabled Diagnostic and Sensing Wearables for Skilled Trades (Leak a | [Ministry of Skill Development and E](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trainer | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software |
 
 ## 🔧 Top Technologies
 
-- [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 8 problems
-- [Robotics](../04-Technologies/Robotics.md) — 8 problems
-- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 5 problems
+- [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 11 problems
+- [Robotics](../04-Technologies/Robotics.md) — 9 problems
+- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 7 problems
+- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 5 problems
 - [Cloud-Computing](../04-Technologies/Cloud-Computing.md) — 3 problems
 - [3D-Modeling](../04-Technologies/3D-Modeling.md) — 3 problems
 - [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 3 problems
 - [Digital-Twin](../04-Technologies/Digital-Twin.md) — 2 problems
-- [Edge-Computing](../04-Technologies/Edge-Computing.md) — 2 problems
 
 ## 🏢 Participating Organizations
 
 - [DRDO](../03-Organizations/DRDO.md) — 3 problems
 - [Ministry of Earth Sciences (MoES)](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) — 3 problems
 - [AICTE](../03-Organizations/AICTE.md) — 2 problems
+- [Ministry of Skill Development and Entrepreneurship (MSDE)](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) — 2 problems
 - [Autodesk](../03-Organizations/Autodesk.md) — 1 problems
 - [National Technical Research Organisation (NTRO)](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) — 1 problems
 - [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) — 1 problems
 - [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) — 1 problems
+- [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) — 1 problems

@@ -1,8 +1,8 @@
 ---
 type: theme
 theme: "Miscellaneous"
-problem_count: 15
-software_count: 12
+problem_count: 16
+software_count: 13
 hardware_count: 3
 tags:
   - sih2026
@@ -12,7 +12,7 @@ tags:
 
 [← Theme Catalog Index](./theme_index.md)
 
-> **15 Problem Statements** (12 Software, 3 Hardware)
+> **16 Problem Statements** (13 Software, 3 Hardware)
 
 ## 📋 Problem Statements in Miscellaneous
 
@@ -33,11 +33,12 @@ tags:
 | [PS-26179](../01-Problem-Statements/PS-26179.md) | To build an AI-powered retail intelligence platform that delivers real | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware |
 | [PS-26199](../01-Problem-Statements/PS-26199.md) | Student Innovation-Technology ideas in tertiary sectors like Hospitali | [AICTE](../03-Organizations/AICTE.md) | Software |
 | [PS-26216](../01-Problem-Statements/PS-26216.md) | Student Innovation-Technology ideas in tertiary sectors like Hospitali | [AICTE](../03-Organizations/AICTE.md) | Hardware |
+| [PS-26246](../01-Problem-Statements/PS-26246.md) | AI-Enabled Labour Market Intelligence and Skill Demand-Supply Forecast | [Ministry of Skill Development and E](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software |
 
 ## 🔧 Top Technologies
 
-- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 6 problems
-- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 4 problems
+- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 7 problems
+- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 5 problems
 - [Mobile-Development](../04-Technologies/Mobile-Development.md) — 3 problems
 - [Cloud-Computing](../04-Technologies/Cloud-Computing.md) — 2 problems
 - [Edge-Computing](../04-Technologies/Edge-Computing.md) — 2 problems
@@ -53,3 +54,4 @@ tags:
 - [Autodesk](../03-Organizations/Autodesk.md) — 2 problems
 - [AICTE](../03-Organizations/AICTE.md) — 2 problems
 - [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) — 1 problems
+- [Ministry of Skill Development and Entrepreneurship (MSDE)](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) — 1 problems

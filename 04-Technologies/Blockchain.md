@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Blockchain"
-problem_count: 16
+problem_count: 18
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **16 Problem Statements** leverage this technology
+> **18 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -32,14 +32,16 @@ tags:
 | [PS-26211](../01-Problem-Statements/PS-26211.md) | Student Innovation-Provide ideas in a decentralized and dist | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Data, Mo | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26232](../01-Problem-Statements/PS-26232.md) | Low-Cost loT Block chain Nodes for Farm-to-Fork Traceability | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26237](../01-Problem-Statements/PS-26237.md) | Cryptographic Attribution and Immutable Decryption Provenanc | [Ministry of Defence](../03-Organizations/Ministry-of-Defence.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
 - [AI-and-ML](./AI-and-ML.md) — 9 shared problems
+- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 9 shared problems
 - [Web-Platforms](./Web-Platforms.md) — 8 shared problems
-- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 8 shared problems
-- [Cloud-Computing](./Cloud-Computing.md) — 5 shared problems
+- [Cloud-Computing](./Cloud-Computing.md) — 6 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 3 shared problems
 - [Mobile-Development](./Mobile-Development.md) — 3 shared problems
+- [Quantum-Computing](./Quantum-Computing.md) — 3 shared problems
 - [NLP](./NLP.md) — 2 shared problems
-- [Quantum-Computing](./Quantum-Computing.md) — 2 shared problems

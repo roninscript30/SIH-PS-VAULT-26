@@ -30,11 +30,11 @@ tags:
 | [PS-26173](../01-Problem-Statements/PS-26173.md) | iTantra -Indian Multilingual TTS & STT Aided Neural Transceiver R | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26174](../01-Problem-Statements/PS-26174.md) | AI Human Activity Recognition for On-board BAS Experiments | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26175](../01-Problem-Statements/PS-26175.md) | DepthWizard - Single-View Height Estimation and 3D Flythrough | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
-| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agents | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agents | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 
 ## 🏷️ Theme Breakdown
 
 - [Smart Automation](../02-Themes/Smart-Automation.md) — 5 problems
-- [Space Technology](../02-Themes/Space-Technology.md) — 3 problems
-- [Disaster Management](../02-Themes/Disaster-Management.md) — 2 problems
+- [Space Technology](../02-Themes/Space-Technology.md) — 4 problems
 - [Smart Vehicles](../02-Themes/Smart-Vehicles.md) — 1 problems
+- [Disaster Management](../02-Themes/Disaster-Management.md) — 1 problems

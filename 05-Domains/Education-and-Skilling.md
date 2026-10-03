@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Education-and-Skilling"
-problem_count: 38
+problem_count: 48
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **38 Problem Statements** fall in this domain
+> **48 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -19,9 +19,9 @@ tags:
 | [PS-26003](../01-Problem-Statements/PS-26003.md) | AI-Based Cognitive Gaming and Memory Assistance Platfor | [Ministry of Development o](../03-Organizations/Ministry-of-Development-of-North-Eastern-Region-MDoNER.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26023](../01-Problem-Statements/PS-26023.md) | AI-Powered Geological, Mining and other Reporting Solut | [Ministry of Coal](../03-Organizations/Ministry-of-Coal.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26026](../01-Problem-Statements/PS-26026.md) | Development of Mobile (Quadruped)/Handheld Device/Syste | [Ministry of Railways](../03-Organizations/Ministry-of-Railways.md) | Hardware | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
-| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial S | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
-| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translatio | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
-| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges a | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial S | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translatio | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges a | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26044](../01-Problem-Statements/PS-26044.md) | Portal for Academia - Industry collaboration for Skill  | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26047](../01-Problem-Statements/PS-26047.md) | Patient Case-Taking Software | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26052](../01-Problem-Statements/PS-26052.md) | To develop an AI/ML-enabled adaptive noise cancellation | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
@@ -54,3 +54,13 @@ tags:
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Dat | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector in | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | Software | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
 | [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26239](../01-Problem-Statements/PS-26239.md) | AI-Enabled Scholarship and Fellowship Management System | [Ministry of Tribal Affair](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26241](../01-Problem-Statements/PS-26241.md) | AI-Enabled Career Counselling and Family Decision-Suppo | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26242](../01-Problem-Statements/PS-26242.md) | AI-Assisted Skill Assessment Tool for Recognition of Pr | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26243](../01-Problem-Statements/PS-26243.md) | Smart Connected Safety Gear for Electrical and Welding  | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26244](../01-Problem-Statements/PS-26244.md) | AI-Enabled Diagnostic and Sensing Wearables for Skilled | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26245](../01-Problem-Statements/PS-26245.md) | AI-Based Real-Time Monitoring of Training Centres for A | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26246](../01-Problem-Statements/PS-26246.md) | AI-Enabled Labour Market Intelligence and Skill Demand- | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trai | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26248](../01-Problem-Statements/PS-26248.md) | Immersive Multi-Domain Decision-Making Trainer for Degr | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26253](../01-Problem-Statements/PS-26253.md) | Development of Strip-Based Water Quality Test Kits for  | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |

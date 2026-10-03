@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Transportation"
-problem_count: 35
+problem_count: 38
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **35 Problem Statements** fall in this domain
+> **38 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -51,3 +51,6 @@ tags:
 | [PS-26172](../01-Problem-Statements/PS-26172.md) | Low Latency and Efficient Voice Activator for Edge Devi | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26174](../01-Problem-Statements/PS-26174.md) | AI Human Activity Recognition for On-board BAS Experime | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26179](../01-Problem-Statements/PS-26179.md) | To build an AI-powered retail intelligence platform tha | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable R | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trai | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26251](../01-Problem-Statements/PS-26251.md) | Indian Army - Predictive Logistics & Forward Supply Cha | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Log](../02-Themes/Transportation-Logistics.md) |

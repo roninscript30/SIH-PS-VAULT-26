@@ -1,9 +1,9 @@
 ---
 type: theme
 theme: "Agriculture, FoodTech & Rural Development"
-problem_count: 22
-software_count: 13
-hardware_count: 9
+problem_count: 28
+software_count: 16
+hardware_count: 12
 tags:
   - sih2026
   - theme
@@ -12,7 +12,7 @@ tags:
 
 [← Theme Catalog Index](./theme_index.md)
 
-> **22 Problem Statements** (13 Software, 9 Hardware)
+> **28 Problem Statements** (16 Software, 12 Hardware)
 
 ## 📋 Problem Statements in Agriculture, FoodTech & Rural Development
 
@@ -40,20 +40,27 @@ tags:
 | [PS-26180](../01-Problem-Statements/PS-26180.md) | A field-deployable AI-powered Smart Farming Assistant that helps farme | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware |
 | [PS-26193](../01-Problem-Statements/PS-26193.md) | Student Innovation-Developing solutions, keeping in mind the need to e | [AICTE](../03-Organizations/AICTE.md) | Software |
 | [PS-26210](../01-Problem-Statements/PS-26210.md) | Student Innovation-Developing solutions, keeping in mind the need to e | [AICTE](../03-Organizations/AICTE.md) | Hardware |
+| [PS-26232](../01-Problem-Statements/PS-26232.md) | Low-Cost loT Block chain Nodes for Farm-to-Fork Traceability | [Ministry of Food Processing Industr](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware |
+| [PS-26233](../01-Problem-Statements/PS-26233.md) | Inline Microbial Contamination Detection Using Hyperspectral Edge Sens | [Ministry of Food Processing Industr](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable Redistribution E | [Ministry of Food Processing Industr](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software |
+| [PS-26235](../01-Problem-Statements/PS-26235.md) | Development of a Portable Nano engineered Rapid Food Testing Kit for O | [Ministry of Food Processing Industr](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware |
+| [PS-26236](../01-Problem-Statements/PS-26236.md) | Al-Based Intelligent Food Packaging Material Recommendation System for | [Ministry of Food Processing Industr](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software |
+| [PS-26240](../01-Problem-Statements/PS-26240.md) | AI-Based Spring Revival and Recharge Planning for Tribal Areas | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software |
 
 ## 🔧 Top Technologies
 
-- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 12 problems
-- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 8 problems
-- [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 7 problems
+- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 16 problems
+- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 9 problems
+- [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 9 problems
+- [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 8 problems
 - [NLP](../04-Technologies/NLP.md) — 7 problems
+- [Mobile-Development](../04-Technologies/Mobile-Development.md) — 6 problems
 - [Cloud-Computing](../04-Technologies/Cloud-Computing.md) — 6 problems
-- [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 6 problems
-- [Mobile-Development](../04-Technologies/Mobile-Development.md) — 5 problems
-- [GPS-and-Navigation](../04-Technologies/GPS-and-Navigation.md) — 2 problems
+- [Data-Analytics](../04-Technologies/Data-Analytics.md) — 3 problems
 
 ## 🏢 Participating Organizations
 
+- [Ministry of Food Processing Industries (MoFPI)](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) — 5 problems
 - [Ministry of Rural Development](../03-Organizations/Ministry-of-Rural-Development.md) — 3 problems
 - [Ministry of MSME](../03-Organizations/Ministry-of-MSME.md) — 3 problems
 - [Ministry of Fisheries, Animal Husbandry & Dairying](../03-Organizations/Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md) — 3 problems
@@ -65,3 +72,4 @@ tags:
 - [Ministry of Development of North Eastern Region (MDoNER)](../03-Organizations/Ministry-of-Development-of-North-Eastern-Region-MDoNER.md) — 1 problems
 - [Ministry of Consumer Affairs, Food & Public Distribution](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) — 1 problems
 - [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) — 1 problems
+- [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) — 1 problems

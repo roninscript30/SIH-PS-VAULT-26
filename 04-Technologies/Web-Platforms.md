@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Web-Platforms"
-problem_count: 89
+problem_count: 100
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **89 Problem Statements** leverage this technology
+> **100 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -35,8 +35,8 @@ tags:
 | [PS-26034](../01-Problem-Statements/PS-26034.md) | Software System to check compliance of Packaged Commodities  | [Ministry of Consumer Affairs](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26035](../01-Problem-Statements/PS-26035.md) | Development of a Software Program/Application for Generation | [Ministry of Consumer Affairs](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26036](../01-Problem-Statements/PS-26036.md) | Development of an Online Verification System for Weighing an | [Ministry of Consumer Affairs](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
-| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial Safety | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
-| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges and fa | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial Safety | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges and fa | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26044](../01-Problem-Statements/PS-26044.md) | Portal for Academia - Industry collaboration for Skill Mappi | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26046](../01-Problem-Statements/PS-26046.md) | AIIA Clinical Trials Dashboard - a real-time, cloud-based, G | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26053](../01-Problem-Statements/PS-26053.md) | Adaptive Variable Resolution 2.5D Lidar Mapping for Dynamic  | [DRDO](../03-Organizations/DRDO.md) | Software | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
@@ -105,14 +105,25 @@ tags:
 | [PS-26184](../01-Problem-Statements/PS-26184.md) | Development of a Predictive Analytics Framework for Cybercri | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26186](../01-Problem-Statements/PS-26186.md) | AI-Based Predictive Personnel Stress and Welfare Monitoring  | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26236](../01-Problem-Statements/PS-26236.md) | Al-Based Intelligent Food Packaging Material Recommendation  | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26238](../01-Problem-Statements/PS-26238.md) | Unified Scholarship Mobile Application for Tribal Students | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26239](../01-Problem-Statements/PS-26239.md) | AI-Enabled Scholarship and Fellowship Management System for  | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26241](../01-Problem-Statements/PS-26241.md) | AI-Enabled Career Counselling and Family Decision-Support Pl | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26243](../01-Problem-Statements/PS-26243.md) | Smart Connected Safety Gear for Electrical and Welding Trade | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26244](../01-Problem-Statements/PS-26244.md) | AI-Enabled Diagnostic and Sensing Wearables for Skilled Trad | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26245](../01-Problem-Statements/PS-26245.md) | AI-Based Real-Time Monitoring of Training Centres for Attend | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26246](../01-Problem-Statements/PS-26246.md) | AI-Enabled Labour Market Intelligence and Skill Demand-Suppl | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trainer | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26248](../01-Problem-Statements/PS-26248.md) | Immersive Multi-Domain Decision-Making Trainer for Degraded  | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26255](../01-Problem-Statements/PS-26255.md) | Development of a solution using AI and ML to monitor the fun | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 66 shared problems
-- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 38 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 74 shared problems
+- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 39 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 30 shared problems
-- [NLP](./NLP.md) — 26 shared problems
-- [Mobile-Development](./Mobile-Development.md) — 20 shared problems
-- [IoT-and-Sensors](./IoT-and-Sensors.md) — 19 shared problems
+- [NLP](./NLP.md) — 28 shared problems
+- [IoT-and-Sensors](./IoT-and-Sensors.md) — 23 shared problems
+- [Mobile-Development](./Mobile-Development.md) — 23 shared problems
 - [Data-Analytics](./Data-Analytics.md) — 16 shared problems
-- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 13 shared problems
+- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 14 shared problems

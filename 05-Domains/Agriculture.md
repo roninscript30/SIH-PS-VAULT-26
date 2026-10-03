@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Agriculture"
-problem_count: 40
+problem_count: 48
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **40 Problem Statements** fall in this domain
+> **48 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -28,7 +28,7 @@ tags:
 | [PS-26032](../01-Problem-Statements/PS-26032.md) | Farmers often face long waiting times, lack of informat | [Ministry of Consumer Affa](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26033](../01-Problem-Statements/PS-26033.md) | Multiple intermediaries reduce farmers earnings and inc | [Ministry of Consumer Affa](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26035](../01-Problem-Statements/PS-26035.md) | Development of a Software Program/Application for Gener | [Ministry of Consumer Affa](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
-| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges a | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges a | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26052](../01-Problem-Statements/PS-26052.md) | To develop an AI/ML-enabled adaptive noise cancellation | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26068](../01-Problem-Statements/PS-26068.md) | WeatherGPT: Conversational AI for Weather Forecasting,  | [Ministry of Earth Science](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26073](../01-Problem-Statements/PS-26073.md) | AI/ML-Based Intelligent Anomaly Detection for Automatic | [Ministry of Earth Science](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
@@ -56,3 +56,11 @@ tags:
 | [PS-26192](../01-Problem-Statements/PS-26192.md) | Flash Flood Prediction System for Hilly Regions using M | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26193](../01-Problem-Statements/PS-26193.md) | Student Innovation-Developing solutions, keeping in min | [AICTE](../03-Organizations/AICTE.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26210](../01-Problem-Statements/PS-26210.md) | Student Innovation-Developing solutions, keeping in min | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26232](../01-Problem-Statements/PS-26232.md) | Low-Cost loT Block chain Nodes for Farm-to-Fork Traceab | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable R | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26235](../01-Problem-Statements/PS-26235.md) | Development of a Portable Nano engineered Rapid Food Te | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26236](../01-Problem-Statements/PS-26236.md) | Al-Based Intelligent Food Packaging Material Recommenda | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26240](../01-Problem-Statements/PS-26240.md) | AI-Based Spring Revival and Recharge Planning for Triba | [Ministry of Tribal Affair](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26252](../01-Problem-Statements/PS-26252.md) | Development of Field Test Kits for Detection and Monito | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26256](../01-Problem-Statements/PS-26256.md) | On site containment-based Toilets: Innovative technolog | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26260](../01-Problem-Statements/PS-26260.md) | Innovative Uses of Bio-Slurry: Value-Added Products and | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |

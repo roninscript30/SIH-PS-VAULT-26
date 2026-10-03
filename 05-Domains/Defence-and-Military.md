@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Defence-and-Military"
-problem_count: 15
+problem_count: 18
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **15 Problem Statements** fall in this domain
+> **18 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -31,3 +31,6 @@ tags:
 | [PS-26175](../01-Problem-Statements/PS-26175.md) | DepthWizard - Single-View Height Estimation and 3D Flyt | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26184](../01-Problem-Statements/PS-26184.md) | Development of a Predictive Analytics Framework for Cyb | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26185](../01-Problem-Statements/PS-26185.md) | Helmet mounted conformal antenna for tactical communica | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trai | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26250](../01-Problem-Statements/PS-26250.md) | Air Power - Dynamic Air Operations & Resource Optimisat | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Log](../02-Themes/Transportation-Logistics.md) |
+| [PS-26251](../01-Problem-Statements/PS-26251.md) | Indian Army - Predictive Logistics & Forward Supply Cha | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Log](../02-Themes/Transportation-Logistics.md) |

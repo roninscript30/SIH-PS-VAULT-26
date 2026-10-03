@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Healthcare"
-problem_count: 37
+problem_count: 42
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **37 Problem Statements** fall in this domain
+> **42 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -22,8 +22,8 @@ tags:
 | [PS-26021](../01-Problem-Statements/PS-26021.md) | Honey Chain: A block chain-based system for honey trace | [Ministry of MSME](../03-Organizations/Ministry-of-MSME.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26035](../01-Problem-Statements/PS-26035.md) | Development of a Software Program/Application for Gener | [Ministry of Consumer Affa](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26038](../01-Problem-Statements/PS-26038.md) | Explainable AI for Diabetic Retinopathy Screening in Ru | [MathWorks](../03-Organizations/MathWorks.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
-| [PS-26040](../01-Problem-Statements/PS-26040.md) | Smart Water Purification and Quality Monitoring System  | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
-| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges a | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26040](../01-Problem-Statements/PS-26040.md) | Smart Water Purification and Quality Monitoring System  | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges a | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26045](../01-Problem-Statements/PS-26045.md) | IP-SAKTI Sahayak a multilingual, RAG-based (source-cite | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26046](../01-Problem-Statements/PS-26046.md) | AIIA Clinical Trials Dashboard - a real-time, cloud-bas | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26047](../01-Problem-Statements/PS-26047.md) | Patient Case-Taking Software | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
@@ -53,3 +53,8 @@ tags:
 | [PS-26216](../01-Problem-Statements/PS-26216.md) | Student Innovation-Technology ideas in tertiary sectors | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26218](../01-Problem-Statements/PS-26218.md) | Student Innovation-There is a need to design drones and | [AICTE](../03-Organizations/AICTE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector in | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | Software | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26233](../01-Problem-Statements/PS-26233.md) | Inline Microbial Contamination Detection Using Hyperspe | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26235](../01-Problem-Statements/PS-26235.md) | Development of a Portable Nano engineered Rapid Food Te | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26249](../01-Problem-Statements/PS-26249.md) | Air Power - Predictive Maintenance & Fleet Availability | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Log](../02-Themes/Transportation-Logistics.md) |
+| [PS-26252](../01-Problem-Statements/PS-26252.md) | Development of Field Test Kits for Detection and Monito | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26260](../01-Problem-Statements/PS-26260.md) | Innovative Uses of Bio-Slurry: Value-Added Products and | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |

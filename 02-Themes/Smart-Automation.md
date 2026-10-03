@@ -1,8 +1,8 @@
 ---
 type: theme
 theme: "Smart Automation"
-problem_count: 55
-software_count: 44
+problem_count: 57
+software_count: 46
 hardware_count: 11
 tags:
   - sih2026
@@ -12,7 +12,7 @@ tags:
 
 [← Theme Catalog Index](./theme_index.md)
 
-> **55 Problem Statements** (44 Software, 11 Hardware)
+> **57 Problem Statements** (46 Software, 11 Hardware)
 
 ## 📋 Problem Statements in Smart Automation
 
@@ -35,7 +35,7 @@ tags:
 | [PS-26030](../01-Problem-Statements/PS-26030.md) | Automated Cable Specimen Preparation System for IS 10810 and IS 7098 C | [Ministry of Consumer Affairs, Food ](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Hardware |
 | [PS-26031](../01-Problem-Statements/PS-26031.md) | Quality assessment and grading of onions are often subjective and vary | [Ministry of Consumer Affairs, Food ](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software |
 | [PS-26032](../01-Problem-Statements/PS-26032.md) | Farmers often face long waiting times, lack of information regarding p | [Ministry of Consumer Affairs, Food ](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software |
-| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Rescue System. | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Hardware |
+| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Rescue System. | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Hardware |
 | [PS-26044](../01-Problem-Statements/PS-26044.md) | Portal for Academia - Industry collaboration for Skill Mapping, Intern | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software |
 | [PS-26049](../01-Problem-Statements/PS-26049.md) | Modifications to improve the reliability, efficiency,and lifespan of e | [DRDO](../03-Organizations/DRDO.md) | Hardware |
 | [PS-26056](../01-Problem-Statements/PS-26056.md) | Development of a Real-time Airfare Price Index for India through Autom | [MoSPI](../03-Organizations/MoSPI.md) | Software |
@@ -73,17 +73,19 @@ tags:
 | [PS-26173](../01-Problem-Statements/PS-26173.md) | iTantra -Indian Multilingual TTS & STT Aided Neural Transceiver Radio  | [Indian Space Research Organisation(](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software |
 | [PS-26202](../01-Problem-Statements/PS-26202.md) | Student Innovation-Ideas focused on the intelligent use of resources f | [AICTE](../03-Organizations/AICTE.md) | Software |
 | [PS-26219](../01-Problem-Statements/PS-26219.md) | Student Innovation-Ideas focused on the intelligent use of resources f | [AICTE](../03-Organizations/AICTE.md) | Hardware |
+| [PS-26238](../01-Problem-Statements/PS-26238.md) | Unified Scholarship Mobile Application for Tribal Students | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software |
+| [PS-26248](../01-Problem-Statements/PS-26248.md) | Immersive Multi-Domain Decision-Making Trainer for Degraded Communicat | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software |
 
 ## 🔧 Top Technologies
 
 - [AI-and-ML](../04-Technologies/AI-and-ML.md) — 43 problems
-- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 22 problems
+- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 24 problems
 - [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 17 problems
-- [NLP](../04-Technologies/NLP.md) — 12 problems
+- [NLP](../04-Technologies/NLP.md) — 13 problems
 - [Cloud-Computing](../04-Technologies/Cloud-Computing.md) — 10 problems
 - [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 9 problems
+- [Mobile-Development](../04-Technologies/Mobile-Development.md) — 9 problems
 - [Computer-Vision](../04-Technologies/Computer-Vision.md) — 8 problems
-- [Data-Analytics](../04-Technologies/Data-Analytics.md) — 8 problems
 
 ## 🏢 Participating Organizations
 
@@ -102,6 +104,8 @@ tags:
 - [National Technical Research Organisation (NTRO)](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) — 2 problems
 - [AICTE](../03-Organizations/AICTE.md) — 2 problems
 - [Ministry of Railways](../03-Organizations/Ministry-of-Railways.md) — 1 problems
-- [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) — 1 problems
+- [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) — 1 problems
 - [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) — 1 problems
 - [DRDO](../03-Organizations/DRDO.md) — 1 problems
+- [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) — 1 problems
+- [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) — 1 problems

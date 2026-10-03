@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Space-Exploration"
-problem_count: 27
+problem_count: 30
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **27 Problem Statements** fall in this domain
+> **30 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -37,9 +37,12 @@ tags:
 | [PS-26162](../01-Problem-Statements/PS-26162.md) | AI-Based Detection and Classification of Industrial Fir | [National Technical Resear](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26166](../01-Problem-Statements/PS-26166.md) | Multi-modal, Sun angle and scale invariant image corres | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26167](../01-Problem-Statements/PS-26167.md) | SatQuery AI - An Interactive Vision-Language Assistant  | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
+| [PS-26168](../01-Problem-Statements/PS-26168.md) | AI-ML based Intelligent Dead Reckoning system for seaml | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
 | [PS-26169](../01-Problem-Statements/PS-26169.md) | Development of an AI-Based Virtual Camera Tracking Syst | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26171](../01-Problem-Statements/PS-26171.md) | On-device Visual Perception for Light-weight Browser Ag | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26173](../01-Problem-Statements/PS-26173.md) | iTantra -Indian Multilingual TTS & STT Aided Neural Tra | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26174](../01-Problem-Statements/PS-26174.md) | AI Human Activity Recognition for On-board BAS Experime | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26175](../01-Problem-Statements/PS-26175.md) | DepthWizard - Single-View Height Estimation and 3D Flyt | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
-| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agen | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agen | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26178](../01-Problem-Statements/PS-26178.md) | A resilient, AI-powered environmental monitoring networ | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26227](../01-Problem-Statements/PS-26227.md) | Semantic Retrieval and Multi-Temporal Change Analysis o | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |

@@ -14,7 +14,7 @@ tags:
 
 > **Type**: Government | **7 Problem Statements** (4 Software, 3 Hardware)
 
-**Departments**: Department of Defence Production /IDEX
+**Departments**: Department of Defence R&D
 
 ## 📋 Problem Statements
 

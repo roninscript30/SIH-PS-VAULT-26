@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "IoT-and-Sensors"
-problem_count: 48
+problem_count: 56
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **48 Problem Statements** leverage this technology
+> **56 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -26,8 +26,8 @@ tags:
 | [PS-26026](../01-Problem-Statements/PS-26026.md) | Development of Mobile (Quadruped)/Handheld Device/System for | [Ministry of Railways](../03-Organizations/Ministry-of-Railways.md) | Hardware | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26030](../01-Problem-Statements/PS-26030.md) | Automated Cable Specimen Preparation System for IS 10810 and | [Ministry of Consumer Affairs](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26037](../01-Problem-Statements/PS-26037.md) | Adaptive Path Planning and Collision Avoidance for Autonomou | [MathWorks](../03-Organizations/MathWorks.md) | Software | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
-| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Rescue Sy | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26040](../01-Problem-Statements/PS-26040.md) | Smart Water Purification and Quality Monitoring System for R | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26039](../01-Problem-Statements/PS-26039.md) | Al-Powered Underground Mine Safety, Monitoring and Rescue Sy | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26040](../01-Problem-Statements/PS-26040.md) | Smart Water Purification and Quality Monitoring System for R | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 | [PS-26049](../01-Problem-Statements/PS-26049.md) | Modifications to improve the reliability, efficiency,and lif | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26050](../01-Problem-Statements/PS-26050.md) | High Altitude Performance Optimization and Robust Design of  | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26052](../01-Problem-Statements/PS-26052.md) | To develop an AI/ML-enabled adaptive noise cancellation (ANC | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
@@ -64,14 +64,22 @@ tags:
 | [PS-26227](../01-Problem-Statements/PS-26227.md) | Semantic Retrieval and Multi-Temporal Change Analysis of Sat | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Data, Mo | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26232](../01-Problem-Statements/PS-26232.md) | Low-Cost loT Block chain Nodes for Farm-to-Fork Traceability | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26233](../01-Problem-Statements/PS-26233.md) | Inline Microbial Contamination Detection Using Hyperspectral | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable Redist | [Ministry of Food Processing ](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26243](../01-Problem-Statements/PS-26243.md) | Smart Connected Safety Gear for Electrical and Welding Trade | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26244](../01-Problem-Statements/PS-26244.md) | AI-Enabled Diagnostic and Sensing Wearables for Skilled Trad | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trainer | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26254](../01-Problem-Statements/PS-26254.md) | Development of Indigenous Leak Detection Sensor Systems for  | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26255](../01-Problem-Statements/PS-26255.md) | Development of a solution using AI and ML to monitor the fun | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 30 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 34 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 23 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 21 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 19 shared problems
-- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 14 shared problems
-- [Robotics](./Robotics.md) — 12 shared problems
+- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 15 shared problems
+- [Robotics](./Robotics.md) — 13 shared problems
 - [Edge-Computing](./Edge-Computing.md) — 11 shared problems
-- [Computer-Vision](./Computer-Vision.md) — 9 shared problems
+- [Computer-Vision](./Computer-Vision.md) — 10 shared problems
 - [GPS-and-Navigation](./GPS-and-Navigation.md) — 8 shared problems

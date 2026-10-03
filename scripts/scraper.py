@@ -80,9 +80,9 @@ def extract_from_modals(soup):
         # Extract from modal body - look for table inside
         table = modal.find('table')
         if table:
-            rows = table.find_all('tr')
+            rows = [r for r in table.find_all('tr') if r.find_parent('table') == table]
             for row in rows:
-                cells = row.find_all(['td', 'th'])
+                cells = row.find_all(['td', 'th'], recursive=False)
                 if len(cells) >= 2:
                     key = clean_text(cells[0].get_text())
                     value = clean_text(cells[1].get_text())
@@ -104,7 +104,7 @@ def extract_from_modals(soup):
                     elif 'department' in key_lower:
                         ps['department'] = value
                     elif 'category' in key_lower:
-                        ps['category'] = value
+                        ps['category'] = value.capitalize() if value.lower() in ('software', 'hardware') else value
                     elif 'theme' in key_lower:
                         ps['theme'] = value
                     elif 'youtube' in key_lower:
@@ -166,7 +166,7 @@ def extract_from_tables(soup):
                         elif 'department' in h_lower:
                             ps['department'] = value
                         elif 'category' in h_lower:
-                            ps['category'] = value
+                            ps['category'] = value.capitalize() if value.lower() in ('software', 'hardware') else value
                         elif 'theme' in h_lower:
                             ps['theme'] = value
                         elif 'youtube' in h_lower:
@@ -229,10 +229,10 @@ def extract_all_modal_data_raw(soup):
             continue
             
         ps = {'source_url': URL, 'source_modal_id': modal_id}
-        rows = table.find_all('tr')
+        rows = [r for r in table.find_all('tr') if r.find_parent('table') == table]
         
         for row in rows:
-            cells = row.find_all(['td', 'th'])
+            cells = row.find_all(['td', 'th'], recursive=False)
             if len(cells) >= 2:
                 key = clean_text(cells[0].get_text())
                 value_cell = cells[1]
@@ -254,7 +254,7 @@ def extract_all_modal_data_raw(soup):
                 elif 'department' in key_lower:
                     ps['department'] = value
                 elif 'category' in key_lower:
-                    ps['category'] = value
+                    ps['category'] = value.capitalize() if value.lower() in ('software', 'hardware') else value
                 elif 'theme' in key_lower:
                     ps['theme'] = value
                 elif 'youtube' in key_lower:

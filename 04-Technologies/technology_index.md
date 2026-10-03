@@ -5,23 +5,23 @@ type: index
 
 | Technology | Problem Count | Catalog Link |
 |------------|--------------:|--------------|
-| AI and ML | 136 | [AI and ML](./AI-and-ML.md) |
-| Web Platforms | 89 | [Web Platforms](./Web-Platforms.md) |
-| GIS and Geospatial | 58 | [GIS and Geospatial](./GIS-and-Geospatial.md) |
-| Cloud Computing | 49 | [Cloud Computing](./Cloud-Computing.md) |
-| IoT and Sensors | 48 | [IoT and Sensors](./IoT-and-Sensors.md) |
-| NLP | 44 | [NLP](./NLP.md) |
-| Mobile Development | 29 | [Mobile Development](./Mobile-Development.md) |
-| Cybersecurity Tech | 24 | [Cybersecurity Tech](./Cybersecurity-Tech.md) |
-| Robotics | 21 | [Robotics](./Robotics.md) |
-| Data Analytics | 20 | [Data Analytics](./Data-Analytics.md) |
-| GPS and Navigation | 18 | [GPS and Navigation](./GPS-and-Navigation.md) |
-| Computer Vision | 18 | [Computer Vision](./Computer-Vision.md) |
+| AI and ML | 151 | [AI and ML](./AI-and-ML.md) |
+| Web Platforms | 100 | [Web Platforms](./Web-Platforms.md) |
+| GIS and Geospatial | 62 | [GIS and Geospatial](./GIS-and-Geospatial.md) |
+| IoT and Sensors | 56 | [IoT and Sensors](./IoT-and-Sensors.md) |
+| Cloud Computing | 50 | [Cloud Computing](./Cloud-Computing.md) |
+| NLP | 46 | [NLP](./NLP.md) |
+| Mobile Development | 32 | [Mobile Development](./Mobile-Development.md) |
+| Cybersecurity Tech | 26 | [Cybersecurity Tech](./Cybersecurity-Tech.md) |
+| Data Analytics | 22 | [Data Analytics](./Data-Analytics.md) |
+| Robotics | 22 | [Robotics](./Robotics.md) |
+| GPS and Navigation | 19 | [GPS and Navigation](./GPS-and-Navigation.md) |
+| Computer Vision | 19 | [Computer Vision](./Computer-Vision.md) |
+| Blockchain | 18 | [Blockchain](./Blockchain.md) |
 | 3D Modeling | 16 | [3D Modeling](./3D-Modeling.md) |
-| Blockchain | 16 | [Blockchain](./Blockchain.md) |
 | Edge Computing | 16 | [Edge Computing](./Edge-Computing.md) |
-| Digital Twin | 6 | [Digital Twin](./Digital-Twin.md) |
+| Digital Twin | 7 | [Digital Twin](./Digital-Twin.md) |
+| Sonar Acoustics | 7 | [Sonar Acoustics](./Sonar-Acoustics.md) |
+| Quantum Computing | 7 | [Quantum Computing](./Quantum-Computing.md) |
 | LiDAR | 6 | [LiDAR](./LiDAR.md) |
-| Sonar Acoustics | 6 | [Sonar Acoustics](./Sonar-Acoustics.md) |
-| Quantum Computing | 6 | [Quantum Computing](./Quantum-Computing.md) |
-| AR VR | 1 | [AR VR](./AR-VR.md) |
+| AR VR | 3 | [AR VR](./AR-VR.md) |

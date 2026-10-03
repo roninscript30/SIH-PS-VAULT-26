@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Quantum-Computing"
-problem_count: 6
+problem_count: 7
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **6 Problem Statements** leverage this technology
+> **7 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -22,11 +22,12 @@ tags:
 | [PS-26140](../01-Problem-Statements/PS-26140.md) | AI-Based Interactive Quantum Algorithm Learning Platform | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26141](../01-Problem-Statements/PS-26141.md) | Quantum-Inspired Cyber Threat Detection for Digital Signatur | [Egreen Quanta](../03-Organizations/Egreen-Quanta.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26164](../01-Problem-Statements/PS-26164.md) | Enterprise Cryptographic Discovery & Analysis Tool (ECDAT) | [National Technical Research ](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26237](../01-Problem-Statements/PS-26237.md) | Cryptographic Attribution and Immutable Decryption Provenanc | [Ministry of Defence](../03-Organizations/Ministry-of-Defence.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
 - [AI-and-ML](./AI-and-ML.md) — 3 shared problems
-- [Blockchain](./Blockchain.md) — 2 shared problems
+- [Blockchain](./Blockchain.md) — 3 shared problems
+- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 2 shared problems
+- [Cloud-Computing](./Cloud-Computing.md) — 2 shared problems
 - [Web-Platforms](./Web-Platforms.md) — 1 shared problems
-- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 1 shared problems
-- [Cloud-Computing](./Cloud-Computing.md) — 1 shared problems

@@ -1,6 +1,6 @@
 ---
 type: organization
-organization: "Governmcnt of Jharkhand"
+organization: "Government of Jharkhand"
 organization_type: "Government"
 problem_count: 5
 tags:
@@ -8,7 +8,7 @@ tags:
   - organization
   - government
 ---
-# 🏢 Governmcnt of Jharkhand
+# 🏢 Government of Jharkhand
 
 [← Organization Catalog Index](./organization_index.md)
 

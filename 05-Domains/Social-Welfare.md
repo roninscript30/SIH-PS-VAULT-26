@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Social-Welfare"
-problem_count: 18
+problem_count: 21
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **18 Problem Statements** fall in this domain
+> **21 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -20,8 +20,8 @@ tags:
 | [PS-26016](../01-Problem-Statements/PS-26016.md) | Real-Time National Land Acquisition & Management System | [Ministry of Rural Develop](../03-Organizations/Ministry-of-Rural-Development.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26020](../01-Problem-Statements/PS-26020.md) | Design and Development of Innovative Hand-Spinning Equi | [Ministry of MSME](../03-Organizations/Ministry-of-MSME.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26022](../01-Problem-Statements/PS-26022.md) | Design and develop a smart, solar-powered drying and co | [Ministry of MSME](../03-Organizations/Ministry-of-MSME.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
-| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial S | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
-| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translatio | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial S | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translatio | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26087](../01-Problem-Statements/PS-26087.md) | AI & LMS - Enabled Cooperative Capacity Building, ERP & | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26088](../01-Problem-Statements/PS-26088.md) | Multilingual Cooperative Governance & Legal Assistance  | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26089](../01-Problem-Statements/PS-26089.md) | Cooperative Gig Services Platform for Household & Commu | [Ministry of Cooperation](../03-Organizations/Ministry-of-Cooperation.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
@@ -34,3 +34,6 @@ tags:
 | [PS-26109](../01-Problem-Statements/PS-26109.md) | Al-Based Predictive Modelling for Early Forecasting of  | [Ministry of Fisheries, An](../03-Organizations/Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26180](../01-Problem-Statements/PS-26180.md) | A field-deployable AI-powered Smart Farming Assistant t | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | [PS-26186](../01-Problem-Statements/PS-26186.md) | AI-Based Predictive Personnel Stress and Welfare Monito | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26238](../01-Problem-Statements/PS-26238.md) | Unified Scholarship Mobile Application for Tribal Stude | [Ministry of Tribal Affair](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26239](../01-Problem-Statements/PS-26239.md) | AI-Enabled Scholarship and Fellowship Management System | [Ministry of Tribal Affair](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26240](../01-Problem-Statements/PS-26240.md) | AI-Based Spring Revival and Recharge Planning for Triba | [Ministry of Tribal Affair](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |

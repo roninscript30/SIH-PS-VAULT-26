@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "GPS-and-Navigation"
-problem_count: 18
+problem_count: 19
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **18 Problem Statements** leverage this technology
+> **19 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -34,6 +34,7 @@ tags:
 | [PS-26177](../01-Problem-Statements/PS-26177.md) | A deployable AI-powered autonomous drone that aids search-an | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector into th | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | Software | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 | [PS-26231](../01-Problem-Statements/PS-26231.md) | Digital Companion for Field Drug Testing | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
+| [PS-26259](../01-Problem-Statements/PS-26259.md) | Technical Solutions for Multi-Layer Plastic (MLP) Management | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 

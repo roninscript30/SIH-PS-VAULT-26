@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "E-Governance"
-problem_count: 52
+problem_count: 57
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **52 Problem Statements** fall in this domain
+> **57 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -36,7 +36,7 @@ tags:
 | [PS-26034](../01-Problem-Statements/PS-26034.md) | Software System to check compliance of Packaged Commodi | [Ministry of Consumer Affa](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26035](../01-Problem-Statements/PS-26035.md) | Development of a Software Program/Application for Gener | [Ministry of Consumer Affa](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26036](../01-Problem-Statements/PS-26036.md) | Development of an Online Verification System for Weighi | [Ministry of Consumer Affa](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
-| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial S | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26041](../01-Problem-Statements/PS-26041.md) | AR-Based Vocational Training Simulator for Industrial S | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26045](../01-Problem-Statements/PS-26045.md) | IP-SAKTI Sahayak a multilingual, RAG-based (source-cite | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26046](../01-Problem-Statements/PS-26046.md) | AIIA Clinical Trials Dashboard - a real-time, cloud-bas | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26047](../01-Problem-Statements/PS-26047.md) | Patient Case-Taking Software | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / ](../02-Themes/MedTech-BioTech-HealthTech.md) |
@@ -68,3 +68,8 @@ tags:
 | [PS-26190](../01-Problem-Statements/PS-26190.md) | Secure Digital Document Management System for Legal and | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26228](../01-Problem-Statements/PS-26228.md) | Trustworthy Computer Vision Integrity Assurance for Dat | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Blockchain & Cyberse](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26229](../01-Problem-Statements/PS-26229.md) | Kabadiwala Connect – Bringing the Informal Collector in | [Ministry of Mines (MoM)](../03-Organizations/Ministry-of-Mines-MoM.md) | Software | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26232](../01-Problem-Statements/PS-26232.md) | Low-Cost loT Block chain Nodes for Farm-to-Fork Traceab | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable R | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26235](../01-Problem-Statements/PS-26235.md) | Development of a Portable Nano engineered Rapid Food Te | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Hardware | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26244](../01-Problem-Statements/PS-26244.md) | AI-Enabled Diagnostic and Sensing Wearables for Skilled | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26245](../01-Problem-Statements/PS-26245.md) | AI-Based Real-Time Monitoring of Training Centres for A | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |

@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Urban-Development"
-problem_count: 32
+problem_count: 38
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **32 Problem Statements** fall in this domain
+> **38 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -24,7 +24,7 @@ tags:
 | [PS-26019](../01-Problem-Statements/PS-26019.md) | National Digital Platform for Research, Policy Innovati | [Ministry of Rural Develop](../03-Organizations/Ministry-of-Rural-Development.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26030](../01-Problem-Statements/PS-26030.md) | Automated Cable Specimen Preparation System for IS 1081 | [Ministry of Consumer Affa](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) | Hardware | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26037](../01-Problem-Statements/PS-26037.md) | Adaptive Path Planning and Collision Avoidance for Auto | [MathWorks](../03-Organizations/MathWorks.md) | Software | [Smart Vehicles](../02-Themes/Smart-Vehicles.md) |
-| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges a | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26043](../01-Problem-Statements/PS-26043.md) | A digital platform to crowdsource societal challenges a | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26050](../01-Problem-Statements/PS-26050.md) | High Altitude Performance Optimization and Robust Desig | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26052](../01-Problem-Statements/PS-26052.md) | To develop an AI/ML-enabled adaptive noise cancellation | [DRDO](../03-Organizations/DRDO.md) | Hardware | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 | [PS-26068](../01-Problem-Statements/PS-26068.md) | WeatherGPT: Conversational AI for Weather Forecasting,  | [Ministry of Earth Science](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
@@ -48,3 +48,9 @@ tags:
 | [PS-26175](../01-Problem-Statements/PS-26175.md) | DepthWizard - Single-View Height Estimation and 3D Flyt | [Indian Space Research Org](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26178](../01-Problem-Statements/PS-26178.md) | A resilient, AI-powered environmental monitoring networ | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26185](../01-Problem-Statements/PS-26185.md) | Helmet mounted conformal antenna for tactical communica | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26234](../01-Problem-Statements/PS-26234.md) | Al-Powered Smart Food Waste Reduction and Sustainable R | [Ministry of Food Processi](../03-Organizations/Ministry-of-Food-Processing-Industries-MoFPI.md) | Software | [Agriculture, FoodTec](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26241](../01-Problem-Statements/PS-26241.md) | AI-Enabled Career Counselling and Family Decision-Suppo | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26242](../01-Problem-Statements/PS-26242.md) | AI-Assisted Skill Assessment Tool for Recognition of Pr | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26245](../01-Problem-Statements/PS-26245.md) | AI-Based Real-Time Monitoring of Training Centres for A | [Ministry of Skill Develop](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trai | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
+| [PS-26259](../01-Problem-Statements/PS-26259.md) | Technical Solutions for Multi-Layer Plastic (MLP) Manag | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |

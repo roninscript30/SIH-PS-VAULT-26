@@ -13,15 +13,19 @@ type: index
 | Ministry of Rural Development | Government | 10 | [Ministry of Rural Development](./Ministry-of-Rural-Development.md) |
 | Ministry of Consumer Affairs, Food & Public D | Government | 10 | [Ministry of Consumer Affairs, Food & Public D](./Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) |
 | Government Of Maharashtra | Government | 9 | [Government Of Maharashtra](./Government-Of-Maharashtra.md) |
+| Ministry of Jal Shakti (MoJS) | Government | 9 | [Ministry of Jal Shakti (MoJS)](./Ministry-of-Jal-Shakti-MoJS.md) |
 | Ministry of Social Justice and Empowerment (M | Government | 8 | [Ministry of Social Justice and Empowerment (M](./Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) |
 | DRDO | Government | 7 | [DRDO](./DRDO.md) |
+| Ministry of Defence (MoD) | Government | 6 | [Ministry of Defence (MoD)](./Ministry-of-Defence-MoD.md) |
+| Ministry of Skill Development and Entrepreneu | Government | 6 | [Ministry of Skill Development and Entrepreneu](./Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) |
 | Ministry of Development of North Eastern Regi | Government | 5 | [Ministry of Development of North Eastern Regi](./Ministry-of-Development-of-North-Eastern-Region-MDoNER.md) |
-| Governmcnt of Jharkhand | Government | 5 | [Governmcnt of Jharkhand](./Governmcnt-of-Jharkhand.md) |
+| Government of Jharkhand | Government | 5 | [Government of Jharkhand](./Government-of-Jharkhand.md) |
 | Ministry of Ayush | Government | 5 | [Ministry of Ayush](./Ministry-of-Ayush.md) |
 | Autodesk | Industry | 5 | [Autodesk](./Autodesk.md) |
 | Bharat Electronics Limited | Industry | 5 | [Bharat Electronics Limited](./Bharat-Electronics-Limited.md) |
 | Egreen Quanta | Industry | 5 | [Egreen Quanta](./Egreen-Quanta.md) |
 | Qualcomm Inc | Industry | 5 | [Qualcomm Inc](./Qualcomm-Inc.md) |
+| Ministry of Food Processing Industries (MoFPI | Government | 5 | [Ministry of Food Processing Industries (MoFPI](./Ministry-of-Food-Processing-Industries-MoFPI.md) |
 | Ministry of Steel | Government | 4 | [Ministry of Steel](./Ministry-of-Steel.md) |
 | MoSPI | Government | 4 | [MoSPI](./MoSPI.md) |
 | Oil India Limited | PSU | 4 | [Oil India Limited](./Oil-India-Limited.md) |
@@ -32,8 +36,9 @@ type: index
 | All India Council for Technical Education (Cy | Government | 3 | [All India Council for Technical Education (Cy](./All-India-Council-for-Technical-Education-Cyber-Security-Cell.md) |
 | Ministry of Fisheries, Animal Husbandry & Dai | Government | 3 | [Ministry of Fisheries, Animal Husbandry & Dai](./Ministry-of-Fisheries,-Animal-Husbandry-Dairying.md) |
 | Mangalore Refinery and Petrochemicals Limited | PSU | 3 | [Mangalore Refinery and Petrochemicals Limited](./Mangalore-Refinery-and-Petrochemicals-Limited-MRPL.md) |
+| Ministry of Tribal Affairs | Government | 3 | [Ministry of Tribal Affairs](./Ministry-of-Tribal-Affairs.md) |
 | MathWorks | Industry | 2 | [MathWorks](./MathWorks.md) |
 | Ministry of Petroleum & Natural Gas | Government | 2 | [Ministry of Petroleum & Natural Gas](./Ministry-of-Petroleum-Natural-Gas.md) |
 | Ministry of defence (MoD) | Government | 2 | [Ministry of defence (MoD)](./Ministry-of-defence-MoD.md) |
-| Ministry of Defence (MoD) | Government | 1 | [Ministry of Defence (MoD)](./Ministry-of-Defence-MoD.md) |
 | Ministry of Mines (MoM) | Government | 1 | [Ministry of Mines (MoM)](./Ministry-of-Mines-MoM.md) |
+| Ministry of Defence | Government | 1 | [Ministry of Defence](./Ministry-of-Defence.md) |

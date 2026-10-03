@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "NLP"
-problem_count: 44
+problem_count: 46
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **44 Problem Statements** leverage this technology
+> **46 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -23,7 +23,7 @@ tags:
 | [PS-26018](../01-Problem-Statements/PS-26018.md) | Intelligent Land Record Digitization and Validation System | [Ministry of Rural Developmen](../03-Organizations/Ministry-of-Rural-Development.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26024](../01-Problem-Statements/PS-26024.md) | AI-Based Smart Governance and Compliance Monitoring System f | [Ministry of Coal](../03-Organizations/Ministry-of-Coal.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26026](../01-Problem-Statements/PS-26026.md) | Development of Mobile (Quadruped)/Handheld Device/System for | [Ministry of Railways](../03-Organizations/Ministry-of-Railways.md) | Hardware | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
-| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translation Too | [Governmcnt of Jharkhand](../03-Organizations/Governmcnt-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26042](../01-Problem-Statements/PS-26042.md) | Al-Powered Vernacular Pedagogy and Real-Time Translation Too | [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26045](../01-Problem-Statements/PS-26045.md) | IP-SAKTI Sahayak a multilingual, RAG-based (source-cited) AI | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26047](../01-Problem-Statements/PS-26047.md) | Patient Case-Taking Software | [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) | Software | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26068](../01-Problem-Statements/PS-26068.md) | WeatherGPT: Conversational AI for Weather Forecasting, Alert | [Ministry of Earth Sciences (](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
@@ -58,16 +58,18 @@ tags:
 | [PS-26167](../01-Problem-Statements/PS-26167.md) | SatQuery AI - An Interactive Vision-Language Assistant for M | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26171](../01-Problem-Statements/PS-26171.md) | On-device Visual Perception for Light-weight Browser Agents | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26173](../01-Problem-Statements/PS-26173.md) | iTantra -Indian Multilingual TTS & STT Aided Neural Transcei | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
-| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agents | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agents | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26189](../01-Problem-Statements/PS-26189.md) | AI-Powered Criminal Network Analysis System | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
+| [PS-26238](../01-Problem-Statements/PS-26238.md) | Unified Scholarship Mobile Application for Tribal Students | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26246](../01-Problem-Statements/PS-26246.md) | AI-Enabled Labour Market Intelligence and Skill Demand-Suppl | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Miscellaneous](../02-Themes/Miscellaneous.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 42 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 26 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 43 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 28 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 21 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 13 shared problems
-- [Mobile-Development](./Mobile-Development.md) — 12 shared problems
+- [Mobile-Development](./Mobile-Development.md) — 13 shared problems
 - [Data-Analytics](./Data-Analytics.md) — 7 shared problems
 - [IoT-and-Sensors](./IoT-and-Sensors.md) — 7 shared problems
 - [Computer-Vision](./Computer-Vision.md) — 4 shared problems

@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "GIS-and-Geospatial"
-problem_count: 58
+problem_count: 62
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **58 Problem Statements** leverage this technology
+> **62 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -67,21 +67,25 @@ tags:
 | [PS-26162](../01-Problem-Statements/PS-26162.md) | AI-Based Detection and Classification of Industrial Fires an | [National Technical Research ](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26167](../01-Problem-Statements/PS-26167.md) | SatQuery AI - An Interactive Vision-Language Assistant for M | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26175](../01-Problem-Statements/PS-26175.md) | DepthWizard - Single-View Height Estimation and 3D Flythroug | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
-| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agents | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
+| [PS-26176](../01-Problem-Statements/PS-26176.md) | ORCA Marine EcOsystem Reasoning with Collaborative Agents | [Indian Space Research Organi](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
 | [PS-26177](../01-Problem-Statements/PS-26177.md) | A deployable AI-powered autonomous drone that aids search-an | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26178](../01-Problem-Statements/PS-26178.md) | A resilient, AI-powered environmental monitoring network tha | [Qualcomm Inc](../03-Organizations/Qualcomm-Inc.md) | Hardware | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26182](../01-Problem-Statements/PS-26182.md) | Automated Attribution of Unknown Cryptocurrency Wallets to N | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26184](../01-Problem-Statements/PS-26184.md) | Development of a Predictive Analytics Framework for Cybercri | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26191](../01-Problem-Statements/PS-26191.md) | Intelligent Identification of Hazard-Based Red Zones, Carryi | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Software | [Disaster Management](../02-Themes/Disaster-Management.md) |
 | [PS-26227](../01-Problem-Statements/PS-26227.md) | Semantic Retrieval and Multi-Temporal Change Analysis of Sat | [Ministry of defence (MoD)](../03-Organizations/Ministry-of-defence-MoD.md) | Software | [Space Technology](../02-Themes/Space-Technology.md) |
+| [PS-26240](../01-Problem-Statements/PS-26240.md) | AI-Based Spring Revival and Recharge Planning for Tribal Are | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software | [Agriculture, FoodTech ](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
+| [PS-26242](../01-Problem-Statements/PS-26242.md) | AI-Assisted Skill Assessment Tool for Recognition of Prior L | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
+| [PS-26251](../01-Problem-Statements/PS-26251.md) | Indian Army - Predictive Logistics & Forward Supply Chain. | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
+| [PS-26255](../01-Problem-Statements/PS-26255.md) | Development of a solution using AI and ML to monitor the fun | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 43 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 38 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 47 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 39 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 21 shared problems
 - [NLP](./NLP.md) — 21 shared problems
-- [IoT-and-Sensors](./IoT-and-Sensors.md) — 14 shared problems
+- [IoT-and-Sensors](./IoT-and-Sensors.md) — 15 shared problems
 - [Data-Analytics](./Data-Analytics.md) — 10 shared problems
 - [GPS-and-Navigation](./GPS-and-Navigation.md) — 10 shared problems
-- [Robotics](./Robotics.md) — 9 shared problems
+- [Mobile-Development](./Mobile-Development.md) — 9 shared problems
