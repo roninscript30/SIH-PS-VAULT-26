@@ -4,7 +4,7 @@ tags: [sih2026, index]
 ---
 # 📋 All Problem Statements Master Catalog
 
-> Total **260** Problem Statements from SIH 2026
+> Total **265** Problem Statements from SIH 2026
 
 | PS ID | Title | Organization | Category | Theme |
 |-------|-------|-------------|----------|-------|
@@ -268,3 +268,8 @@ tags: [sih2026, index]
 | [PS-26258](../01-Problem-Statements/PS-26258.md) | Innovative Mechanized Desludging Models for Varied Climatic Zones | [Ministry of Jal Shakti (MoJS)](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 | [PS-26259](../01-Problem-Statements/PS-26259.md) | Technical Solutions for Multi-Layer Plastic (MLP) Management at P | [Ministry of Jal Shakti (MoJS)](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
 | [PS-26260](../01-Problem-Statements/PS-26260.md) | Innovative Uses of Bio-Slurry: Value-Added Products and Safe Util | [Ministry of Jal Shakti (MoJS)](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26261](../01-Problem-Statements/PS-26261.md) | AI-Powered Application Validation, Document Authentication and Re | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26262](../01-Problem-Statements/PS-26262.md) | Integrated AICTE Approval Workflow Automation, Compliance Monitor | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26263](../01-Problem-Statements/PS-26263.md) | Development of an APAAR ID-Based Student Data Management and Veri | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26264](../01-Problem-Statements/PS-26264.md) | Integrated Dashboard for Monitoring and Tracking Institution-Rela | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26265](../01-Problem-Statements/PS-26265.md) | Streamline of security deposit/ FDR portal. | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |

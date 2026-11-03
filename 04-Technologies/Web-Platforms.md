@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Web-Platforms"
-problem_count: 100
+problem_count: 105
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **100 Problem Statements** leverage this technology
+> **105 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -116,14 +116,19 @@ tags:
 | [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trainer | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26248](../01-Problem-Statements/PS-26248.md) | Immersive Multi-Domain Decision-Making Trainer for Degraded  | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26255](../01-Problem-Statements/PS-26255.md) | Development of a solution using AI and ML to monitor the fun | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26261](../01-Problem-Statements/PS-26261.md) | AI-Powered Application Validation, Document Authentication a | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26262](../01-Problem-Statements/PS-26262.md) | Integrated AICTE Approval Workflow Automation, Compliance Mo | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26263](../01-Problem-Statements/PS-26263.md) | Development of an APAAR ID-Based Student Data Management and | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26264](../01-Problem-Statements/PS-26264.md) | Integrated Dashboard for Monitoring and Tracking Institution | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26265](../01-Problem-Statements/PS-26265.md) | Streamline of security deposit/ FDR portal. | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 74 shared problems
-- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 39 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 76 shared problems
+- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 40 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 30 shared problems
 - [NLP](./NLP.md) — 28 shared problems
 - [IoT-and-Sensors](./IoT-and-Sensors.md) — 23 shared problems
 - [Mobile-Development](./Mobile-Development.md) — 23 shared problems
 - [Data-Analytics](./Data-Analytics.md) — 16 shared problems
-- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 14 shared problems
+- [Cybersecurity-Tech](./Cybersecurity-Tech.md) — 15 shared problems

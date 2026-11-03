@@ -5,14 +5,14 @@ type: index
 
 | Technology | Problem Count | Catalog Link |
 |------------|--------------:|--------------|
-| AI and ML | 151 | [AI and ML](./AI-and-ML.md) |
-| Web Platforms | 100 | [Web Platforms](./Web-Platforms.md) |
-| GIS and Geospatial | 62 | [GIS and Geospatial](./GIS-and-Geospatial.md) |
+| AI and ML | 153 | [AI and ML](./AI-and-ML.md) |
+| Web Platforms | 105 | [Web Platforms](./Web-Platforms.md) |
+| GIS and Geospatial | 63 | [GIS and Geospatial](./GIS-and-Geospatial.md) |
 | IoT and Sensors | 56 | [IoT and Sensors](./IoT-and-Sensors.md) |
 | Cloud Computing | 50 | [Cloud Computing](./Cloud-Computing.md) |
 | NLP | 46 | [NLP](./NLP.md) |
 | Mobile Development | 32 | [Mobile Development](./Mobile-Development.md) |
-| Cybersecurity Tech | 26 | [Cybersecurity Tech](./Cybersecurity-Tech.md) |
+| Cybersecurity Tech | 27 | [Cybersecurity Tech](./Cybersecurity-Tech.md) |
 | Data Analytics | 22 | [Data Analytics](./Data-Analytics.md) |
 | Robotics | 22 | [Robotics](./Robotics.md) |
 | GPS and Navigation | 19 | [GPS and Navigation](./GPS-and-Navigation.md) |

@@ -2,7 +2,7 @@
 type: organization
 organization: "AICTE"
 organization_type: "Government"
-problem_count: 34
+problem_count: 39
 tags:
   - sih2026
   - organization
@@ -12,9 +12,9 @@ tags:
 
 [← Organization Catalog Index](./organization_index.md)
 
-> **Type**: Government | **34 Problem Statements** (17 Software, 17 Hardware)
+> **Type**: Government | **39 Problem Statements** (22 Software, 17 Hardware)
 
-**Departments**: AICTE, MIC-Student Innovation
+**Departments**: AICTE, MIC-Student Innovation, Regulation Bureau
 
 ## 📋 Problem Statements
 
@@ -54,9 +54,15 @@ tags:
 | [PS-26224](../01-Problem-Statements/PS-26224.md) | Student Innovation-Smart education,a concept that describes learn | Hardware | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26225](../01-Problem-Statements/PS-26225.md) | Student Innovation-Challenge your creative mind to conceptualize  | Hardware | [Toys & Games](../02-Themes/Toys-Games.md) |
 | [PS-26226](../01-Problem-Statements/PS-26226.md) | Student Innovation-Space technology refers to the application of  | Hardware | [Space Technology](../02-Themes/Space-Technology.md) |
+| [PS-26261](../01-Problem-Statements/PS-26261.md) | AI-Powered Application Validation, Document Authentication and Re | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26262](../01-Problem-Statements/PS-26262.md) | Integrated AICTE Approval Workflow Automation, Compliance Monitor | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26263](../01-Problem-Statements/PS-26263.md) | Development of an APAAR ID-Based Student Data Management and Veri | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26264](../01-Problem-Statements/PS-26264.md) | Integrated Dashboard for Monitoring and Tracking Institution-Rela | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26265](../01-Problem-Statements/PS-26265.md) | Streamline of security deposit/ FDR portal. | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 
 ## 🏷️ Theme Breakdown
 
+- [Smart Automation](../02-Themes/Smart-Automation.md) — 7 problems
 - [Agriculture, FoodTech & Rural Development](../02-Themes/Agriculture,-FoodTech-Rural-Development.md) — 2 problems
 - [Blockchain & Cybersecurity](../02-Themes/Blockchain-Cybersecurity.md) — 2 problems
 - [Clean & Green Technology](../02-Themes/Clean-Green-Technology.md) — 2 problems
@@ -66,7 +72,6 @@ tags:
 - [Miscellaneous](../02-Themes/Miscellaneous.md) — 2 problems
 - [Renewable / Sustainable Energy](../02-Themes/Renewable-Sustainable-Energy.md) — 2 problems
 - [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) — 2 problems
-- [Smart Automation](../02-Themes/Smart-Automation.md) — 2 problems
 - [Smart Vehicles](../02-Themes/Smart-Vehicles.md) — 2 problems
 - [Travel & Tourism](../02-Themes/Travel-Tourism.md) — 2 problems
 - [Transportation & Logistics](../02-Themes/Transportation-Logistics.md) — 2 problems

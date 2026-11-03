@@ -3,7 +3,7 @@ type: index
 ---
 # ⚙️ Problems by Category
 
-## 💻 Software Problems (191)
+## 💻 Software Problems (196)
 
 | PS ID | Title | Organization | Theme |
 |-------|-------|-------------|-------|
@@ -198,6 +198,11 @@ type: index
 | [PS-26249](../01-Problem-Statements/PS-26249.md) | Air Power - Predictive Maintenance & Fleet Availability | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
 | [PS-26250](../01-Problem-Statements/PS-26250.md) | Air Power - Dynamic Air Operations & Resource Optimisation. | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
 | [PS-26251](../01-Problem-Statements/PS-26251.md) | Indian Army - Predictive Logistics & Forward Supply Chain. | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
+| [PS-26261](../01-Problem-Statements/PS-26261.md) | AI-Powered Application Validation, Document Authentication a | [AICTE](../03-Organizations/AICTE.md) | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26262](../01-Problem-Statements/PS-26262.md) | Integrated AICTE Approval Workflow Automation, Compliance Mo | [AICTE](../03-Organizations/AICTE.md) | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26263](../01-Problem-Statements/PS-26263.md) | Development of an APAAR ID-Based Student Data Management and | [AICTE](../03-Organizations/AICTE.md) | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26264](../01-Problem-Statements/PS-26264.md) | Integrated Dashboard for Monitoring and Tracking Institution | [AICTE](../03-Organizations/AICTE.md) | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26265](../01-Problem-Statements/PS-26265.md) | Streamline of security deposit/ FDR portal. | [AICTE](../03-Organizations/AICTE.md) | [Smart Automation](../02-Themes/Smart-Automation.md) |
 
 ## 🔌 Hardware Problems (69)
 

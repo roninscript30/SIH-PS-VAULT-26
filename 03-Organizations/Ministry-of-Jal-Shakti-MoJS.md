@@ -14,7 +14,7 @@ tags:
 
 > **Type**: Government | **9 Problem Statements** (0 Software, 9 Hardware)
 
-**Departments**: National Jal Jeevan Mission (NJJM), Department of Drinking Water & Sanitation (DDWS), Swachh Bharat Mission, SBM (Grameen)
+**Departments**: Swachh Bharat Mission, SBM (Grameen), National Jal Jeevan Mission (NJJM), Department of Drinking Water & Sanitation (DDWS)
 
 ## 📋 Problem Statements
 

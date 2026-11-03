@@ -1,7 +1,7 @@
 ---
 type: domain
 domain: "Education-and-Skilling"
-problem_count: 48
+problem_count: 51
 tags:
   - sih2026
   - domain
@@ -10,7 +10,7 @@ tags:
 
 [← Domain Catalog Index](./domain_index.md)
 
-> **48 Problem Statements** fall in this domain
+> **51 Problem Statements** fall in this domain
 
 ## 📋 Problem Statements
 
@@ -64,3 +64,6 @@ tags:
 | [PS-26247](../01-Problem-Statements/PS-26247.md) | Al-Enabled Drone & Counter-Drone Threat Simulation Trai | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Robotics and Drones](../02-Themes/Robotics-and-Drones.md) |
 | [PS-26248](../01-Problem-Statements/PS-26248.md) | Immersive Multi-Domain Decision-Making Trainer for Degr | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 | [PS-26253](../01-Problem-Statements/PS-26253.md) | Development of Strip-Based Water Quality Test Kits for  | [Ministry of Jal Shakti (M](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Techno](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26261](../01-Problem-Statements/PS-26261.md) | AI-Powered Application Validation, Document Authenticat | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26264](../01-Problem-Statements/PS-26264.md) | Integrated Dashboard for Monitoring and Tracking Instit | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26265](../01-Problem-Statements/PS-26265.md) | Streamline of security deposit/ FDR portal. | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |

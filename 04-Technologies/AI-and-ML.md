@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "AI-and-ML"
-problem_count: 151
+problem_count: 153
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **151 Problem Statements** leverage this technology
+> **153 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -167,11 +167,13 @@ tags:
 | [PS-26250](../01-Problem-Statements/PS-26250.md) | Air Power - Dynamic Air Operations & Resource Optimisation. | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
 | [PS-26251](../01-Problem-Statements/PS-26251.md) | Indian Army - Predictive Logistics & Forward Supply Chain. | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
 | [PS-26255](../01-Problem-Statements/PS-26255.md) | Development of a solution using AI and ML to monitor the fun | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26261](../01-Problem-Statements/PS-26261.md) | AI-Powered Application Validation, Document Authentication a | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26264](../01-Problem-Statements/PS-26264.md) | Integrated Dashboard for Monitoring and Tracking Institution | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [Web-Platforms](./Web-Platforms.md) — 74 shared problems
-- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 47 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 76 shared problems
+- [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 48 shared problems
 - [NLP](./NLP.md) — 43 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 42 shared problems
 - [IoT-and-Sensors](./IoT-and-Sensors.md) — 34 shared problems

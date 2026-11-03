@@ -1,8 +1,8 @@
 ---
 type: theme
 theme: "Smart Automation"
-problem_count: 57
-software_count: 46
+problem_count: 62
+software_count: 51
 hardware_count: 11
 tags:
   - sih2026
@@ -12,7 +12,7 @@ tags:
 
 [← Theme Catalog Index](./theme_index.md)
 
-> **57 Problem Statements** (46 Software, 11 Hardware)
+> **62 Problem Statements** (51 Software, 11 Hardware)
 
 ## 📋 Problem Statements in Smart Automation
 
@@ -75,12 +75,17 @@ tags:
 | [PS-26219](../01-Problem-Statements/PS-26219.md) | Student Innovation-Ideas focused on the intelligent use of resources f | [AICTE](../03-Organizations/AICTE.md) | Hardware |
 | [PS-26238](../01-Problem-Statements/PS-26238.md) | Unified Scholarship Mobile Application for Tribal Students | [Ministry of Tribal Affairs](../03-Organizations/Ministry-of-Tribal-Affairs.md) | Software |
 | [PS-26248](../01-Problem-Statements/PS-26248.md) | Immersive Multi-Domain Decision-Making Trainer for Degraded Communicat | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software |
+| [PS-26261](../01-Problem-Statements/PS-26261.md) | AI-Powered Application Validation, Document Authentication and Regulat | [AICTE](../03-Organizations/AICTE.md) | Software |
+| [PS-26262](../01-Problem-Statements/PS-26262.md) | Integrated AICTE Approval Workflow Automation, Compliance Monitoring a | [AICTE](../03-Organizations/AICTE.md) | Software |
+| [PS-26263](../01-Problem-Statements/PS-26263.md) | Development of an APAAR ID-Based Student Data Management and Verificat | [AICTE](../03-Organizations/AICTE.md) | Software |
+| [PS-26264](../01-Problem-Statements/PS-26264.md) | Integrated Dashboard for Monitoring and Tracking Institution-Related C | [AICTE](../03-Organizations/AICTE.md) | Software |
+| [PS-26265](../01-Problem-Statements/PS-26265.md) | Streamline of security deposit/ FDR portal. | [AICTE](../03-Organizations/AICTE.md) | Software |
 
 ## 🔧 Top Technologies
 
-- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 43 problems
-- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 24 problems
-- [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 17 problems
+- [AI-and-ML](../04-Technologies/AI-and-ML.md) — 45 problems
+- [Web-Platforms](../04-Technologies/Web-Platforms.md) — 29 problems
+- [GIS-and-Geospatial](../04-Technologies/GIS-and-Geospatial.md) — 18 problems
 - [NLP](../04-Technologies/NLP.md) — 13 problems
 - [Cloud-Computing](../04-Technologies/Cloud-Computing.md) — 10 problems
 - [IoT-and-Sensors](../04-Technologies/IoT-and-Sensors.md) — 9 problems
@@ -90,6 +95,7 @@ tags:
 ## 🏢 Participating Organizations
 
 - [Ministry of Rural Development](../03-Organizations/Ministry-of-Rural-Development.md) — 7 problems
+- [AICTE](../03-Organizations/AICTE.md) — 7 problems
 - [Ministry of Consumer Affairs, Food & Public Distribution](../03-Organizations/Ministry-of-Consumer-Affairs,-Food-Public-Distribution.md) — 6 problems
 - [Ministry of Earth Sciences (MoES)](../03-Organizations/Ministry-of-Earth-Sciences-MoES.md) — 6 problems
 - [Indian Space Research Organisation(ISRO)](../03-Organizations/Indian-Space-Research-OrganisationISRO.md) — 5 problems
@@ -102,7 +108,6 @@ tags:
 - [Ministry of Social Justice and Empowerment (MoSJE)](../03-Organizations/Ministry-of-Social-Justice-and-Empowerment-MoSJE.md) — 2 problems
 - [Ministry of Petroleum & Natural Gas](../03-Organizations/Ministry-of-Petroleum-Natural-Gas.md) — 2 problems
 - [National Technical Research Organisation (NTRO)](../03-Organizations/National-Technical-Research-Organisation-NTRO.md) — 2 problems
-- [AICTE](../03-Organizations/AICTE.md) — 2 problems
 - [Ministry of Railways](../03-Organizations/Ministry-of-Railways.md) — 1 problems
 - [Government of Jharkhand](../03-Organizations/Government-of-Jharkhand.md) — 1 problems
 - [Ministry of Ayush](../03-Organizations/Ministry-of-Ayush.md) — 1 problems

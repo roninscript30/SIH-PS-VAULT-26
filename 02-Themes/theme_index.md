@@ -3,14 +3,14 @@ type: index
 ---
 # 🏷️ Theme Catalog Index
 
-## [Smart Automation](./Smart-Automation.md) (57 problems)
+## [Smart Automation](./Smart-Automation.md) (62 problems)
 
 - [PS-26007](../01-Problem-Statements/PS-26007.md) — Safe and Efficient Operation of Mine Vehicles in Fog and Low-Visibility Con
 - [PS-26008](../01-Problem-Statements/PS-26008.md) — Belt Joint Rupture and Conveyor Belt Damages in Iron Ore Mining Industry: I
 - [PS-26011](../01-Problem-Statements/PS-26011.md) — 3D ULPIN Generation and vertical Property Mapping SYstem
 - [PS-26012](../01-Problem-Statements/PS-26012.md) — AI-Based Automated Urban Parcel Mapping and Cadastral Feature Extraction Sy
 - [PS-26013](../01-Problem-Statements/PS-26013.md) — Automated lntegration and lntelligent Harmonization of Multi-source Geospat
-- *...and 52 more in full theme catalog*
+- *...and 57 more in full theme catalog*
 
 ## [Blockchain & Cybersecurity](./Blockchain-Cybersecurity.md) (32 problems)
 

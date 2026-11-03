@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "GIS-and-Geospatial"
-problem_count: 62
+problem_count: 63
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **62 Problem Statements** leverage this technology
+> **63 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -78,11 +78,12 @@ tags:
 | [PS-26242](../01-Problem-Statements/PS-26242.md) | AI-Assisted Skill Assessment Tool for Recognition of Prior L | [Ministry of Skill Developmen](../03-Organizations/Ministry-of-Skill-Development-and-Entrepreneurship-MSDE.md) | Software | [Smart Education](../02-Themes/Smart-Education.md) |
 | [PS-26251](../01-Problem-Statements/PS-26251.md) | Indian Army - Predictive Logistics & Forward Supply Chain. | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Transportation & Logis](../02-Themes/Transportation-Logistics.md) |
 | [PS-26255](../01-Problem-Statements/PS-26255.md) | Development of a solution using AI and ML to monitor the fun | [Ministry of Jal Shakti (MoJS](../03-Organizations/Ministry-of-Jal-Shakti-MoJS.md) | Hardware | [Clean & Green Technolo](../02-Themes/Clean-Green-Technology.md) |
+| [PS-26264](../01-Problem-Statements/PS-26264.md) | Integrated Dashboard for Monitoring and Tracking Institution | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
-- [AI-and-ML](./AI-and-ML.md) — 47 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 39 shared problems
+- [AI-and-ML](./AI-and-ML.md) — 48 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 40 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 21 shared problems
 - [NLP](./NLP.md) — 21 shared problems
 - [IoT-and-Sensors](./IoT-and-Sensors.md) — 15 shared problems

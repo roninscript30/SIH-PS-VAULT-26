@@ -4,16 +4,16 @@ tags: [sih2026, dashboard]
 ---
 # 🏠 SIH 2026 — Intelligence Vault Dashboard
 
-> Smart India Hackathon 2026 · **260 Problem Statements** · Connected Knowledge Vault
+> Smart India Hackathon 2026 · **265 Problem Statements** · Connected Knowledge Vault
 
 ## 📊 Quick Overview
 
 | Metric | Count |
 |--------|------:|
-| Total Problem Statements | **260** |
-| Ministry & Nodal Org Problems | **260** |
+| Total Problem Statements | **265** |
+| Ministry & Nodal Org Problems | **265** |
 | Student Innovation Themes | **0** |
-| Software Problems | **191** |
+| Software Problems | **196** |
 | Hardware Problems | **69** |
 | Themes | **17** |
 | Nodal Organizations | **37** |
@@ -37,7 +37,7 @@ tags: [sih2026, dashboard]
 
 | Theme | Total | SW | HW | Link |
 |-------|------:|---:|---:|------|
-| Smart Automation | 57 | 46 | 11 | [Smart Automation](02-Themes/Smart-Automation.md) |
+| Smart Automation | 62 | 51 | 11 | [Smart Automation](02-Themes/Smart-Automation.md) |
 | Blockchain & Cybersecurity | 32 | 30 | 2 | [Blockchain & Cybersecurity](02-Themes/Blockchain-Cybersecurity.md) |
 | Agriculture, FoodTech & Rural Development | 28 | 16 | 12 | [Agriculture, FoodTech & Rural Development](02-Themes/Agriculture,-FoodTech-Rural-Development.md) |
 | Disaster Management | 24 | 22 | 2 | [Disaster Management](02-Themes/Disaster-Management.md) |
@@ -61,7 +61,7 @@ tags: [sih2026, dashboard]
 
 | Organization | Type | Count | Link |
 |-------------|------|------:|------|
-| AICTE | Government | 34 | [AICTE](03-Organizations/AICTE.md) |
+| AICTE | Government | 39 | [AICTE](03-Organizations/AICTE.md) |
 | Ministry of Earth Sciences (MoES) | Government | 30 | [Ministry of Earth Sciences (MoES)](03-Organizations/Ministry-of-Earth-Sciences-MoES.md) |
 | National Technical Research Organisation (NTR | Government | 23 | [National Technical Research Organisation (NTR](03-Organizations/National-Technical-Research-Organisation-NTRO.md) |
 | Ministry of Home Affairs | Government | 13 | [Ministry of Home Affairs](03-Organizations/Ministry-of-Home-Affairs.md) |

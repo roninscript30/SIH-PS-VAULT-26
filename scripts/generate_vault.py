@@ -28,13 +28,13 @@ def gen_readme(problems, vault_root):
     c = f"""# 🇮🇳 Smart India Hackathon (SIH) 2026 — Problem Statement Vault
 
 [![SIH 2026](https://img.shields.io/badge/SIH-2026-orange.svg)]({SOURCE_URL})
-[![Problem Statements](https://img.shields.io/badge/Problems-226-blue.svg)](06-Indexes/all_problems_index.md)
+[![Problem Statements](https://img.shields.io/badge/Problems-{len(problems)}-blue.svg)](06-Indexes/all_problems_index.md)
 [![Software](https://img.shields.io/badge/Software-{sw}-green.svg)](06-Indexes/category_index.md)
 [![Hardware](https://img.shields.io/badge/Hardware-{hw}-red.svg)](06-Indexes/category_index.md)
-[![Themes](https://img.shields.io/badge/Themes-18-purple.svg)](02-Themes/theme_index.md)
-[![Organizations](https://img.shields.io/badge/Organizations-30-yellow.svg)](03-Organizations/organization_index.md)
+[![Themes](https://img.shields.io/badge/Themes-{len(themes)}-purple.svg)](02-Themes/theme_index.md)
+[![Organizations](https://img.shields.io/badge/Organizations-{len(orgs)}-yellow.svg)](03-Organizations/organization_index.md)
 
-Welcome to the **Smart India Hackathon (SIH) 2026 Problem Statement Vault**. This repository provides an offline-ready, hyperlinked knowledge system containing all **226 official problem statements** released for SIH 2026.
+Welcome to the **Smart India Hackathon (SIH) 2026 Problem Statement Vault**. This repository provides an offline-ready, hyperlinked knowledge system containing all **{len(problems)} official problem statements** released for SIH 2026.
 
 Every problem statement has been cleaned, structured, and cross-indexed by **Theme**, **Organization**, **Technology**, **Domain**, and **Category** with 100% relative Markdown links for seamless navigation on GitHub or in Obsidian.
 
@@ -64,7 +64,7 @@ The official SIH website (`sih.gov.in/sih2026PS`) relies on dynamic JavaScript H
 
 | Feature / Capability | Live SIH Web Portal | LLM + Direct Web Search | SIH PS Vault 2026 |
 | :--- | :---: | :---: | :---: |
-| **Complete Dataset Recall (226 PS)** | ⚠️ Manual Page Browsing | ❌ Truncated (Top 10-20 hits) | ✅ **100% Complete & Offline** |
+| **Complete Dataset Recall ({len(problems)} PS)** | ⚠️ Manual Page Browsing | ❌ Truncated (Top 10-20 hits) | ✅ **100% Complete & Offline** |
 | **Multi-Attribute AND Querying**<br>*(e.g., Software + Healthcare + Dataset + Ministry)* | ❌ Impossible (Single dropdown only) | ❌ Fails / Hallucinates | ✅ **Instant JSON / Index Query** |
 | **Derived Technical Taxonomy**<br>*(AI/ML, Computer Vision, GIS, IoT, LiDAR)* | ❌ Not Provided | ⚠️ Unreliable Keyword Matching | ✅ **20 Precomputed Tech Tags** |
 | **Sector Domain Taxonomy**<br>*(Healthcare, Defence, Agriculture, Mining)* | ❌ Not Provided | ⚠️ Unreliable Keyword Matching | ✅ **17 Sector Domain Tags** |
@@ -96,7 +96,7 @@ All AI agents operating on this repository must read and follow:
 
 ### 💡 Efficient Retrieval Best Practice for Agents
 > [!TIP]
-> **Token Optimization**: To avoid sequential scanning of all 226 Markdown files (which consumes ~248k tokens), instruct your agent to query **`data/sih2026_problem_statements.json`** or inspect catalog indices (`04-Technologies/`, `05-Domains/`) first!
+> **Token Optimization**: To avoid sequential scanning of all {len(problems)} Markdown files (which consumes ~250k tokens), instruct your agent to query **`data/sih2026_problem_statements.json`** or inspect catalog indices (`04-Technologies/`, `05-Domains/`) first!
 
 ### 📝 Example Agent Prompts
 
@@ -123,8 +123,8 @@ Explore the vault using any of the hyperlinked catalogs below:
 
 | Catalog | Link | Description |
 |---------|------|-------------|
-| 📋 **All Problem Statements** | [all_problems_index.md](06-Indexes/all_problems_index.md) | Complete master table of all 226 problem statements |
-| 🏷️ **Themes Catalog** | [theme_index.md](02-Themes/theme_index.md) | Browse problems grouped by 18 official themes |
+| 📋 **All Problem Statements** | [all_problems_index.md](06-Indexes/all_problems_index.md) | Complete master table of all {len(problems)} problem statements |
+| 🏷️ **Themes Catalog** | [theme_index.md](02-Themes/theme_index.md) | Browse problems grouped by {len(themes)} official themes |
 | 🏢 **Organizations Catalog** | [organization_index.md](03-Organizations/organization_index.md) | Browse problems by Ministry, PSU, or Industry partner |
 | 🔧 **Technologies Catalog** | [technology_index.md](04-Technologies/technology_index.md) | Browse problems tagged by AI/ML, IoT, GIS, Robotics, etc. |
 | 📊 **Domains Catalog** | [domain_index.md](05-Domains/domain_index.md) | Browse problems by sector (Healthcare, Agriculture, Defence, etc.) |
@@ -151,21 +151,21 @@ SIH-PS-VAULT-26/
 ├── docs/
 │   ├── AGENT-KNOWLEDGE-RULES.md   # AI Agent Knowledge Interpretation Rules
 │   └── ARCHITECTURE.md            # System Architecture & Layered Model
-├── 01-Problem-Statements/         # 226 Problem Statement files (PS-26001.md to PS-26226.md)
+├── 01-Problem-Statements/         # {len(problems)} Problem Statement files (PS-26001.md to PS-{problems[-1]['ps_id']}.md)
 ├── 02-Themes/
 │   ├── theme_index.md             # Master Theme Catalog
-│   └── [18 Theme Files].md
+│   └── [{len(themes)} Theme Files].md
 ├── 03-Organizations/
 │   ├── organization_index.md      # Master Organization Catalog
-│   └── [30 Org Files].md
+│   └── [{len(orgs)} Org Files].md
 ├── 04-Technologies/
 │   ├── technology_index.md        # Master Technology Catalog
 │   └── [20 Tech Files].md
 ├── 05-Domains/
 │   ├── domain_index.md            # Master Domain Classification Index
-│   └── [17 Domain Files].md
+│   └── [16 Domain Files].md
 ├── 06-Indexes/
-│   ├── all_problems_index.md      # Master Table of all 226 Problem Statements
+│   ├── all_problems_index.md      # Master Table of all {len(problems)} Problem Statements
 │   └── category_index.md          # Software vs Hardware problem lists
 └── data/
     ├── sih2026_problem_statements.json  # Ground-truth normalized JSON dataset
@@ -217,7 +217,7 @@ SIH-PS-VAULT-26/
 ## ℹ️ Data Source & Integrity
 
 - **Official Source**: [Smart India Hackathon 2026 Portal]({SOURCE_URL})
-- **Verification**: 100% of 226 problem statement modals scraped, cleaned, and encoding-verified. Zero data loss, truncation, or broken references.
+- **Verification**: 100% of {len(problems)} problem statement modals scraped, cleaned, and encoding-verified. Zero data loss, truncation, or broken references.
 - For technical details on data extraction, see [about_vault.md](00-Meta/about_vault.md).
 
 ---
@@ -400,6 +400,7 @@ def gen_indexes(problems, vault_root):
 
 def gen_meta(problems, vault_root):
     """Generate meta documentation pages."""
+    themes = Counter(p['theme'] for p in problems)
     sub_meta = DIRS['meta']
 
     # about_vault.md
@@ -411,7 +412,7 @@ type: meta
 ## 📌 Data Provenance & Methodology
 - **Official Source**: [{SOURCE_URL}]({SOURCE_URL})
 - **Extraction Technique**: Automated parsing of official SIH modal dialogues
-- **Data Integrity**: 100% of 226 problem statements extracted and verified against live portal.
+- **Data Integrity**: 100% of {len(problems)} problem statements extracted and verified against live portal.
 - **Encoding Repair**: All CP1252/UTF-8 character anomalies repaired.
 
 ## 🗂️ Knowledge Categorization
@@ -422,7 +423,7 @@ type: meta
     _write(vault_root, sub_meta, 'about_vault.md', c)
 
     # vault_user_guide.md
-    c = """---
+    c = f"""---
 type: meta
 ---
 # 🧭 Vault User & Explorer Guide
@@ -430,7 +431,7 @@ type: meta
 ## 🔍 How to Search and Filter
 
 ### 1. By Theme
-Navigate to `02-Themes/theme_index.md` to see all 18 themes (e.g., Disaster Management, Smart Automation, Agriculture).
+Navigate to `02-Themes/theme_index.md` to see all {len(themes)} themes (e.g., Disaster Management, Smart Automation, Agriculture).
 
 ### 2. By Nodal Organization
 Navigate to `03-Organizations/organization_index.md` to view problem statements by Ministry or Industry partner (e.g., ISRO, DRDO, MDoNER, AICTE).
@@ -446,7 +447,7 @@ Navigate to `06-Indexes/category_index.md` to quickly separate Software projects
 
 ## 💻 Obsidian Features
 - Use `Ctrl + O` to quick-open any Problem Statement by ID (e.g. `PS-26001`).
-- Use `Ctrl + Shift + F` for full-text search across all 226 problem statements.
+- Use `Ctrl + Shift + F` for full-text search across all {len(problems)} problem statements.
 - Use **Graph View** (`Ctrl + G`) to visually explore connections between technologies, themes, and organizations.
 """
     _write(vault_root, sub_meta, 'vault_user_guide.md', c)

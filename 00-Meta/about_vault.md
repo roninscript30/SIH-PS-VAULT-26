@@ -6,7 +6,7 @@ type: meta
 ## 📌 Data Provenance & Methodology
 - **Official Source**: [https://www.sih.gov.in/sih2026PS](https://www.sih.gov.in/sih2026PS)
 - **Extraction Technique**: Automated parsing of official SIH modal dialogues
-- **Data Integrity**: 100% of 226 problem statements extracted and verified against live portal.
+- **Data Integrity**: 100% of 265 problem statements extracted and verified against live portal.
 - **Encoding Repair**: All CP1252/UTF-8 character anomalies repaired.
 
 ## 🗂️ Knowledge Categorization

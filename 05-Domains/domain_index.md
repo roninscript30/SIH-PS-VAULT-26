@@ -6,10 +6,10 @@ type: index
 | Domain | Problem Count | Catalog Link |
 |--------|--------------:|--------------|
 | Weather and Climate | 63 | [Weather and Climate](./Weather-and-Climate.md) |
-| E Governance | 57 | [E Governance](./E-Governance.md) |
+| E Governance | 61 | [E Governance](./E-Governance.md) |
 | Disaster Response | 52 | [Disaster Response](./Disaster-Response.md) |
+| Education and Skilling | 51 | [Education and Skilling](./Education-and-Skilling.md) |
 | Agriculture | 48 | [Agriculture](./Agriculture.md) |
-| Education and Skilling | 48 | [Education and Skilling](./Education-and-Skilling.md) |
 | Healthcare | 42 | [Healthcare](./Healthcare.md) |
 | Transportation | 38 | [Transportation](./Transportation.md) |
 | Urban Development | 38 | [Urban Development](./Urban-Development.md) |

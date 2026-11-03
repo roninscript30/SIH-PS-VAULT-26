@@ -1,7 +1,7 @@
 ---
 type: technology
 technology: "Cybersecurity-Tech"
-problem_count: 26
+problem_count: 27
 tags:
   - sih2026
   - technology
@@ -10,7 +10,7 @@ tags:
 
 [← Technology Catalog Index](./technology_index.md)
 
-> **26 Problem Statements** leverage this technology
+> **27 Problem Statements** leverage this technology
 
 ## 📋 Problem Statements
 
@@ -42,11 +42,12 @@ tags:
 | [PS-26230](../01-Problem-Statements/PS-26230.md) | Breath-Based Detection Device for Drug Consumption | [Ministry of Home Affairs](../03-Organizations/Ministry-of-Home-Affairs.md) | Hardware | [MedTech / BioTech / He](../02-Themes/MedTech-BioTech-HealthTech.md) |
 | [PS-26237](../01-Problem-Statements/PS-26237.md) | Cryptographic Attribution and Immutable Decryption Provenanc | [Ministry of Defence](../03-Organizations/Ministry-of-Defence.md) | Software | [Blockchain & Cybersecu](../02-Themes/Blockchain-Cybersecurity.md) |
 | [PS-26248](../01-Problem-Statements/PS-26248.md) | Immersive Multi-Domain Decision-Making Trainer for Degraded  | [Ministry of Defence (MoD)](../03-Organizations/Ministry-of-Defence-MoD.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
+| [PS-26265](../01-Problem-Statements/PS-26265.md) | Streamline of security deposit/ FDR portal. | [AICTE](../03-Organizations/AICTE.md) | Software | [Smart Automation](../02-Themes/Smart-Automation.md) |
 
 ## 🔗 Frequently Co-occurring Technologies
 
 - [AI-and-ML](./AI-and-ML.md) — 17 shared problems
-- [Web-Platforms](./Web-Platforms.md) — 14 shared problems
+- [Web-Platforms](./Web-Platforms.md) — 15 shared problems
 - [Cloud-Computing](./Cloud-Computing.md) — 11 shared problems
 - [Blockchain](./Blockchain.md) — 9 shared problems
 - [GIS-and-Geospatial](./GIS-and-Geospatial.md) — 6 shared problems

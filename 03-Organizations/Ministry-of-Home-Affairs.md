@@ -14,7 +14,7 @@ tags:
 
 > **Type**: Government | **13 Problem Statements** (11 Software, 2 Hardware)
 
-**Departments**: Narcotics Control Bureau, Central Reserve Police Force (CRPF), Police II Division, National Security Guard (NSG), Police II Division, Indian Cyber Crime Coordination Centre (I4C),CIS Division, National Crime Records Bureau (NCRB), Women Safety Division, National Disaster Response Force (NDRF), DM Division, Sashastra Seema Bal (SSB), Police II Division
+**Departments**: Central Reserve Police Force (CRPF), Police II Division, Narcotics Control Bureau, National Security Guard (NSG), Police II Division, Indian Cyber Crime Coordination Centre (I4C),CIS Division, National Crime Records Bureau (NCRB), Women Safety Division, Sashastra Seema Bal (SSB), Police II Division, National Disaster Response Force (NDRF), DM Division
 
 ## 📋 Problem Statements
 

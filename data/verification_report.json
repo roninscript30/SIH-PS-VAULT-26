@@ -1,9 +1,9 @@
 {
-  "verification_timestamp": "2026-10-03T17:12:56.004900",
+  "verification_timestamp": "2026-11-03T20:26:50.111326",
   "source_url": "https://www.sih.gov.in/sih2026PS",
   "dataset_file": "data/sih2026_problem_statements.json",
-  "total_problems": 260,
-  "id_range": "26001-26260",
+  "total_problems": 265,
+  "id_range": "26001-26265",
   "field_mismatches": {
     "ps_id": 0,
     "title": 0,
@@ -13,7 +13,7 @@
     "category": 0,
     "theme": 0
   },
-  "markdown_ps_count": 260,
+  "markdown_ps_count": 265,
   "broken_links_count": 0,
   "orphan_files_count": 0,
   "issues_count": 0,

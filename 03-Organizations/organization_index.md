@@ -5,7 +5,7 @@ type: index
 
 | Organization | Type | Problems | Catalog Link |
 |-------------|------|--------:|--------------|
-| AICTE | Government | 34 | [AICTE](./AICTE.md) |
+| AICTE | Government | 39 | [AICTE](./AICTE.md) |
 | Ministry of Earth Sciences (MoES) | Government | 30 | [Ministry of Earth Sciences (MoES)](./Ministry-of-Earth-Sciences-MoES.md) |
 | National Technical Research Organisation (NTR | Government | 23 | [National Technical Research Organisation (NTR](./National-Technical-Research-Organisation-NTRO.md) |
 | Ministry of Home Affairs | Government | 13 | [Ministry of Home Affairs](./Ministry-of-Home-Affairs.md) |
